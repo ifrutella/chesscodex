@@ -1,6 +1,7 @@
 import { Chess } from '../vendor/chess.min.js';
 import { Chessground } from '../vendor/chessground.min.js';
 import { plain, label } from './lib/helpers.js';
+import { moveInput, boardText, describeBoard } from './lib/move-input.js';
 
 // Opening trainer (/train/<slug>): the user plays one side of a line, the
 // other side's moves are played for them. Lines come from the page (this
@@ -77,9 +78,13 @@ if (node) {
     const board = Chessground($('train-board'), {
         orientation: color,
         coordinates: true,
-        movable: { free: false, showDests: true, events: { after: onMove } },
+        movable: { free: false, showDests: true, events: { after: (orig, dest, meta) => onMove(orig, dest, typeof meta === 'string' ? meta : 'q') } },
         draggable: { showGhost: true },
     });
+
+    // Moves typed under the board go through onMove like the mouse; the status line announces the result.
+    const typed = moveInput('train-move', () => chess, (orig, dest, promotion) => { onMove(orig, dest, promotion); return ''; });
+    const setBoardLabel = describeBoard($('train-board'), 'train-move');
 
     function sync() {
         const turn = chess.turn() === 'w' ? 'white' : 'black';
@@ -92,6 +97,8 @@ if (node) {
             lastMove: last ? [last.from, last.to] : undefined,
             movable: { color: mine ? color : undefined, dests: mine ? dests() : new Map() },
         });
+        typed.setEnabled(mine);
+        setBoardLabel(boardText(last ? label(chess.history().length - 1, last.san) : '', chess.turn()));
         // Full moves, like "3 moves" on the opening page (sans counts plies).
         $('train-progress').textContent = sans.length
             ? `Move ${Math.ceil(Math.min(ply, sans.length) / 2)} of ${Math.ceil(sans.length / 2)}` : '';
@@ -130,8 +137,8 @@ if (node) {
         }, 350);
     }
 
-    function onMove(orig, dest) {
-        const move = chess.move({ from: orig, to: dest, promotion: 'q' });
+    function onMove(orig, dest, promotion) {
+        const move = chess.move({ from: orig, to: dest, promotion });
         if (!move) { sync(); return; }
         if (plain(move.san) === plain(sans[ply])) {
             ply += 1;

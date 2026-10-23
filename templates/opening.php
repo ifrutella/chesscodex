@@ -107,6 +107,8 @@ $baseEsc = htmlspecialchars($baseUrl, ENT_QUOTES, 'UTF-8');
                     <span aria-hidden="true">⇅</span> Flip
                 </button>
             </div>
+            <?php $moveInputId = 'board-move'; require __DIR__ . '/partials/move_input.php'; ?>
+            <p class="visually-hidden" id="board-live" aria-live="polite"></p>
             <p class="board-explore" id="board-explore" aria-live="polite" hidden></p>
             <p class="board-hint"><?= htmlspecialchars(t('opening.board.hint'), ENT_QUOTES, 'UTF-8') ?></p>
         </div>

@@ -1,6 +1,7 @@
 import { Chess } from '../vendor/chess.min.js';
 import { Chessground } from '../vendor/chessground.min.js';
-import { gamePgn } from './lib/helpers.js';
+import { gamePgn, label } from './lib/helpers.js';
+import { moveInput, boardText, describeBoard } from './lib/move-input.js';
 
 const dataNode = document.getElementById('play-data');
 if (dataNode) {
@@ -231,18 +232,7 @@ if (dataNode) {
             color: userColor,
             dests: legalDests(),
             showDests: true,
-            events: {
-                after: (orig, dest) => {
-                    const move = chess.move({ from: orig, to: dest, promotion: 'q' });
-                    if (!move) {
-                        board.set({ fen: chess.fen() });
-                        return;
-                    }
-                    syncBoard();
-                    renderMoveList();
-                    tickGame();
-                },
-            },
+            events: { after: (orig, dest, meta) => onUserMove(orig, dest, typeof meta === 'string' ? meta : 'q') },
         },
         draggable: { showGhost: true },
     });
@@ -251,6 +241,21 @@ if (dataNode) {
     // un-flipped. Calling set() explicitly after init forces the flip and
     // matches what the user's "Play as: Black" pick should produce.
     board.set({ orientation: userColor });
+
+    // A move from the board, or typed into the field under it (same path).
+    function onUserMove(orig, dest, promotion) {
+        const move = chess.move({ from: orig, to: dest, promotion });
+        if (!move) {
+            board.set({ fen: chess.fen() });
+            return;
+        }
+        syncBoard();
+        renderMoveList();
+        tickGame();
+    }
+
+    const typed = moveInput('play-move', () => chess, onUserMove);
+    const setBoardLabel = describeBoard(boardEl, 'play-move');
 
     function syncBoard() {
         const sideToMove = chess.turn() === 'w' ? 'white' : 'black';
@@ -264,6 +269,10 @@ if (dataNode) {
                 dests: sideToMove === userColor ? legalDests() : new Map(),
             },
         });
+        typed.setEnabled(sideToMove === userColor);
+        const plies = openingSans.length + chess.history().length;
+        const lastSan = chess.history().slice(-1)[0] || openingSans[openingSans.length - 1];
+        setBoardLabel(boardText(lastSan ? label(plies - 1, lastSan) : '', chess.turn()));
         // Persist after every position change so a refresh restores us
         // exactly where we left off. clearGame() runs on New game / Resign.
         if (chess.history().length > 0) saveGame();
@@ -383,6 +392,7 @@ if (dataNode) {
         resultEl.hidden = false;
         turnEl.textContent = '';
         board.set({ movable: { color: undefined, dests: new Map() } });
+        typed.setEnabled(false);
     }
 
     // ---------------- Controls -----------------------------------------------
@@ -488,7 +498,7 @@ if (dataNode) {
                 && btnIsNovice === noviceMode;
             b.classList.toggle('is-active', isActive);
             b.setAttribute('aria-checked', isActive ? 'true' : 'false');
-            b.setAttribute('role', 'radio');
+            b.tabIndex = isActive ? 0 : -1;
             if (isActive) activeBtn = b;
         });
         if (activeBtn) {
@@ -528,6 +538,17 @@ if (dataNode) {
             stopEngine();
             tickGame();
         }
+    });
+    // Radio group keyboard pattern: the arrow keys move the choice (and focus) to the next level.
+    diffEl.addEventListener('keydown', (e) => {
+        const step = { ArrowRight: 1, ArrowDown: 1, ArrowLeft: -1, ArrowUp: -1 }[e.key];
+        const radios = [...diffEl.querySelectorAll('[role="radio"]')];
+        const from = radios.indexOf(document.activeElement);
+        if (!step || from < 0) return;
+        e.preventDefault();
+        const to = radios[(from + step + radios.length) % radios.length];
+        to.focus();
+        to.click();
     });
     syncLevelUi();
 

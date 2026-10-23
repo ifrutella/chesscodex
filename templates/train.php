@@ -45,6 +45,7 @@ ob_start();
                 <button id="train-next" type="button">Next line</button>
                 <button id="train-color" type="button">Play the other side</button>
             </div>
+            <?php $moveInputId = 'train-move'; require __DIR__ . '/partials/move_input.php'; ?>
         </div>
         <aside class="play-sidebar">
             <section class="train-panel">
