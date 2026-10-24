@@ -71,6 +71,7 @@ if [ "$MODE" = "--sync" ]; then
 fi
 
 EXT=()
-php -m | grep -qi '^pdo_sqlite$' || EXT=(-d extension=pdo_sqlite -d extension=sqlite3)
+# not `php -m | grep -q`: grep quits early, php gets SIGPIPE and pipefail fails the test
+php -r 'exit(extension_loaded("pdo_sqlite") ? 0 : 1);' || EXT=(-d extension=pdo_sqlite -d extension=sqlite3)
 echo "http://127.0.0.1:$PORT"
 exec php "${EXT[@]}" -d output_buffering=4096 -S "127.0.0.1:$PORT" -t "$DEV" tools/dev/router.php
