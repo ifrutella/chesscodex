@@ -368,6 +368,31 @@ a.eco-tag:hover { color: var(--accent-hover); text-decoration: underline; }
     color: var(--bg-elevated);
 }
 .board-hint { color: var(--muted); font-size: 0.85rem; }
+/* "Your move" field under a board: the keyboard way to play. */
+.move-input { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-1) var(--space-2); max-width: 520px; }
+.move-input label { font-size: 0.85rem; color: var(--fg-soft); font-weight: 600; }
+.move-input input[type="text"] {
+    flex: 1;
+    min-width: 0;
+    padding: var(--space-2) var(--space-3);
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--fg);
+    border-radius: var(--radius);
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    transition: border-color 0.1s, box-shadow 0.1s;
+}
+.move-input input[type="text"]::placeholder { color: var(--muted); opacity: 0.7; }
+.move-input input[type="text"]:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
+}
+.move-input input[type="text"]:disabled { opacity: 0.55; cursor: not-allowed; }
+.move-input input[aria-invalid="true"] { border-color: var(--danger); }
+.move-input-hint, .move-input-msg { flex: 1 0 100%; margin: 0; font-size: 0.85rem; }
+.move-input-hint { color: var(--muted); }
+.move-input-msg { color: var(--fg-soft); min-height: 1.3em; }
 /* Dark theme: chessground's brown squares are made for light pages, so soften
    their brightness and add a soft shadow under the pieces. */
 [data-theme="dark"] .cg-wrap { filter: brightness(0.92) contrast(1.02); }
@@ -536,9 +561,11 @@ html .cg-wrap coords.squares { text-transform: none; }
 }
 .search-by-name-empty { padding: 0.55rem 0.8rem; color: var(--muted); font-style: normal; }
 /* Keyboard-highlighted row in the name autocomplete: matches the hover style,
-   so mouse and arrow keys look the same. */
+   so mouse and arrow keys look the same. The option keeps the focus ring of
+   the input (aria-activedescendant), so it also gets the keyboard outline. */
 .search-by-name-results li.is-active a {
-    outline: none;
+    outline: 2px solid var(--accent);
+    outline-offset: -2px;
     background: var(--accent-soft);
     color: var(--accent);
 }

@@ -61,6 +61,7 @@ $island = [
                 <button id="play-flip" type="button"><?= htmlspecialchars(t('play.button.flip'), ENT_QUOTES, 'UTF-8') ?></button>
                 <button id="play-resign" type="button"><?= htmlspecialchars(t('play.button.resign'), ENT_QUOTES, 'UTF-8') ?></button>
             </div>
+            <?php $moveInputId = 'play-move'; require __DIR__ . '/partials/move_input.php'; ?>
         </div>
 
         <aside class="play-sidebar">
@@ -86,27 +87,27 @@ $island = [
                     <span class="play-current-level-elo"><?= htmlspecialchars(t('play.difficulty.elo', ['elo' => '~1900']), ENT_QUOTES, 'UTF-8') ?></span>
                 </p>
                 <div class="play-difficulty" id="play-difficulty" role="radiogroup" aria-label="Engine difficulty">
-                    <button type="button" data-level="0"  data-mt="100"  data-novice="1" data-name="<?= htmlspecialchars(t('play.diff.novice'), ENT_QUOTES, 'UTF-8') ?>"       data-elo="~600"  data-desc="<?= htmlspecialchars(t('play.diff.novice.desc'), ENT_QUOTES, 'UTF-8') ?>">
+                    <button type="button" role="radio" aria-checked="false" tabindex="-1" data-level="0"  data-mt="100"  data-novice="1" data-name="<?= htmlspecialchars(t('play.diff.novice'), ENT_QUOTES, 'UTF-8') ?>"       data-elo="~600"  data-desc="<?= htmlspecialchars(t('play.diff.novice.desc'), ENT_QUOTES, 'UTF-8') ?>">
                         <span class="diff-name"><?= htmlspecialchars(t('play.diff.novice'), ENT_QUOTES, 'UTF-8') ?></span>
                         <span class="diff-elo">~600</span>
                     </button>
-                    <button type="button" data-level="0"  data-mt="200"  data-name="<?= htmlspecialchars(t('play.diff.beginner'), ENT_QUOTES, 'UTF-8') ?>"     data-elo="~1100" data-desc="<?= htmlspecialchars(t('play.diff.beginner.desc'), ENT_QUOTES, 'UTF-8') ?>">
+                    <button type="button" role="radio" aria-checked="false" tabindex="-1" data-level="0"  data-mt="200"  data-name="<?= htmlspecialchars(t('play.diff.beginner'), ENT_QUOTES, 'UTF-8') ?>"     data-elo="~1100" data-desc="<?= htmlspecialchars(t('play.diff.beginner.desc'), ENT_QUOTES, 'UTF-8') ?>">
                         <span class="diff-name"><?= htmlspecialchars(t('play.diff.beginner'), ENT_QUOTES, 'UTF-8') ?></span>
                         <span class="diff-elo">~1100</span>
                     </button>
-                    <button type="button" data-level="5"  data-mt="500"  data-name="<?= htmlspecialchars(t('play.diff.casual'), ENT_QUOTES, 'UTF-8') ?>"       data-elo="~1500" data-desc="<?= htmlspecialchars(t('play.diff.casual.desc'), ENT_QUOTES, 'UTF-8') ?>">
+                    <button type="button" role="radio" aria-checked="false" tabindex="-1" data-level="5"  data-mt="500"  data-name="<?= htmlspecialchars(t('play.diff.casual'), ENT_QUOTES, 'UTF-8') ?>"       data-elo="~1500" data-desc="<?= htmlspecialchars(t('play.diff.casual.desc'), ENT_QUOTES, 'UTF-8') ?>">
                         <span class="diff-name"><?= htmlspecialchars(t('play.diff.casual'), ENT_QUOTES, 'UTF-8') ?></span>
                         <span class="diff-elo">~1500</span>
                     </button>
-                    <button type="button" data-level="10" data-mt="1000" data-name="<?= htmlspecialchars(t('play.diff.intermediate'), ENT_QUOTES, 'UTF-8') ?>" data-elo="~1900" data-desc="<?= htmlspecialchars(t('play.diff.intermediate.desc'), ENT_QUOTES, 'UTF-8') ?>">
+                    <button type="button" role="radio" aria-checked="true" tabindex="0" data-level="10" data-mt="1000" data-name="<?= htmlspecialchars(t('play.diff.intermediate'), ENT_QUOTES, 'UTF-8') ?>" data-elo="~1900" data-desc="<?= htmlspecialchars(t('play.diff.intermediate.desc'), ENT_QUOTES, 'UTF-8') ?>">
                         <span class="diff-name"><?= htmlspecialchars(t('play.diff.intermediate'), ENT_QUOTES, 'UTF-8') ?></span>
                         <span class="diff-elo">~1900</span>
                     </button>
-                    <button type="button" data-level="15" data-mt="1500" data-name="<?= htmlspecialchars(t('play.diff.strong'), ENT_QUOTES, 'UTF-8') ?>"       data-elo="~2300" data-desc="<?= htmlspecialchars(t('play.diff.strong.desc'), ENT_QUOTES, 'UTF-8') ?>">
+                    <button type="button" role="radio" aria-checked="false" tabindex="-1" data-level="15" data-mt="1500" data-name="<?= htmlspecialchars(t('play.diff.strong'), ENT_QUOTES, 'UTF-8') ?>"       data-elo="~2300" data-desc="<?= htmlspecialchars(t('play.diff.strong.desc'), ENT_QUOTES, 'UTF-8') ?>">
                         <span class="diff-name"><?= htmlspecialchars(t('play.diff.strong'), ENT_QUOTES, 'UTF-8') ?></span>
                         <span class="diff-elo">~2300</span>
                     </button>
-                    <button type="button" data-level="20" data-mt="2500" data-name="<?= htmlspecialchars(t('play.diff.master'), ENT_QUOTES, 'UTF-8') ?>"       data-elo="~2700+" data-desc="<?= htmlspecialchars(t('play.diff.master.desc'), ENT_QUOTES, 'UTF-8') ?>">
+                    <button type="button" role="radio" aria-checked="false" tabindex="-1" data-level="20" data-mt="2500" data-name="<?= htmlspecialchars(t('play.diff.master'), ENT_QUOTES, 'UTF-8') ?>"       data-elo="~2700+" data-desc="<?= htmlspecialchars(t('play.diff.master.desc'), ENT_QUOTES, 'UTF-8') ?>">
                         <span class="diff-name"><?= htmlspecialchars(t('play.diff.master'), ENT_QUOTES, 'UTF-8') ?></span>
                         <span class="diff-elo">~2700+</span>
                     </button>

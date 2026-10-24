@@ -1,6 +1,7 @@
 import { Chess } from '../vendor/chess.min.js';
 import { Chessground } from '../vendor/chessground.min.js';
-import { moveNoOf, updatedLabel, barLabel, compactCount } from './lib/helpers.js';
+import { moveNoOf, updatedLabel, barLabel, compactCount, label } from './lib/helpers.js';
+import { moveInput, boardText, describeBoard } from './lib/move-input.js';
 
 // ----------------------------------------------------------------------
 // Recently viewed openings — passive browser-history-style log of the
@@ -395,6 +396,7 @@ if (!dataNode) {
         const played = moves.map((m, k) => ((ply + k) % 2 === 0 || k === 0 ? moveNoOf(ply + k) : '') + m.san).join(' ');
         exploreEl.hidden = false;
         exploreEl.textContent = 'Off the line: ' + played;
+        announce(label(ply + moves.length - 1, last.san), fen);
         // Which named line these moves reach (one request, the newest wins).
         const all = positions.slice(1, ply + 1).map((p) => p.san).concat(moves.map((m) => m.san));
         const turn = ++exploreLookup;
@@ -431,6 +433,31 @@ if (!dataNode) {
         }
     }
 
+    // The board's text alternative, and a hidden polite line with the move just reached.
+    const setBoardLabel = describeBoard(boardEl, 'board-move');
+    const liveEl = document.getElementById('board-live');
+    let announced = false;   // not for the position the page opens on
+    function announce(lastMove, fen) {
+        setBoardLabel(boardText(lastMove, fen.split(' ')[1]));
+        if (announced && liveEl) liveEl.textContent = lastMove ? lastMove + (fen.split(' ')[1] === 'w' ? ', White to move' : ', Black to move') : 'Starting position';
+        announced = true;
+    }
+
+    // A move from the board, or typed into the field under it (same path).
+    function onBoardMove(orig, dest, promotion) {
+        if (explore) {
+            explore.chess.move({ from: orig, to: dest, promotion });
+            renderExplore();
+            return;
+        }
+        const next = positions[currentIdx + 1];
+        if (next && next.from === orig && next.to === dest) {
+            setPosition(currentIdx + 1);
+        } else {
+            startExplore(currentIdx, { from: orig, to: dest, promotion });
+        }
+    }
+
     const board = Chessground(boardEl, {
         fen: positions[currentIdx].fen,
         coordinates: true,
@@ -440,20 +467,7 @@ if (!dataNode) {
             color: undefined,
             dests: new Map(),
             events: {
-                after: (orig, dest) => {
-                    const promotion = 'q';
-                    if (explore) {
-                        explore.chess.move({ from: orig, to: dest, promotion });
-                        renderExplore();
-                        return;
-                    }
-                    const next = positions[currentIdx + 1];
-                    if (next && next.from === orig && next.to === dest) {
-                        setPosition(currentIdx + 1);
-                    } else {
-                        startExplore(currentIdx, { from: orig, to: dest, promotion });
-                    }
-                },
+                after: (orig, dest, meta) => onBoardMove(orig, dest, typeof meta === 'string' ? meta : 'q'),
             },
         },
         draggable: { showGhost: true },
@@ -499,6 +513,7 @@ if (!dataNode) {
         });
         if (prevBtn) prevBtn.disabled = i === 0;
         if (nextBtn) nextBtn.disabled = i === positions.length - 1;
+        announce(i > 0 ? label(i - 1, positions[i].san) : '', positions[i].fen);
         document.querySelectorAll('.stats-move-btn.is-active').forEach((b) => b.classList.remove('is-active'));
     }
 
@@ -593,6 +608,10 @@ if (!dataNode) {
             setPosition(currentIdx + 1);
         }
     });
+
+    // Moves typed under the board: any legal move, as with the mouse.
+    moveInput('board-move', () => new Chess(explore ? explore.chess.fen() : positions[currentIdx].fen), onBoardMove)
+        .setEnabled(true);
 
     // Land on the final position by default — that's the canonical "result"
     // of the opening; users navigate backward via Reset / arrow keys / move buttons.
