@@ -13,6 +13,7 @@ import { spawn } from 'node:child_process';
 import { join } from 'node:path';
 import { tmpdir } from 'node:os';
 import { readFileSync, writeFileSync } from 'node:fs';
+import { browserPath } from './browser.mjs';
 
 const arg = (name, def) => { const i = process.argv.indexOf('--' + name); return i < 0 ? def : (process.argv[i + 1] ?? true); };
 const PORT = Number(arg('port', process.env.PORT || 8099));
@@ -34,7 +35,7 @@ for (const scheme of ['light', 'dark']) {
 const want = arg('modes') ? String(arg('modes')).split(',') : null;
 const modes = all.filter((m) => !want || want.includes(m.name));
 
-const edge = spawn('C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
+const edge = spawn(browserPath(),
   ['--headless=new', `--remote-debugging-port=${CDP}`, `--user-data-dir=${join(tmpdir(), `axe-profile-${PORT}`)}`, '--disable-gpu', 'about:blank'], { stdio: 'ignore' });
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 let ws;

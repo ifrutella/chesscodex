@@ -26,6 +26,7 @@ import { spawn } from 'node:child_process';
 import { join, resolve } from 'node:path';
 import { tmpdir } from 'node:os';
 import { rmSync, copyFileSync, readFileSync, writeFileSync } from 'node:fs';
+import { browserPath } from './browser.mjs';
 
 const arg = (name, def) => { const i = process.argv.indexOf('--' + name); return i < 0 ? def : (process.argv[i + 1] ?? true); };
 const PORT = Number(arg('port', process.env.PORT || 8099));
@@ -56,7 +57,7 @@ writeFileSync(join(ROOT, 'style.canary.css'), readFileSync(NEW, 'utf8') +
   '@media print{.site-footer,footer{color:red}}\n');
 
 const profile = join(tmpdir(), `cssdiff-profile-${PORT}`);
-const edge = spawn('C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
+const edge = spawn(browserPath(),
   ['--headless=new', `--remote-debugging-port=${CDP}`, `--user-data-dir=${profile}`, '--disable-gpu', 'about:blank'], { stdio: 'ignore' });
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 let ws;

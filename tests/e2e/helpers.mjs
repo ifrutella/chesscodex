@@ -1,7 +1,7 @@
 // Shared by tests/e2e/*.test.mjs: the base URL (local servers only), the
-// installed Microsoft Edge driven through puppeteer-core, and small page helpers.
-import { existsSync } from 'node:fs';
+// installed Edge or Chrome driven through puppeteer-core, and small page helpers.
 import puppeteer from 'puppeteer-core';
+import { browserPath } from '../../tools/dev/browser.mjs';
 
 export const BASE = (process.env.SMOKE_BASE || 'http://127.0.0.1:8099').replace(/\/$/, '');
 const host = new URL(BASE).hostname;
@@ -9,18 +9,8 @@ if (host !== '127.0.0.1' && host !== 'localhost') {
   throw new Error(`tests/e2e drive a real browser and write to localStorage: SMOKE_BASE must be 127.0.0.1 or localhost, got ${host}`);
 }
 
-const EDGE_PATHS = [
-  process.env.EDGE_PATH,
-  'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',
-  'C:/Program Files/Microsoft/Edge/Application/msedge.exe',
-  '/usr/bin/microsoft-edge',
-  '/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge',
-].filter(Boolean);
-
 export function launch() {
-  const executablePath = EDGE_PATHS.find((p) => existsSync(p));
-  if (!executablePath) throw new Error('Microsoft Edge not found; set EDGE_PATH');
-  return puppeteer.launch({ executablePath, headless: true, args: ['--disable-gpu'] });
+  return puppeteer.launch({ executablePath: browserPath(), headless: true, args: ['--disable-gpu'] });
 }
 
 // A fresh browser context (own localStorage, light system theme) with a page that records console
