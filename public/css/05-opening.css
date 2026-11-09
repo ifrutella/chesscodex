@@ -792,5 +792,10 @@ body:not(.has-board) .opening-board:empty { display: none; }
 .opening-answers a { color: var(--accent); }
 .opening-answers a:hover { color: var(--accent-hover); text-decoration: underline; }
 .opening-answers-note { color: var(--muted); }
+/* "Cite this page": last on the page, quiet. */
+.opening-cite { margin-top: var(--space-5); color: var(--muted); font-size: 0.85rem; }
+.opening-cite-title { margin: 0 0 var(--space-2); font-size: 1rem; color: var(--fg-soft); }
+.opening-cite-text { margin: 0 0 var(--space-2); max-width: 75ch; line-height: 1.6; overflow-wrap: anywhere; }
+.opening-cite .opening-tool-btn { min-height: 44px; }
 .answers-move { white-space: nowrap; }
 .answers-move code { font-family: var(--font-moves); font-size: .85rem; color: var(--fg-soft); }

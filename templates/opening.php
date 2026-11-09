@@ -25,6 +25,7 @@ ob_start();
     'movePairs'          => $movePairs,
     'shareUrl'           => $shareUrl,
     'shareText'          => $shareText,
+    'citation'           => $citation,
     'ownSide'            => $ownSide,
     'stats'              => $stats,
     'statsTotal'         => $statsTotal,
@@ -292,6 +293,13 @@ $baseEsc = htmlspecialchars($baseUrl, ENT_QUOTES, 'UTF-8');
 
 
     <?php require __DIR__ . '/partials/opening_lines.php'; ?>
+
+    <section class="opening-cite" aria-labelledby="opening-cite-title">
+        <h2 id="opening-cite-title" class="opening-cite-title">Cite this page</h2>
+        <p class="opening-cite-text" id="opening-cite-text"><?= htmlspecialchars($citation, ENT_QUOTES, 'UTF-8') ?></p>
+        <button type="button" class="opening-tool-btn" data-cite-copy aria-describedby="opening-cite-text">
+            <span aria-hidden="true">⎘</span> Copy citation</button>
+    </section>
 </article>
 
 <aside class="recent-strip" id="recent-strip" hidden aria-label="Recently viewed openings">

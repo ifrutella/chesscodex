@@ -32,6 +32,7 @@ $baseEsc  = htmlspecialchars($baseUrl, ENT_QUOTES, 'UTF-8');
                 ['/openings', 'List of chess openings A–Z', $totalFmt . ' named lines'],
                 ['/eco', 'ECO codes', 'A00 to E99'],
                 ['/popular-openings', 'Most popular openings', 'top 100 on Lichess'],
+                ['/train', 'Opening trainer', 'play the moves from memory'],
             ] as [$href, $label, $note]): ?>
             <a href="<?= $baseEsc . htmlspecialchars($href, ENT_QUOTES, 'UTF-8') ?>">
                 <span class="masthead-browse-label"><?= htmlspecialchars($label, ENT_QUOTES, 'UTF-8') ?></span>

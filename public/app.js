@@ -152,6 +152,21 @@ async function copyToClipboard(text) {
     if (!ok) throw new Error('copy failed');
 }
 
+// "Copy citation" under the opening page.
+(function () {
+    const btn = document.querySelector('[data-cite-copy]');
+    const text = document.getElementById('opening-cite-text');
+    if (!btn || !text) return;
+    btn.addEventListener('click', async () => {
+        try {
+            await copyToClipboard(text.textContent.trim());
+            Toast.show('Citation copied');
+        } catch {
+            Toast.show('Copy failed — your browser blocked clipboard access', 'error');
+        }
+    });
+})();
+
 // Share "Copy link" button — uses the Toast helper for feedback instead of
 // mutating its own label. Cleaner, screen-reader friendly.
 (function () {

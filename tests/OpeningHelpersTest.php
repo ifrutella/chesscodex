@@ -166,4 +166,19 @@ final class OpeningHelpersTest extends TestCase
         $this->assertSame('Spanish Opening', Opening::titleAlias('Ruy Lopez'));
         $this->assertNull(Opening::titleAlias('Definitely Not An Opening'));
     }
+
+    #[TestDox('citation: site, line with ECO, Lichess date only when the page has numbers, URL')]
+    public function testCitation(): void
+    {
+        $url = 'https://chesscodex.org/openings/sicilian-defense-najdorf-variation';
+        $this->assertSame(
+            'Caissa Codex. “Sicilian Defense: Najdorf Variation (B90)”. Lichess data as of 5 Nov 2026. ' . $url,
+            OpeningPage::citation('Sicilian Defense: Najdorf Variation', 'B90', $url, '2026-11-05 03:12:40'),
+        );
+        $this->assertSame(
+            'Caissa Codex. “Sicilian Defense: Najdorf Variation (B90)”. ' . $url,
+            OpeningPage::citation('Sicilian Defense: Najdorf Variation', 'B90', $url, null),
+            'no date without Lichess numbers',
+        );
+    }
 }

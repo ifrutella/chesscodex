@@ -153,6 +153,8 @@ class OpeningPage
             ],
         ];
 
+        $cachedAt = $statsTotal > 0 && !empty($stats['cached_at']) ? (string) $stats['cached_at'] : null;
+
         return [
             'title'              => $title,
             'lineTail'           => $lineTail,
@@ -168,6 +170,7 @@ class OpeningPage
             // Share and export — no third-party JS, no tracking.
             'shareUrl'           => $canonical,
             'shareText'          => $o['name'] . ' (' . $o['eco'] . ') — Caissa Codex',
+            'citation'           => self::citation((string) $o['name'], (string) $o['eco'], $canonical, $cachedAt),
             // The side that makes the line's last move is the one choosing it.
             'ownSide'            => $plies % 2 === 1 ? 'white' : 'black',
             'stats'              => $stats,
@@ -196,8 +199,20 @@ class OpeningPage
             'canonical'          => $canonical,
             'noindex'            => !Opening::indexedLine(!empty($o['description']), Opening::lineRank($o), (string) $o['slug']),
             'description'        => $description,
-            'jsonLd'             => self::jsonLd($o, $parent, $title, $aliases, $description, $canonical, $siteUrl . $diagramUrl, $ecoGroupLabel, $baseUrl, $siteUrl, $statsTotal > 0 && !empty($stats['cached_at']) ? (string) $stats['cached_at'] : null),
+            'jsonLd'             => self::jsonLd($o, $parent, $title, $aliases, $description, $canonical, $siteUrl . $diagramUrl, $ecoGroupLabel, $baseUrl, $siteUrl, $cachedAt),
         ];
+    }
+
+    /**
+     * One line for "Cite this page", the form other sites already quote:
+     * site, line, the date of the Lichess numbers (when the page has them), URL.
+     */
+    public static function citation(string $name, string $eco, string $url, ?string $cachedAt): string
+    {
+        $date = $cachedAt !== null
+            ? ' Lichess data as of ' . (new DateTimeImmutable($cachedAt))->format('j M Y') . '.'
+            : '';
+        return t('site.name') . '. “' . $name . ' (' . $eco . ')”.' . $date . ' ' . $url;
     }
 
     /**
