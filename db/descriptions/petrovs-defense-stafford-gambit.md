@@ -20,19 +20,19 @@ After 4.Nxc6 dxc6, White's main continuations are:
 
 **Strengths**
 
-- Numerous traps that have proved effective under fast time controls.
-- Rapid development, open diagonals for the bishops and immediate pressure on White's kingside.
+- Many traps. Unprepared opponents lose quickly, especially in blitz and bullet.
+- Simple plans for Black: fast development and pressure on f2.
 - It takes White out of normal Petrov theory from move three.
 
 **Weaknesses**
 
 - Objectively unsound: engines rate the position about +1.5 to +2 for White.
-- Precise play by White, often with c3 and d4 against the bishop on c5, leaves Black without compensation for the pawn.
+- Well-prepared opponents simply keep the pawn and develop normally.
 - In classical games it is generally considered unsuitable for serious use.
 
 ### Who should play it
 
-The Stafford is a surprise weapon for fast online games, where White's most natural-looking moves often lose. High-level players consider it unsound for classical chess.
+The Stafford is a fast-chess weapon for players who enjoy traps and quick attacks and don't mind being objectively worse. It works best against opponents who make "natural" moves without checking tactics. Against prepared players, or in slow games, a solid defence such as the main-line [Petrov](/openings/petrovs-defense) is the better choice.
 
 ### The numbers
 

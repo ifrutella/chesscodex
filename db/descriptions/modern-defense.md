@@ -19,17 +19,18 @@ Black plays ...g6 and ...Bg7 and delays developing the knight to f6. That is the
 
 **Strengths**
 
-- Flexible and tough, with transpositions to the Pirc, the King's Indian and the Sicilian.
+- Very flexible, with less forcing theory than most defences to 1.e4.
+- It provokes White into aggressive setups that can become overextended.
+- Rich, unbalanced middlegames with chances for both sides.
 
 **Weaknesses**
 
-- White is allowed the "ideal" centre with pawns on d4 and e4.
-- Delaying ...Nf6 gives White extra options such as c2–c3 and the lines with c4.
-- It has provoked some very aggressive replies, such as the Monkey's Bum.
+- White gets a big centre and plenty of space. If Black's counterattack is late, Black is squeezed.
+- White's extra options (c3, c4, early f4 or Be3 and Qd2) require Black to know several structures.
 
 ### Who should play it
 
-The Modern suits players who are happy to let White build the centre and attack it later, and who like to keep their options open.
+The Modern suits creative, counterattacking players who like to keep options open and are comfortable in cramped positions. It is effective against players who overextend or play on autopilot. It is less comfortable against patient opponents who build a solid centre and wait.
 
 ### The numbers
 

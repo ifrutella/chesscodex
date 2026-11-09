@@ -20,18 +20,19 @@ After 2.dxe5 Nc6 3.Nf3 Qe7, Black goes after the e5-pawn and meets 4.Bf4 with th
 
 **Strengths**
 
-- An open game with tactical chances instead of the closed queen's pawn openings.
-- Unlike the Budapest and Albin gambits it does not depend on White playing 2.c4, so it is easier to get on the board.
+- Many traps that catch unprepared opponents in fast games.
+- It takes White out of normal 1.d4 theory at once.
+- An open game with active piece play from the first moves.
 
 **Weaknesses**
 
 - The gambit is considered weak: Boris Avrukh writes that 1...e5 "seems to me the worst possible reply to White's first move".
-- With careful play White should get a greater advantage than against the Budapest or the Albin.
+- With careful play, White keeps the better position.
 - Almost never played at master level.
 
 ### Who should play it
 
-The Englund is for players who want an open, tactical game against 1.d4 and accept that the gambit is considered weak.
+The Englund is a surprise weapon for blitz and bullet players who enjoy traps and don't mind being objectively worse. It works against opponents who grab material and fall for the Qb4+ tricks. In serious games, a sound defence like the [Queen's Gambit Declined](/openings/queens-gambit-declined) or the [King's Indian](/openings/kings-indian-defense) is a better choice.
 
 ### The numbers
 

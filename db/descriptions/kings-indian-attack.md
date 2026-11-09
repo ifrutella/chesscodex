@@ -18,17 +18,19 @@ White aims for the same set-up against various defences: Nf3, g3, Bg2, O-O, d3, 
 
 **Strengths**
 
-- A universal system: the same set-up and repeatable middlegame plans against various defences.
-- A kingside attack launched from a stable position.
+- One setup against almost everything, with very little theory to learn.
+- Clear attacking plans with e5 and a kingside pawn storm.
+- A safe king position and a flexible middlegame.
 
 **Weaknesses**
 
-- Relatively uncommon at grandmaster level today.
-- Considered less effective against Sicilian lines with 2...d6 or 2...Nc6: with a black pawn on d6 the push e4–e5 creates no bind, and a pawn on e5 prevents it.
+- Objectively modest: Black equalises easily with sensible play.
+- Black's queenside counterplay can arrive before White's attack.
+- Its predictability allows well-prepared opponents to choose the most unpleasant setup.
 
 ### Who should play it
 
-The KIA suits players who want a universal system with White and like to attack on the kingside from a closed, stable position. It is most often used against setups with an early ...e6.
+The KIA suits players who want a universal system with White, prefer understanding to memorising, and like kingside attacks in closed positions. It is effective against French- and Sicilian-type setups with ...e6. It is less effective against opponents who build a solid ...d5 and ...c6 centre and aim for quiet equality.
 
 ### The numbers
 

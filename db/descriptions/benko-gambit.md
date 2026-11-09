@@ -20,6 +20,7 @@ After 4.cxb5 a6 5.bxa6 Bxa6, Black fianchettoes the dark-squared bishop. For the
 
 **Strengths**
 
+- Clear, long-term plans for Black. Understanding matters more than memorising.
 - Good practical chances to play for a win, especially at amateur level.
 - The compensation often lasts into the endgame, which is unusual for a gambit.
 
@@ -31,7 +32,7 @@ After 4.cxb5 a6 5.bxa6 Bxa6, Black fianchettoes the dark-squared bishop. For the
 
 ### Who should play it
 
-The Benko suits positional players who like long-term pressure and don't mind being a pawn down.
+The Benko suits positional players who like long-term pressure and don't mind being a pawn down. It is effective against White players who grab material and then struggle to untangle the queenside. It is less effective against opponents who decline it or give the pawn back early.
 
 ### The numbers
 

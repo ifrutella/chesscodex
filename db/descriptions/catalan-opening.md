@@ -18,18 +18,19 @@ White combines the d4 and c4 pawns of the Queen's Gambit with a kingside fianche
 
 **Strengths**
 
-- Usually a positional opening, thought to give White a small advantage with precise play.
+- Safe and solid for White, with long-lasting pressure and few risks.
 - Played in the world championship matches of 2006, 2010 and 2021.
+- Positions are mostly strategic, although the theory is extensively developed and some lines are forcing.
 
 **Weaknesses**
 
-- The c4-pawn is left vulnerable, and in the Open Catalan Black can take it and try to hold on to it with ...b5.
-- The theory is extensively developed, and some lines are tactical or forcing.
-- The 3.g3 move order lets Black choose a Modern Benoni in which White's fianchetto is not very critical.
+- Black has solid ways to equalise, and the pressure can fizzle out if White plays without a plan.
+- The Open Catalan needs concrete knowledge about how to win back the c4-pawn.
+- It is slow: players who want quick attacks may find it dull.
 
 ### Who should play it
 
-The Catalan suits 1.d4 players who like positional play and long-term queenside pressure and are ready to learn a well-developed body of theory.
+The Catalan suits positional 1.d4 players who like long-term pressure, endgames and piece play, and who want an opening that also works at the top. It is effective against players who defend passively or don't know how to free the c8-bishop. It is less effective against well-prepared opponents who know the Open Catalan and give the pawn back at the right time.
 
 ### The numbers
 

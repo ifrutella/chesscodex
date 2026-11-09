@@ -30,7 +30,7 @@ Black challenges d4 at once. After 2.d5 Black has a few extra options, such as a
 
 ### Who should play it
 
-The Old Benoni suits Black players who like Benoni structures and want to challenge the d4-pawn on the first move.
+The Old Benoni suits Black players who like Benoni and Sicilian-type structures and want an unusual, early fight against 1.d4.
 
 ### The numbers
 
