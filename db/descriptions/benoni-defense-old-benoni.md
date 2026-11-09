@@ -8,7 +8,7 @@ The Old Benoni is sometimes called the Blackburne Defense after Joseph Henry Bla
 
 ### The idea
 
-Black challenges d4 at once. After 2.d5 Black can play for a blocked centre with ...e5 or ...d6 and ...g6, much as in other Benoni systems. White's alternatives promise little: 2.dxc5 e6 gives no advantage, and 2.e4 transposes to a [Smith-Morra Gambit](/openings/sicilian-defense-smith-morra-gambit), also equal at best.
+Black challenges d4 at once. After 2.d5 Black has a few extra options, such as an early ...f5 or an exchange of dark-squared bishops by ...Be7–g5. Because White has not played c4, White has more options too, and often plays Nc3 with the pawn still on c2, which allows an earlier e4. White's alternatives promise little: 2.dxc5 e6 gives no advantage, and 2.e4 transposes to a [Smith-Morra Gambit](/openings/sicilian-defense-smith-morra-gambit), also equal at best.
 
 ### Main lines
 
@@ -30,8 +30,13 @@ Black challenges d4 at once. After 2.d5 Black can play for a blocked centre with
 
 ### Who should play it
 
-The Old Benoni suits Black players who like Benoni and Sicilian-type structures and want an unusual, early fight against 1.d4.
+The Old Benoni suits Black players who like Benoni structures and want to challenge the d4-pawn on the first move.
 
 ### The numbers
 
 On Lichess the results are almost exactly even: White 47.7%, Black 47.6%. Black is slightly ahead at 1400–1799 (48.3% against 48.0%) and at 1800–2199 (47.7% against 47.5%); White leads under 1400 (48.7% against 47.7%) and from 2200 up (48.3% against 45.0%). In about 8,800 master games White won 42.0%, Black 26.7%, and 31.3% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Benoni Defense](https://en.wikipedia.org/w/index.php?title=Benoni_Defense&oldid=1367149699), version of 1 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Benoni_Defense_Old_Benoni), figures collected from September to November 2026.

@@ -792,6 +792,9 @@ body:not(.has-board) .opening-board:empty { display: none; }
 .opening-answers a { color: var(--accent); }
 .opening-answers a:hover { color: var(--accent-hover); text-decoration: underline; }
 .opening-answers-note { color: var(--muted); }
+/* "Sources" of the description: above "Cite this page" and as quiet. */
+.opening-sources { margin-top: var(--space-5); color: var(--muted); font-size: 0.85rem; }
+.opening-sources ul { margin: 0; padding-left: var(--space-5); max-width: 75ch; line-height: 1.6; overflow-wrap: anywhere; }
 /* "Cite this page": last on the page, quiet. */
 .opening-cite { margin-top: var(--space-5); color: var(--muted); font-size: 0.85rem; }
 .opening-cite-title { margin: 0 0 var(--space-2); font-size: 1rem; color: var(--fg-soft); }

@@ -40,6 +40,7 @@ ob_start();
     'overviewHtml'       => $overviewHtml,
     'renderedDesc'       => $renderedDesc,
     'toc'                => $toc,
+    'sourcesHtml'        => $sourcesHtml,
     'answersTitle'       => $answersTitle,
     'answersHtml'        => $answersHtml,
     'whiteToMove'        => $whiteToMove,
@@ -293,6 +294,13 @@ $baseEsc = htmlspecialchars($baseUrl, ENT_QUOTES, 'UTF-8');
 
 
     <?php require __DIR__ . '/partials/opening_lines.php'; ?>
+
+    <?php if ($sourcesHtml !== ''): ?>
+    <section class="opening-sources" aria-labelledby="opening-sources-title">
+        <h2 id="opening-sources-title" class="opening-cite-title">Sources</h2>
+        <?= $sourcesHtml ?>
+    </section>
+    <?php endif; ?>
 
     <section class="opening-cite" aria-labelledby="opening-cite-title">
         <h2 id="opening-cite-title" class="opening-cite-title">Cite this page</h2>

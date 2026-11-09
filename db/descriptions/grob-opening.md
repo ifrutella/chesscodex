@@ -34,3 +34,8 @@ The Grob is a surprise weapon for players who enjoy tricky, offbeat positions. A
 ### The numbers
 
 On Lichess Black does better under 1400, 50.7% against 44.3%, but White leads at 1400–1799 (48.7% against 47.6%) and 1800–2199 (49.1% against 46.9%), and the results are level from 2200 up (47.5% against 46.8%). There are fewer than 200 master games, too few to draw firm conclusions.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Grob's Attack](https://en.wikipedia.org/w/index.php?title=Grob%27s_Attack&oldid=1382952068), version of 31 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Grob_Opening), figures collected from September to November 2026.

@@ -94,7 +94,8 @@ class OpeningPage
         }
 
         $lead = !empty($o['description']) ? Opening::leadSentence((string) $o['description']) : null;
-        [$renderedDesc, $toc] = !empty($o['description']) ? self::descriptionHtml((string) $o['description']) : ['', []];
+        [$descBody, $sourcesMd] = self::splitSources((string) ($o['description'] ?? ''));
+        [$renderedDesc, $toc] = $descBody !== '' ? self::descriptionHtml($descBody) : ['', []];
 
         // How the side to move answers the line, from the same Lichess numbers:
         // the reply that scores best, the most played one and the lowest of the
@@ -186,6 +187,7 @@ class OpeningPage
             'overviewHtml'       => self::overviewHtml($o, $parent, $children, $descendantCount, $baseUrl, $ecoGroupLabel, $stats, $statsTotal, [$wPct, $dPct, $bPct]),
             'renderedDesc'       => $renderedDesc,
             'toc'                => $toc,
+            'sourcesHtml'        => $sourcesMd !== '' ? self::descriptionHtml($sourcesMd)[0] : '',
             'answersTitle'       => $answersTitle,
             'answersHtml'        => $answersHtml,
             'whiteToMove'        => $whiteToMove,
@@ -368,6 +370,18 @@ class OpeningPage
             $overview[] = $sentence;
         }
         return '<p>' . implode('</p><p>', $overview) . '</p>';
+    }
+
+    /**
+     * A description's closing "### Sources" list is printed apart from the
+     * text, above "Cite this page": [the text without it, the list as Markdown].
+     *
+     * @return array{0: string, 1: string}
+     */
+    public static function splitSources(string $markdown): array
+    {
+        $parts = preg_split('/^###\s+Sources\s*$/m', $markdown, 2) ?: [$markdown];
+        return [rtrim($parts[0]), trim($parts[1] ?? '')];
     }
 
     /**

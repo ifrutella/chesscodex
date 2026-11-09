@@ -160,6 +160,33 @@ final class OpeningHelpersTest extends TestCase
         $this->assertSame('Is it good?', Opening::leadSentence('Is it good? Yes.'), 'question mark before a capital ends the sentence');
     }
 
+    #[TestDox('splitSources: the closing "### Sources" list leaves the text; none, CRLF, "Sources" inside a heading')]
+    public function testSplitSources(): void
+    {
+        $this->assertSame(['Text.', ''], OpeningPage::splitSources("Text.\n"));
+        $this->assertSame(["Text.\n\n### The numbers\n\nN.", '- A [b](https://c).'],
+            OpeningPage::splitSources("Text.\n\n### The numbers\n\nN.\n\n### Sources\n\n- A [b](https://c).\n"));
+        $this->assertSame(['Text.', '- A.'], OpeningPage::splitSources("Text.\r\n\r\n### Sources\r\n\r\n- A.\r\n"));
+        $this->assertSame(["### Sources of the name\n\nText.", ''], OpeningPage::splitSources("### Sources of the name\n\nText."));
+    }
+
+    #[TestDox('db/descriptions: a Sources list is the last section, one "- " line per source, with a fixed Wikipedia version')]
+    public function testDescriptionSources(): void
+    {
+        $withSources = 0;
+        foreach (glob(__DIR__ . '/../db/descriptions/*.md') ?: [] as $file) {
+            [, $sources] = OpeningPage::splitSources((string) file_get_contents($file));
+            if ($sources === '') continue;
+            $withSources++;
+            $name = basename($file);
+            $this->assertMatchesRegularExpression('~\]\(https://en\.wikipedia\.org/w/index\.php\?title=[^&)]+&oldid=\d+\)~', $sources, $name);
+            foreach (preg_split('/\R+/', $sources) ?: [] as $line) {
+                $this->assertStringStartsWith('- ', $line, $name . ': only list lines after "### Sources"');
+            }
+        }
+        $this->assertGreaterThan(0, $withSources);
+    }
+
     #[TestDox('titleAlias: the first alias with a word the name lacks, else null')]
     public function testTitleAlias(): void
     {

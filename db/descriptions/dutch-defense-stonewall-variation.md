@@ -23,3 +23,8 @@ The Stonewall suits Black players who want a fixed pawn structure against 1.d4 w
 ### The numbers
 
 In 37,434 rated Lichess games between players rated 1600 and 2500 that reached this position, White won 50.5%, Black 41.9%, and 7.6% were drawn. After 7.Nc3 c6 the figures over 150,082 games are 50.1% for White, 42.7% for Black and 7.2% draws.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Dutch Defence](https://en.wikipedia.org/w/index.php?title=Dutch_Defence&oldid=1356336101), version of 27 May 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Dutch_Defense_Stonewall_Variation), figures collected from September to November 2026.
