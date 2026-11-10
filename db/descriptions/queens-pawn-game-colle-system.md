@@ -1,12 +1,12 @@
-The Colle System (1.d4 d5 2.Nf3 Nf6 3.e3, followed by Bd3, c3 and Nbd2) is a simple, solid system for White. Its main theme is a well-timed e3–e4 push that opens the centre and often leads to a kingside attack.
+The Colle System (1.d4 d5 2.Nf3 Nf6 3.e3, followed by Bd3, c3 and Nbd2) is a simple, solid system for White. Its main theme is a well-timed e3–e4 push.
 
 ### Origins
 
-The system is named after the Belgian master Edgard Colle, who popularised it in the 1920s and finished ahead of Tartakower, Euwe and Rubinstein in tournaments at various times. George Koltanowski developed it further, so it is also called the Colle–Koltanowski System. Colle's 1930 game against O'Hanlon, with a Greek gift sacrifice Bxh7+, is a famous example. In modern times it has appeared in world championship play: Magnus Carlsen lost his only game with White in five title matches with it in 2016, and Ding Liren won game 12 of the 2023 World Championship with it. Wei Yi used it successfully at Tata Steel 2024.
+The system is named after the Belgian master Edgard Colle, who popularised it in the 1920s and finished ahead of Tartakower, Euwe and Rubinstein in tournaments at various times. George Koltanowski developed it further, so it is also called the Colle–Koltanowski System. Colle's 1930 game against O'Hanlon, with a Greek gift sacrifice Bxh7+, is a famous example. In modern times it has appeared in world championship play: Magnus Carlsen lost his only game with White in five title matches with the Colle–Zukertort in 2016, and Ding Liren won game 12 of the 2023 World Championship with it. Wei Yi used it successfully at Tata Steel 2024.
 
 ### The idea
 
-White builds a solid pyramid: pawns on c3, d4 and e3, the bishop on d3 and the knights on f3 and d2. The key plan is e3–e4, prepared with Nbd2, O-O, Re1 or Qe2, which opens lines for the pieces. If Black castles short, the Bd3 aims at h7, and the Greek gift sacrifice Bxh7+ is a typical theme. Unlike the [London System](/openings/queens-pawn-game-london-system), the dark-squared bishop stays behind the e3-pawn at first.
+White builds a solid pyramid: pawns on c3, d4 and e3, the bishop on d3 and the knights on f3 and d2. The key plan is e3–e4, prepared with Nbd2, O-O and Re1, so that the bishop, the knight and the rook all defend e4. If Black castles short, the Bd3 aims at h7, and the Greek gift sacrifice Bxh7+ can follow, as in Colle–O'Hanlon. Unlike the [London System](/openings/queens-pawn-game-london-system), the dark-squared bishop stays behind the e3-pawn at first.
 
 ### Main lines
 
@@ -36,3 +36,8 @@ The Colle suits beginners and club players who want a simple, reliable system wi
 ### The numbers
 
 On Lichess the Colle is balanced: White wins 48.5–50% and Black 45.5–46% below 2200, and 47% against 44% above it. In master games over the board (about 5,600 games) Black actually wins slightly more often: White wins 26%, Black 27% and 47% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Colle System](https://en.wikipedia.org/w/index.php?title=Colle_System&oldid=1356318765), version of 27 May 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Pawn_Game_Colle_System), figures collected from September to November 2026.
