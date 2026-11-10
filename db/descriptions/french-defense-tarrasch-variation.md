@@ -39,3 +39,8 @@ The Tarrasch suits White players who want a solid, positional answer to the Fren
 ### The numbers
 
 On Lichess White leads at every level: 52.4% against 44.4% under 1400, 52.4% against 43.6% at 1400–1799, 50.7% against 43.8% at 1800–2199 and 48.7% against 43.3% from 2200 up. In about 43,700 master games White won 35.7%, Black 22.2%, and 42.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [French Defence](https://en.wikipedia.org/w/index.php?title=French_Defence&oldid=1380968956), version of 19 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/French_Defense_Tarrasch_Variation), figures collected from September to November 2026.

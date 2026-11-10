@@ -12,4 +12,9 @@ After 4.e5 Nfd7 Black attacks White's centre with ...c5 and, in the main line, .
 
 ### The numbers
 
-On Lichess White wins 51.4% of the 3.4 million games and Black 43.6%. White's lead is similar under 1400, 51.1% against 45.8%, and from 2200 up, 50.7% against 42.7%. In 13,304 master games over the board White won 41.6%, Black 23.4%, and 35.0% were drawn.
+On Lichess White wins 51.4% of the 3.4 million games and Black 43.6%. White leads 51.1% against 45.8% under 1400 and 50.7% against 42.7% from 2200 up. In 13,304 master games over the board White won 41.6%, Black 23.4%, and 35.0% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [French Defence](https://en.wikipedia.org/w/index.php?title=French_Defence&oldid=1380968956), version of 19 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/French_Defense_Tarrasch_Variation_Closed_Variation), figures collected from September to November 2026.

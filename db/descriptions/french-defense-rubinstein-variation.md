@@ -13,4 +13,9 @@ After 3...dxe4 4.Nxe4 Black has two main set-ups.
 
 ### The numbers
 
-On Lichess White wins 50.7% of the 4.5 million games and Black 43.4%. The split hardly changes with rating: 49.6% against 46.1% under 1400, and 49.3% against 41.9% from 2200 up. Masters over the board draw half their games: in 5,832 games 49.8% were drawn, White won 36.0% and Black 14.2%.
+On Lichess White wins 50.7% of the 4.5 million games and Black 43.4%. White leads at every level: 49.6% against 46.1% under 1400, and 49.3% against 41.9% from 2200 up. Masters over the board draw half their games: in 5,832 games 49.8% were drawn, White won 36.0% and Black 14.2%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [French Defence](https://en.wikipedia.org/w/index.php?title=French_Defence&oldid=1380968956), version of 19 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/French_Defense_Rubinstein_Variation), figures collected from September to November 2026.

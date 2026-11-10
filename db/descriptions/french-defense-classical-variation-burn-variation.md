@@ -16,4 +16,9 @@ The other main fourth move for Black is 4...Bb4, the [McCutcheon Variation](/ope
 
 ### The numbers
 
-On Lichess White wins 50.3% of the 832,000 games and Black 43.1%. Under 1400 the gap is small, 49.8% against 46.1%; from 2200 up White leads 50.0% to 41.3%. Masters over the board draw about half their games: in 6,463 games 49.5% were drawn, White won 28.5% and Black 22.0%.
+On Lichess White wins 50.3% of the 831,721 games and Black 43.1%. Under 1400 the gap is small, 49.8% against 46.1%; from 2200 up White leads 50.0% to 41.3%. Masters over the board draw about half their games: in 6,463 games 49.5% were drawn, White won 28.5% and Black 22.0%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [French Defence](https://en.wikipedia.org/w/index.php?title=French_Defence&oldid=1380968956), version of 19 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/French_Defense_Classical_Variation_Burn_Variation), figures collected from September to November 2026.
