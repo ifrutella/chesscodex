@@ -35,3 +35,8 @@ The Modern Variation suits Black players who like the Scandinavian but prefer qu
 ### The numbers
 
 On Lichess Black does better below 2200: 48.8% against 47.5% under 1400, 49.1% against 46.8% at 1400–1799 and 48.1% against 46.7% at 1800–2199. From 2200 up White leads, 47.4% against 45.5%. In about 6,900 master games White won 41.0%, Black 24.5%, and 34.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Scandinavian Defense](https://en.wikipedia.org/w/index.php?title=Scandinavian_Defense&oldid=1383150160), version of 1 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Scandinavian_Defense_Modern_Variation), figures collected from September to November 2026.

@@ -29,3 +29,8 @@ The Main Line suits Black players who want a solid, structurally sound answer to
 ### The numbers
 
 On Lichess White leads under 1400, 50.4% against 46.2%, but Black is ahead at 1400–1799 (48.4% against 47.7%) and at 1800–2199 (48.0% against 47.0%). From 2200 up White leads again, 47.5% against 45.6%. In about 7,800 master games White won 38.6%, Black 23.8%, and 37.6% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Scandinavian Defense](https://en.wikipedia.org/w/index.php?title=Scandinavian_Defense&oldid=1383150160), version of 1 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Scandinavian_Defense_Main_Line), figures collected from September to November 2026.

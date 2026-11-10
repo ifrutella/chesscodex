@@ -34,3 +34,8 @@ The Mieses-Kotroc suits Black players who want a straightforward answer to 1.e4 
 ### The numbers
 
 On Lichess White's lead shrinks as ratings rise: 53.5% against 42.3% under 1400, 50.6% against 45.0% at 1400–1799, 48.7% against 46.0% at 1800–2199 and 47.5% against 45.0% from 2200 up. In about 16,600 master games White won 37.8%, Black 23.9%, and 38.3% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Scandinavian Defense](https://en.wikipedia.org/w/index.php?title=Scandinavian_Defense&oldid=1383150160), version of 1 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Scandinavian_Defense_Mieses-Kotroc_Variation), figures collected from September to November 2026.

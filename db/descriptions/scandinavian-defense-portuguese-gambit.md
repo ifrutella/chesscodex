@@ -11,3 +11,8 @@ The normal continuation is 4.f3 Bf5 5.Bb5+ Nbd7 6.c4. The resulting sharp play i
 ### The numbers
 
 On Lichess Black wins 50.9% of the 1.2 million games and White 44.0%. Under 1400 White is slightly ahead, 49.1% against 47.8%, but Black leads in every higher band. In 1,126 master games over the board White won 42.0%, Black 26.1%, and 31.9% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Scandinavian Defense](https://en.wikipedia.org/w/index.php?title=Scandinavian_Defense&oldid=1383150160), version of 1 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Scandinavian_Defense_Portuguese_Gambit), figures collected from September to November 2026.
