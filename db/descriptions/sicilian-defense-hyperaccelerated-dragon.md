@@ -1,4 +1,4 @@
-The Hyperaccelerated Dragon (1.e4 c5 2.Nf3 g6) is a [Sicilian Defense](/openings/sicilian-defense) in which Black fianchettoes the king's bishop at once, before committing the knight to c6 or the pawn to d6.
+The Hyperaccelerated Dragon (1.e4 c5 2.Nf3 g6) is a [Sicilian Defense](/openings/sicilian-defense) in which Black plays ...g6 at once, before committing the knight to c6 or the pawn to d6.
 
 ### The idea
 
@@ -30,3 +30,8 @@ The Hyperaccelerated Dragon suits Black players who like Dragon-type fianchetto 
 ### The numbers
 
 On Lichess Black does better below 2200: 49.0% against 47.7% under 1400, 49.4% against 46.8% at 1400–1799 and 48.4% against 46.3% at 1800–2199. From 2200 up White is slightly ahead, 46.7% against 45.4%. In about 10,900 master games White won 37.1%, Black 24.3%, and 38.6% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Hyperaccelerated_Dragon), figures collected from September to November 2026.

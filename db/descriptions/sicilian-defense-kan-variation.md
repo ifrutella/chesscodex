@@ -2,11 +2,11 @@ The Kan Variation (1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6) is a flexible line of t
 
 ### The idea
 
-The plan of ...a6 and ...b5 gains space on the queenside, and Black often puts the queen on c7 to control e5 before developing the king's knight.
+The ...b5 advance builds pressure on the queenside. Against 5.Nc3 Black usually controls e5 first, most often with the queen on c7, before developing the king's knight.
 
 ### Main lines
 
-- 5.Bd3, the [Modern Variation](/openings/sicilian-defense-kan-variation-modern-variation), White's most popular move. After 5...Bc5 6.Nb3 ([Polugaevsky Variation](/openings/sicilian-defense-kan-variation-polugaevsky-variation)) Black can retreat with 6...Be7, when 7.Qg4 makes Black's kingside awkward, or 6...Ba7.
+- 5.Bd3, the [Modern Variation](/openings/sicilian-defense-kan-variation-modern-variation), White's most popular move. After 5...Bc5 ([Polugaevsky Variation](/openings/sicilian-defense-kan-variation-polugaevsky-variation)) 6.Nb3 Black can retreat with 6...Be7, when 7.Qg4 makes Black's kingside awkward, or 6...Ba7.
 - 5.c4, setting up a [Maróczy Bind](/openings/sicilian-defense-kan-variation-maroczy-bind-reti-variation).
 - 5.Nc3, the [Knight Variation](/openings/sicilian-defense-kan-variation-knight-variation), the second most popular reply. Black usually avoids ...Nf6 for the moment, because e5 would leave a weakness on d6 and drive the knight away, and controls e5 first. The main Kan move is 5...Qc7; 5...Nc6 transposes to the [Taimanov](/openings/sicilian-defense-taimanov-variation) and 5...d6 to the [Scheveningen](/openings/sicilian-defense-scheveningen-variation). 5...b5, the [Wing Attack](/openings/sicilian-defense-kan-variation-wing-attack), aims for ...b4 against the c3-knight or ...Bb7; White usually answers 6.Bd3.
 
@@ -28,4 +28,9 @@ The Kan suits Black players who like flexible Sicilian set-ups with ...a6 and ..
 
 ### The numbers
 
-On Lichess Black does very well below 2200: 52.5% against 44.5% under 1400, 51.9% against 44.4% at 1400–1799 and 50.9% against 44.4% at 1800–2199. From 2200 up the results are close, 47.1% for Black against 46.6%. In about 33,000 master games White won 34.6%, Black 30.3%, and 35.1% were drawn.
+On Lichess Black leads below 2200: 52.5% against 44.5% under 1400, 51.9% against 44.4% at 1400–1799 and 50.9% against 44.4% at 1800–2199. From 2200 up the results are close, 47.1% for Black against 46.6%. In about 33,000 master games White won 34.6%, Black 30.3%, and 35.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Kan_Variation), figures collected from September to November 2026.

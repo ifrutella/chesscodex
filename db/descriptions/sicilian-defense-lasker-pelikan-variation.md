@@ -35,3 +35,8 @@ The Lasker-Pelikan suits Black players who want an active, concrete Sicilian and
 ### The numbers
 
 On Lichess the results are close up to 2200: 48.6% for White against 47.5% under 1400, 48.0% against 47.7% at 1400–1799, and Black slightly ahead at 1800–2199 with 47.5% against 46.9%. From 2200 up White leads, 48.3% against 44.0%. In about 28,000 master games White won 24.5%, Black 17.6%, and 57.9% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence, Sveshnikov Variation](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence%2C_Sveshnikov_Variation&oldid=1370836384), version of 23 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Lasker-Pelikan_Variation), figures collected from September to November 2026.

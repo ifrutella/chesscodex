@@ -13,3 +13,8 @@ Grandmaster Daniel King recommends 6...g6, which gives Black a more defensive ki
 ### The numbers
 
 On Lichess White wins 50.0% of the 405,165 games and Black 45.1%. Black is slightly ahead below 1800, while from 2200 up White's lead grows to 52.5% against 41.4%. In 4,469 master games over the board 38.0% were drawn, White won 32.4% and Black 29.7%.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Sicilian Defence, Najdorf Variation](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence%2C_Najdorf_Variation&oldid=1383589848), version of 3 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Najdorf_Variation_Amsterdam_Variation), figures collected from September to November 2026.

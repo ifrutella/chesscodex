@@ -36,3 +36,8 @@ The Open Sicilian with 2...Nc6 suits Black players who want a fighting game agai
 ### The numbers
 
 On Lichess White wins 48.7% against Black's 46.3%. Under 1400 White leads 51.0% against 45.3%; the gap narrows with rating, to 49.5% against 46.5% at 1400–1799, 48.6% against 46.3% at 1800–2199 and 47.1% against 45.2% from 2200 up. In about 78,200 master games 45.4% were drawn; White won 30.2% and Black 24.4%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Open), figures collected from September to November 2026.

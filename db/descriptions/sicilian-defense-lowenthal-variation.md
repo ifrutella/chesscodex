@@ -1,4 +1,4 @@
-The Löwenthal Variation (1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5) is one of Black's sharper answers in the [Open Sicilian](/openings/sicilian-defense-open). Black kicks the knight at once with ...e5, accepting a hole on d5 in return for time. After 4...e5 White usually plays 5.Nb5, when Black has two main choices.
+The Löwenthal Variation (1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5) is a line of the [Open Sicilian](/openings/sicilian-defense-open). Black kicks the knight at once with ...e5, accepting a hole on d5 in return for time. After 4...e5 the best continuation is 5.Nb5, when Black has two main choices.
 
 ### Origins
 
@@ -31,3 +31,8 @@ After 4...e5 5.Nb5 the knight eyes d6. In the Löwenthal proper, 5...a6, Black l
 ### The numbers
 
 On Lichess the results are close at every level: 48.5% for White against 47.8% under 1400, 48.6% against 47.2% at 1400–1799, 48.6% against 46.1% at 1800–2199 and 46.5% against 45.5% from 2200 up. In about 9,300 master games White won 33.0%, Black 24.9%, and 42.2% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Lowenthal_Variation), figures collected from September to November 2026.

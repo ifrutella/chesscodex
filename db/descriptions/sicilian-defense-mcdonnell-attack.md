@@ -1,4 +1,4 @@
-The McDonnell Attack (1.e4 c5 2.f4) is the immediate form of the Grand Prix Attack against the [Sicilian Defense](/openings/sicilian-defense). White grabs space on the kingside at once and prepares Nf3 and a kingside attack, without first committing the queen's knight.
+The McDonnell Attack (1.e4 c5 2.f4) is the immediate form of the Grand Prix Attack against the [Sicilian Defense](/openings/sicilian-defense). White plays f4 at once, without first developing the queen's knight with 2.Nc3.
 
 ### Origins
 
@@ -6,7 +6,7 @@ The name comes from the 14th game of the 1834 match in London between Alexander 
 
 ### The idea
 
-White gains space on the kingside and usually follows with Nf3 and a bishop to b5 or c4, the latter aiming for a kingside attack. The drawback of playing f4 at once is that Black can strike in the centre immediately with ...d5.
+In the modern Grand Prix main line, 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7, White plays Bb5, threatening to double Black's pawns with Bxc6, or Bc4, aiming for a kingside attack. The drawback of playing f4 at once is that Black can strike in the centre immediately with ...d5.
 
 ### Main lines
 
@@ -34,3 +34,8 @@ The McDonnell Attack suits aggressive White players who want a kingside attack a
 ### The numbers
 
 On Lichess Black does slightly better: White and Black are level under 1400 (48.3% against 48.6%) and at 1400–1799 (48.5% against 48.2%), while Black leads 49.1% against 46.7% at 1800–2199 and 48.4% against 45.6% from 2200 up. There are only about 2,700 master games, too few to draw firm conclusions.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_McDonnell_Attack), figures collected from September to November 2026.

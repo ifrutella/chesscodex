@@ -33,3 +33,8 @@ The opening is named after the Dutch player Maarten van 't Kruijs (1813–1885),
 ### The numbers
 
 On Lichess Black wins more often at every level: 48.9% against 46.7% for White under 1400, 49.8% against 46.2% at 1400–1799, 48.8% against 46.6% at 1800–2199 and 47.3% against 46.1% from 2200 up. There are fewer than a thousand master games, too few to draw firm conclusions.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Van 't Kruijs Opening](https://en.wikipedia.org/w/index.php?title=Van_%27t_Kruijs_Opening&oldid=1382028102), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Vant_Kruijs_Opening), figures collected from September to November 2026.

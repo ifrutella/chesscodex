@@ -14,3 +14,8 @@ After 4...Nxc3 5.dxc3 the move 5...b6?, which Nimzowitsch himself played and rec
 ### The numbers
 
 On Lichess Black wins 48.8% of the 1.5 million games and White 46.0%. The rating split is sharp: under 1400 White leads 53.0% to 43.3%, while between 1800 and 2199 Black is ahead 50.2% to 44.7%, and from 2200 up 48.2% to 43.9%. In 3,570 master games over the board White won 37.3%, Black 24.8%, and 37.9% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Nimzowitsch_Variation), figures collected from September to November 2026.

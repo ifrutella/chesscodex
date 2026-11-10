@@ -14,3 +14,8 @@ After 3.Bc4 Black sometimes plays 3...Bc5, the Symmetrical Variation. White's 4.
 ### The numbers
 
 On Lichess White wins 51.0% of the 13 million games and Black 44.5%. Under 1400 the gap is small, 49.3% against 46.4%; from 2200 up it is 50.9% against 42.6%. In 1,976 master games over the board White won 32.6%, Black 27.9%, and 39.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Vienna Game](https://en.wikipedia.org/w/index.php?title=Vienna_Game&oldid=1384243063), version of 7 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Vienna_Game_Max_Lange_Defense), figures collected from September to November 2026.

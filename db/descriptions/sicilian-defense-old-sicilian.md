@@ -10,7 +10,7 @@ After 4...Nf6 White usually replies 5.Nc3, and Black chooses between:
 - 5...e5, the Sveshnikov or [Lasker-Pelikan Variation](/openings/sicilian-defense-lasker-pelikan-variation);
 - 5...e6, transposing to the [Four Knights Variation](/openings/sicilian-defense-four-knights-variation).
 
-Other moves include 5...g6, aiming for the Dragon while avoiding the Maróczy Bind, and the provocative 5...h5, known as the "Dirty Harry Sicilian".
+Other moves include 5...g6, aiming for the Dragon while avoiding the Maróczy Bind, and the provocative 5...h5.
 
 ### Without 3.d4
 
@@ -21,3 +21,8 @@ Other moves include 5...g6, aiming for the Dragon while avoiding the Maróczy Bi
 ### The numbers
 
 On Lichess White wins 48.5% of the 87 million games and Black 46.6%. The gap is small under 1400, 48.9% against 47.5%, and grows from 2200 up to 48.4% against 44.1%. In 134,924 master games over the board 44.4% were drawn, White won 31.8% and Black 23.8%.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Old_Sicilian), figures collected from September to November 2026.

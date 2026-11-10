@@ -22,3 +22,8 @@ Related lines on this site are 1.Nf3 d6 2.e4 Bg4, the [Zukertort Opening: Wade D
 ### The numbers
 
 On Lichess White wins 49.6% of the 440,000 games and Black 44.1%. Below 2200 White is ahead by 6 to 9 points: 51.3% against 44.1% under 1400 and 52.1% against 43.4% between 1400 and 1799. From 2200 up it is close, 46.5% against 44.9%. In 4,889 master games over the board White won 36.4%, Black 26.1%, and 37.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Wade Defence](https://en.wikipedia.org/w/index.php?title=Wade_Defence&oldid=1378874772), version of 6 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Wade_Defense), figures collected from September to November 2026.

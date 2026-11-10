@@ -11,3 +11,9 @@ Black can also choose a Scheveningen set-up with 6...e6. After 7.g4 b5 8.Bg2 Bb7
 ### The numbers
 
 On Lichess White wins 49.6% of the 687,242 games and Black 44.9%. From 2200 up White's lead is 50.1% against 43.3%. Masters draw most of their games: in 11,255 games over the board 57.2% were drawn, White won 24.4% and Black 18.4%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence, Najdorf Variation](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence%2C_Najdorf_Variation&oldid=1383589848), version of 3 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Fischer and 6.h3: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Najdorf_Variation_Adams_Attack), figures collected from September to November 2026.

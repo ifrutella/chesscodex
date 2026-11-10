@@ -17,3 +17,8 @@ The opening is named after the one-time Brazilian champion Octávio Trompowsky (
 ### The numbers
 
 On Lichess White wins 49.3% of the 2.2 million games and Black 45.1%. Black is slightly ahead below 1800, while from 2200 up White leads 49.9% to 42.3%. In 5,696 master games over the board White won 33.3%, Black 30.1%, and 36.7% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Trompowsky Attack](https://en.wikipedia.org/w/index.php?title=Trompowsky_Attack&oldid=1313803941), version of 28 September 2025, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Trompowsky_Attack_Classical_Defense), figures collected from September to November 2026.

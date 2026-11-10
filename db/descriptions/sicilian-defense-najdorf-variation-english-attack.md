@@ -30,3 +30,8 @@ The English Attack suits White players who want to meet the Najdorf head-on with
 ### The numbers
 
 On Lichess White is ahead under 1400, 50.5% against 46.3%, and at 1400–1799, 49.3% against 46.9%; Black is slightly ahead at 1800–2199, 47.7% against 47.6%, and White leads again from 2200 up, 48.4% against 45.4%. In about 43,000 master games White won 24.6%, Black 16.9%, and 58.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence, Najdorf Variation](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence%2C_Najdorf_Variation&oldid=1383589848), version of 3 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Najdorf_Variation_English_Attack), figures collected from September to November 2026.

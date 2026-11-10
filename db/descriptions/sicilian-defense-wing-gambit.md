@@ -16,3 +16,8 @@ The name Wing Gambit is also used for other early b4 gambits, for example 1.e4 e
 ### The numbers
 
 On Lichess White wins 49.0% of the 4.1 million games and Black 47.1%. Under 1400 Black is ahead, 49.8% against 47.3%, and from 2200 up the sides are level, 47.4% against 47.2%. In 688 master games over the board Black won 40.8%, White 27.2%, and 32.0% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Wing Gambit](https://en.wikipedia.org/w/index.php?title=Wing_Gambit&oldid=1378872905), version of 6 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Wing_Gambit), figures collected from September to November 2026.

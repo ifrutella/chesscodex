@@ -18,3 +18,8 @@ White usually meets the threat of ...b4 with 9.Bxf6 or 9.Nd5.
 ### The numbers
 
 On Lichess White wins 48.8% of the 1 million games and Black 44.0%. From 2200 up White's lead is 49.4% against 42.0%. Masters draw most of their games: in 24,487 games over the board 58.7% were drawn, White won 24.1% and Black 17.2%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence, Sveshnikov Variation](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence%2C_Sveshnikov_Variation&oldid=1370836384), version of 23 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Lasker-Pelikan_Variation_Sveshnikov_Variation), figures collected from September to November 2026.

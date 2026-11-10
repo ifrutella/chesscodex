@@ -1,4 +1,4 @@
-The Rossolimo Variation (1.e4 c5 2.Nf3 Nc6 3.Bb5), called the Nyezhmetdinov-Rossolimo Attack in this database, is a well-respected alternative to the [Open Sicilian](/openings/sicilian-defense-open) with 3.d4. White develops the bishop with a pin and often gives it up for the knight on c6, leaving Black with doubled pawns.
+The Rossolimo Variation (1.e4 c5 2.Nf3 Nc6 3.Bb5), called the Nyezhmetdinov-Rossolimo Attack in this database, is a well-respected alternative to the [Open Sicilian](/openings/sicilian-defense-open) with 3.d4. White develops the bishop to b5 and often gives it up for the knight on c6, leaving Black with doubled pawns.
 
 ### Origins
 
@@ -33,3 +33,9 @@ The Rossolimo suits White players who want a positional answer to 2...Nc6 and wh
 ### The numbers
 
 On Lichess the results are close below 1800: 49.6% for White against 46.7% under 1400 and 49.1% against 46.8% at 1400–1799. From 1800 White pulls ahead, 50.8% against 44.1% at 1800–2199 and 51.2% against 41.3% from 2200 up. In about 38,600 master games White won 34.3%, Black 22.3%, and 43.3% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- World Championship 2018: adapted from the Wikipedia article [World Chess Championship 2018](https://en.wikipedia.org/w/index.php?title=World_Chess_Championship_2018&oldid=1379339785), version of 9 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack), figures collected from September to November 2026.
