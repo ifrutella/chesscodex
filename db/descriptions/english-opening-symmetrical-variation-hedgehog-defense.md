@@ -25,4 +25,9 @@ The same structure also appears in the [Queen's Indian Defense](/openings/queens
 
 ### The numbers
 
-On Lichess White wins 47.9% of the 111,000 games with this line and Black 43.4%, with 8.7% draws.
+On Lichess White wins 47.9% of the 111,485 games with this line and Black 43.4%, with 8.7% draws.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Hedgehog (chess)](https://en.wikipedia.org/w/index.php?title=Hedgehog_%28chess%29&oldid=1356336365), version of 27 May 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/English_Opening_Symmetrical_Variation_Hedgehog_Defense), figures collected from September to November 2026.

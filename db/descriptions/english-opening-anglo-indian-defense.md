@@ -32,3 +32,8 @@ The Anglo-Indian suits Black players with an Indian repertoire against 1.d4 who 
 ### The numbers
 
 On Lichess White wins about 49% at every level: 48.9% against 47.3% under 1400, 49.1% against 46.7% at 1400–1799, 49.3% against 45.1% at 1800–2199 and 49.6% against 42.5% from 2200 up. In about 55,200 master games White won 35.4%, Black 21.2%, and 43.4% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [English Opening](https://en.wikipedia.org/w/index.php?title=English_Opening&oldid=1371350813), version of 26 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/English_Opening_Anglo-Indian_Defense), figures collected from September to November 2026.

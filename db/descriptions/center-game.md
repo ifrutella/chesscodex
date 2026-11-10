@@ -36,4 +36,9 @@ The Center Game suits attacking players who like opposite-side castling and fast
 
 ### The numbers
 
-On Lichess White does well above 1400: 52.2% against 44.2% at 1400–1799 and 53.3% against 42.6% at 1800–2199. Under 1400 it is 50.5% against 45.4%, and from 2200 up 49.7% against 44.2%. There are only about 1,900 master games, too few to draw firm conclusions.
+On Lichess White does well between 1400 and 2200: 52.2% against 44.2% at 1400–1799 and 53.3% against 42.6% at 1800–2199. Under 1400 it is 50.5% against 45.4%, and from 2200 up 49.7% against 44.2%. In 1,866 master games over the board White won 30.4%, Black 33.9%, and 35.7% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Center Game](https://en.wikipedia.org/w/index.php?title=Center_Game&oldid=1382026511), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Center_Game), figures collected from September to November 2026.

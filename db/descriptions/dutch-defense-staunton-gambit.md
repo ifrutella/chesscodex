@@ -18,4 +18,9 @@ Black can sidestep the Staunton Gambit by playing 1...e6 before ...f5. The drawb
 
 ### The numbers
 
-On Lichess White wins 55.0% of the 940,000 games and Black 40.3%. Under 1400 it is close, 50.1% against 45.8%, while between 1800 and 2199 White wins 55.9% against 39.3%. From 2200 up the gap narrows to 51.1% against 42.5%. In 905 master games over the board White and Black each won 33.5%, and 33.0% were drawn.
+On Lichess White wins 55.0% of the 935,788 games and Black 40.3%. Under 1400 it is close, 50.1% against 45.8%, while between 1800 and 2199 White wins 55.9% against 39.3%. From 2200 up the gap narrows to 51.1% against 42.5%. In 905 master games over the board White and Black each won 33.5%, and 33.0% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Staunton Gambit](https://en.wikipedia.org/w/index.php?title=Staunton_Gambit&oldid=1375722161), version of 19 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Dutch_Defense_Staunton_Gambit), figures collected from September to November 2026.
