@@ -34,3 +34,8 @@ With d3 White avoids the tactical battles of the other Two Knights lines and hea
 ### The numbers
 
 On Lichess White leads below 2200: 51.8% against 44.4% under 1400, 51.3% against 44.7% at 1400–1799 and 49.3% against 45.7% at 1800–2199. From 2200 up it is 47.4% against 45.6%. In about 17,800 master games White won 32.0%, Black 23.6%, and 44.4% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Two Knights Defense](https://en.wikipedia.org/w/index.php?title=Two_Knights_Defense&oldid=1381945263), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Two_Knights_Defense_Modern_Bishops_Opening), figures collected from September to November 2026.

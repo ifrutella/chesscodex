@@ -4,7 +4,7 @@ The Traxler Counterattack, also known as the Wilkes-Barre Variation, is 1.e4 e5 
 
 The variation was first seen in the game J. Reinisch–Karel Traxler, Hostouň 1890. Frank Marshall later named it after Wilkes-Barre, Pennsylvania, claiming to be the first to analyse and publish it. So today 4...Bc5 is known as the Traxler Variation and, in the United States and the United Kingdom only, as the Wilkes-Barre Variation.
 
-In the original game White answered the sacrifice badly and Black won with a famous mating attack, giving up the queen and both knights to chase the white king to the edge of the board.
+In the original game White answered the sacrifice badly and Black won with a mating attack, giving up the queen and both knights to chase the white king to the edge of the board.
 
 ### Main lines
 
@@ -18,3 +18,8 @@ After 5.Nxf7 Bxf2+ 6.Kxf2 Nxe4+ 7.Ke3 Qh4, taking the rook with 8.Nxh8 is a comm
 ### The numbers
 
 On Lichess Black wins slightly more often: 49.5% against 47.4% for White in 1.3 million games. Under 1400 White is ahead, 51.6% against 45.8%. From 1800 up Black wins more: 50.0% against 46.6% between 1800 and 2199, and 48.3% against 46.7% from 2200 up. There are only 130 master games over the board, in which White won 43.8% and Black 21.5%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Traxler Counterattack](https://en.wikipedia.org/w/index.php?title=Traxler_Counterattack&oldid=1373025777), version of 3 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Two_Knights_Defense_Traxler_Counterattack), figures collected from September to November 2026.

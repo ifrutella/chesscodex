@@ -19,3 +19,8 @@ The tricky [5.Ng5](/openings/italian-game-two-knights-defense-perreux-variation)
 ### The numbers
 
 On Lichess White wins 52.3% of the 3.1 million games and Black 43.4%. From 2200 up the results are much closer, 47.5% against 44.8%. In 1,712 master games over the board 39.9% were drawn, Black won 31.2% and White 28.9%.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Two Knights Defense](https://en.wikipedia.org/w/index.php?title=Two_Knights_Defense&oldid=1381945263), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Two_Knights_Defense_Open_Variation), figures collected from September to November 2026.

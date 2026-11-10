@@ -19,3 +19,8 @@ Black can also answer 6.Bb5+ with 6...Bd7. White's other sixth move is [6.d3](/o
 ### The numbers
 
 On Lichess Black wins 48.6% of the 4.5 million games and White 47.5%. Black does best under 1400, 51.9% against 45.1%; from 2200 up White is ahead, 48.3% against 46.1%. In 2,858 master games over the board White won 31.1%, Black 23.5%, and 45.3% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Two Knights Defense](https://en.wikipedia.org/w/index.php?title=Two_Knights_Defense&oldid=1381945263), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Two_Knights_Defense_Polerio_Defense), figures collected from September to November 2026.
