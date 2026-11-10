@@ -36,3 +36,8 @@ Against 3.f4 Black strikes back in the centre with 3...d5, much as in the [Falkb
 ### The numbers
 
 On Lichess White wins about 51% below 2200: 50.4% against 45.4% under 1400, 51.6% against 44.5% at 1400–1799 and 51.2% against 44.0% at 1800–2199. From 2200 up it is 48.8% against 43.7%. In about 6,600 master games 45.1% were drawn; White won 29.2% and Black 25.7%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Vienna Game](https://en.wikipedia.org/w/index.php?title=Vienna_Game&oldid=1384243063), version of 7 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Vienna_Game_Falkbeer_Variation), figures collected from September to November 2026.

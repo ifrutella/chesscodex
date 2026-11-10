@@ -16,3 +16,8 @@ Of the other fourth moves, 4.Nxe4 allows the fork 4...d5 and 4.Bxf7+ is consider
 ### The numbers
 
 On Lichess White wins 50.4% of the 6.2 million games and Black 45.1%. The split is similar at every rating: 50.5% against 45.6% under 1400 and 48.8% against 44.0% from 2200 up. Masters over the board split their decisive games evenly: in 2,047 games White won 28.6%, Black 28.0%, and 43.4% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Vienna Game](https://en.wikipedia.org/w/index.php?title=Vienna_Game&oldid=1384243063), version of 7 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Vienna_Game_Stanley_Variation), figures collected from September to November 2026.

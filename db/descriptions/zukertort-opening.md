@@ -12,12 +12,12 @@ That flexibility is the point: White waits to see Black's set-up and only then c
 ### Independent lines
 
 - The [Réti Opening](/openings/reti-opening): 1...d5 2.c4, attacking Black's centre from the side.
-- The [King's Indian Attack](/openings/kings-indian-attack): g3, Bg2, d3 and e4, a set-up White can play against almost anything.
+- The [King's Indian Attack](/openings/kings-indian-attack): g3, Bg2, d3 and e4.
 - The [Nimzo-Larsen Attack](/openings/nimzo-larsen-attack) ideas with b3 and Bb2.
 
 ### Black's main answers
 
-In order of popularity: 1...Nf6, 1...d5, 1...c5 (the [Sicilian Invitation](/openings/zukertort-opening-sicilian-invitation)), 1...g6 ([Kingside Fianchetto](/openings/zukertort-opening-kingside-fianchetto)), 1...e6 and 1...f5. Most of them keep Black's options open as well, so the real opening is often decided only on move two or three.
+In order of popularity: 1...Nf6, 1...d5, 1...c5 (the [Sicilian Invitation](/openings/zukertort-opening-sicilian-invitation)), 1...g6 ([Kingside Fianchetto](/openings/zukertort-opening-kingside-fianchetto)), 1...e6 and 1...f5. 1...Nf6 and 1...e6 are as non-committal as White's move, so the real opening is often decided only on move two or three.
 
 ### Strengths and weaknesses
 
@@ -39,3 +39,8 @@ In order of popularity: 1...Nf6, 1...d5, 1...c5 (the [Sicilian Invitation](/open
 ### The numbers
 
 On Lichess White wins 49.2–51.2% and Black 42–46.3%; Black does best under 1400 (46.3%). Draws rise from 4.2–4.4% below 1800 to 8.3% from 2200 up. In master games over the board, White wins 33.3%, Black 22.2% and 44.5% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Zukertort Opening](https://en.wikipedia.org/w/index.php?title=Zukertort_Opening&oldid=1372877936), version of 2 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Zukertort_Opening), figures collected from September to November 2026.

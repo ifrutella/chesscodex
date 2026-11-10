@@ -14,3 +14,8 @@ After 3.Nf3, the natural 3...Nc6, which transposes to the [Three Knights Game](/
 ### The numbers
 
 On Lichess White wins 50.8% of the 2.8 million games and Black 45.1%. From 2200 up White's lead is a little larger, 51.1% against 42.7%. In 304 master games over the board 39.1% were drawn, White won 31.6% and Black 29.3%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Vienna Game](https://en.wikipedia.org/w/index.php?title=Vienna_Game&oldid=1384243063), version of 7 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Vienna_Game_Anderssen_Defense), figures collected from September to November 2026.

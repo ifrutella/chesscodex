@@ -2,7 +2,7 @@ The Frankenstein–Dracula Variation is a wild line of the [Vienna Game](/openin
 
 ### The idea
 
-Black takes the e4-pawn at once. White cannot win the piece back immediately, because 4.Nxe4 is met by 4...d5, forking knight and bishop. Instead White goes for f7 with 4.Qh5, threatening mate, and keeps renewing that threat. Against the double threat to f7 and e5, Black's only good answer is 4...Nd6, which covers f7 and attacks the bishop on c4.
+Black takes the e4-pawn at once. White cannot win material at once, because 4.Nxe4 is met by 4...d5, forking knight and bishop. Instead White goes for f7 with 4.Qh5, threatening mate, and keeps renewing that threat. Against the double threat to f7 and e5, Black's only good answer is 4...Nd6, which covers f7 and attacks the bishop on c4.
 
 ### Main lines
 
@@ -22,3 +22,8 @@ The line is rarely seen at the top level, but strong players have used it. John 
 ### The numbers
 
 On Lichess Black wins more often: 49.1% against 46.1% for White in 570,000 games. Below 2200 Black is ahead by 4 to 7 points, for example 51.7% against 44.8% under 1400. From 2200 up White is ahead, 48.6% against 43.6%. In 466 master games over the board White won 29.6%, Black 27.5%, and 42.9% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Vienna Game, Frankenstein–Dracula Variation](https://en.wikipedia.org/w/index.php?title=Vienna_Game%2C_Frankenstein%E2%80%93Dracula_Variation&oldid=1381944235), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Vienna_Game_Frankenstein-Dracula_Variation), figures collected from September to November 2026.
