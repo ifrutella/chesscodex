@@ -32,3 +32,8 @@ The Moscow suits White players who meet the Sicilian with 2.Nf3 but want to avoi
 ### The numbers
 
 On Lichess Black leads below 1800, 48.6% against 47.1% under 1400 and 47.7% against 47.3% at 1400–1799. From 1800 White pulls ahead, 49.0% against 44.7% at 1800–2199 and 49.1% against 42.4% from 2200 up. In about 28,400 master games 47.2% were drawn; White won 27.4% and Black 25.4%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Moscow_Variation), figures collected from September to November 2026.

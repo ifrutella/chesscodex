@@ -12,4 +12,9 @@ The ideas are similar to those of the Sveshnikov: Black accepts a backward pawn 
 
 ### The numbers
 
-On Lichess White wins 50.2% of the 2.7 million games and Black 44.6%. Between 1400 and 2199 White wins about 50.5% against 44 to 46%, and from 2200 up 47.6% against 44.8%. In 7,634 master games over the board White won 32.3%, Black 25.4%, and 42.3% were drawn.
+On Lichess White wins 50.2% of the 2.7 million games and Black 44.6%. Between 1400 and 2199 White wins 50.4–50.7% against 44.3–45.8%, and from 2200 up 47.6% against 44.8%. In 7,634 master games over the board White won 32.3%, Black 25.4%, and 42.3% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Kalashnikov_Variation), figures collected from September to November 2026.
