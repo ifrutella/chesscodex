@@ -1,4 +1,4 @@
-The Grand Prix Attack is an aggressive anti-Sicilian in which White plays an early f4: 1.e4 c5 2.Nc3 Nc6 3.f4. Nowadays players usually reach it this way, with 2.Nc3 first, rather than with the immediate 2.f4, the [McDonnell Attack](/openings/sicilian-defense-mcdonnell-attack).
+The Grand Prix Attack is an anti-Sicilian in which White plays an early f4: 1.e4 c5 2.Nc3 Nc6 3.f4. Nowadays players usually reach it this way, with 2.Nc3 first, rather than with the immediate 2.f4, the [McDonnell Attack](/openings/sicilian-defense-mcdonnell-attack).
 
 ### Origins
 
@@ -15,4 +15,9 @@ The modern main line runs 1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7. White then choose
 
 ### The numbers
 
-On Lichess White wins 50.3% of the 3.9 million games and Black 45.1%. The split hardly moves with rating: 49.2% against 47.7% under 1400, and 49.3% against 44.4% from 2200 up. Masters over the board are another story: in 4,305 games Black won 36.4%, White 27.8%, and 35.8% were drawn.
+On Lichess White wins 50.3% of the 3.9 million games and Black 45.1%. White's share hardly moves with rating: 49.2% against 47.7% under 1400, and 49.3% against 44.4% from 2200 up. Masters over the board are another story: in 4,305 games Black won 36.4%, White 27.8%, and 35.8% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Grand_Prix_Attack), figures collected from September to November 2026.

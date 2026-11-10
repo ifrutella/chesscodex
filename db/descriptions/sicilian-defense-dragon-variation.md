@@ -11,7 +11,7 @@ The g7-bishop is the heart of Black's position: it presses on d4, on the long di
 ### Main lines
 
 - [Yugoslav Attack](/openings/sicilian-defense-dragon-variation-yugoslav-attack) 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6: one of the sharpest of all chess openings. White chooses between the [main line with 9.Bc4](/openings/sicilian-defense-dragon-variation-yugoslav-attack-main-line) and [9.O-O-O](/openings/sicilian-defense-dragon-variation-yugoslav-attack-modern-line), where Black often answers 9...d5.
-- [Classical Variation](/openings/sicilian-defense-dragon-variation-classical-variation) 6.Be2: the oldest reply, with kingside castling and calmer play.
+- [Classical Variation](/openings/sicilian-defense-dragon-variation-classical-variation) 6.Be2: the oldest reply and the second most common, with kingside castling.
 - The [Accelerated Dragon](/openings/sicilian-defense-accelerated-dragon), which skips ...d6 to fight for ...d5 in one move, is a separate system.
 
 ### Strengths and weaknesses
@@ -24,7 +24,7 @@ The g7-bishop is the heart of Black's position: it presses on d4, on the long di
 
 **Weaknesses**
 
-- The Yugoslav Attack is extremely dangerous. Bobby Fischer remarked that White's attack there "almost plays itself".
+- The Yugoslav Attack is extremely dangerous.
 - The theory is concrete and forcing, and many lines end in mate if one side is a tempo slow.
 - Its popularity at top level declined from the late 1990s.
 
@@ -34,4 +34,9 @@ The Dragon is for tactical, attacking players who love opposite-side castling an
 
 ### The numbers
 
-On Lichess the Dragon is one of the few main lines where Black wins more often than White at every band: 49–49.5% against 46–47% below 2200, and 46.7% against 46.3% above it. Among masters over the board the picture changes: White wins 39%, Black 23% and 37.5% are drawn.
+On Lichess Black wins more often than White at every band: 49–49.5% against 46–47% below 2200, and 46.7% against 46.3% above it. Among masters over the board the picture changes: White wins 39%, Black 23% and 37.5% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence, Dragon Variation](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence%2C_Dragon_Variation&oldid=1372119162), version of 30 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Dragon_Variation), figures collected from September to November 2026.

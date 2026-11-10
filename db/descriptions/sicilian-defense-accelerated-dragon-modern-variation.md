@@ -19,3 +19,8 @@ After 7...O-O White should play 8.Bb3. Black can answer 8...d6, transposing to a
 ### The numbers
 
 On Lichess the results are level: White wins 47.5% of the 5 million games and Black 47.3%. Black is slightly ahead below 1800, White from 2200 up (47.5% against 44.8%). In 9,356 master games over the board White won 32.9%, Black 23.8%, and 43.3% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Sicilian Defence, Accelerated Dragon](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence%2C_Accelerated_Dragon&oldid=1381947299), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Accelerated_Dragon_Modern_Variation), figures collected from September to November 2026.

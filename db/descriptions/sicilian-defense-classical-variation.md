@@ -30,3 +30,8 @@ The Classical Sicilian suits Black players who want a sound, flexible Open Sicil
 ### The numbers
 
 On Lichess the results are almost even at every level: 48.2% for White against 48.1% under 1400, 48.4% against 47.4% at 1400–1799, 47.7% against 47.2% at 1800–2199, and from 2200 up Black is slightly ahead, 46.8% against 46.1%. In about 43,500 master games White won 34.3%, Black 29.1%, and 36.7% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Classical_Variation), figures collected from September to November 2026.
