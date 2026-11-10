@@ -37,3 +37,8 @@ The Alapin suits 1.e4 players who want a sound, low-theory answer to the Sicilia
 ### The numbers
 
 On Lichess results barely change with rating: White wins 49–49.9% and Black 42.9–46.6%, and draws rise from 3.5% under 1400 to 8.1% from 2200 up. In master games over the board, White wins 28.5%, Black 27.7% and 43.8% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence, Alapin Variation](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence%2C_Alapin_Variation&oldid=1356335527), version of 27 May 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Alapin_Variation), figures collected from September to November 2026.

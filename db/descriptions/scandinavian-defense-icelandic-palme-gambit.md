@@ -11,3 +11,8 @@ With 3.c4 White tries to keep the extra pawn at the cost of leaving the light-sq
 ### The numbers
 
 On Lichess Black wins 51.8% of the 2.4 million games and White 44.0%, and Black stays ahead in every rating band, from 2200 up included (49.0% against 44.7%). In 411 master games over the board the results were nearly even: White won 33.8%, Black 32.4%, and 33.8% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Scandinavian Defense](https://en.wikipedia.org/w/index.php?title=Scandinavian_Defense&oldid=1383150160), version of 1 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Scandinavian_Defense_Icelandic-Palme_Gambit), figures collected from September to November 2026.

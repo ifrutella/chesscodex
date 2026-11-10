@@ -13,3 +13,8 @@ The variation can serve as a route into the main line of the Sveshnikov, reached
 ### The numbers
 
 On Lichess Black wins 50.0% of the 3.9 million games and White 44.5%. Black leads 51.8% to 44.8% under 1400; from 2200 up the results are close, 46.1% for Black against 45.7% for White. In 11,595 master games over the board White won 35.4%, Black 20.8%, and 43.8% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Four_Knights_Variation), figures collected from September to November 2026.

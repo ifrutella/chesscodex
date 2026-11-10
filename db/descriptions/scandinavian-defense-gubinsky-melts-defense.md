@@ -13,3 +13,8 @@ The other main queen moves on move three are [3...Qa5](/openings/scandinavian-de
 ### The numbers
 
 On Lichess the results are level overall: White wins 47.3% of the 4.5 million games and Black 47.2%. They change sharply with rating. Under 1400 White leads 53.4% to 42.7%, while between 1800 and 2199 Black is ahead, 47.4% against 46.8%, and from 2200 up White leads narrowly, 46.3% against 45.8%. In 5,698 master games over the board White won 36.0%, Black 24.4%, and 39.6% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Scandinavian Defense](https://en.wikipedia.org/w/index.php?title=Scandinavian_Defense&oldid=1383150160), version of 1 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Scandinavian_Defense_Gubinsky-Melts_Defense), figures collected from September to November 2026.

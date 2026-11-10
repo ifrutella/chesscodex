@@ -1,16 +1,16 @@
-The Semi-Slav Defense (1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6) is one of the richest and sharpest defences to the [Queen's Gambit](/openings/queens-gambit). Black combines the pawn moves of the [Slav](/openings/slav-defense) (...c6) and the [Queen's Gambit Declined](/openings/queens-gambit-declined) (...e6), keeping a solid centre while preparing counterplay with ...dxc4, ...b5 and ...c5.
+The Semi-Slav Defense (1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6) is a line of the [Queen's Gambit](/openings/queens-gambit) Declined that can be reached by many move orders. Black combines the pawn moves of the [Slav](/openings/slav-defense) (...c6) and the [Queen's Gambit Declined](/openings/queens-gambit-declined) (...e6), keeping a solid centre while preparing counterplay with ...dxc4, ...b5 and ...c5.
 
 ### Origins
 
-The Meran Variation takes its name from the town of Meran (Merano) in northern Italy, where it was used successfully at a tournament in 1924. There it was used successfully in the game Grünfeld–Rubinstein, and two rounds later Ernst Grünfeld adopted the same variation against Rudolf Spielmann, winning as well. The idea had already appeared in a 1906 game between Carl Schlechter and Julius Perlis. Since then it has been a regular guest in world championship matches: the 2008 Kramnik–Anand match featured the Meran with 10.e5, and the 2013 Carlsen–Anand match featured the Marshall Gambit with 4.e4.
+The Meran Variation takes its name from the town of Meran (Merano) in northern Italy, where it was used successfully at a tournament in 1924. There it was used successfully in the game Grünfeld–Rubinstein, and two rounds later Ernst Grünfeld adopted the same variation against Rudolf Spielmann, winning as well. The idea had already appeared in a 1906 game between Carl Schlechter and Julius Perlis. In world championship matches, Kramnik–Anand in 2008 featured the Meran with 10.e5, and Carlsen–Anand in 2013 the Marshall Gambit with 4.e4.
 
 ### The idea
 
-Black keeps the solid d5-pawn and waits for the right moment to take on c4. After ...dxc4, Black gains time by attacking the bishop with ...b5, and then frees the position with ...c5. White usually aims for e3–e4 to open the position for the pieces, and in the sharpest lines attacks on the kingside.
+Black keeps the solid d5-pawn and waits for the right moment to take on c4. After ...dxc4, Black gains time by attacking the bishop with ...b5, and then frees the position with ...c5. White usually aims for e3–e4, and in the sharpest lines attacks on the kingside.
 
 ### Main lines
 
-- [Meran Variation](/openings/semi-slav-defense-meran-variation) 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5: Black gives up the centre for queenside expansion. The play is rich and complicated, and precision is required from both sides.
+- [Meran Variation](/openings/semi-slav-defense-meran-variation) 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5: Black gives up the centre for queenside expansion. The play is rich and complicated, and the Meran has long been a favourite of enterprising players of either colour.
 - Anti-Meran with 6.Qc2, popularised by Anatoly Karpov in the 1990s.
 - 5.Bg5 lines: the ultra-sharp [Botvinnik Variation](/openings/semi-slav-defense-botvinnik-variation) with 5...dxc4, the Moscow Variation 5...h6 6.Bxf6 and the [Anti-Moscow Gambit](/openings/semi-slav-defense-anti-moscow-gambit) 6.Bh4.
 - [Marshall Gambit](/openings/semi-slav-defense-marshall-gambit) 4.e4 and the [Noteboom Variation](/openings/semi-slav-defense-noteboom-variation) with ...dxc4, both from the move order 2...e6 3.Nc3 c6.
@@ -23,7 +23,7 @@ About 80% of games continue with 5.Bg5 or 5.e3.
 
 - Very rich positions with good winning chances for Black, backed by an excellent reputation.
 - Black keeps a solid centre while preparing active counterplay.
-- Tested at world championship level for decades.
+- Played in the world championship matches of 2008 and 2013.
 
 **Weaknesses**
 
@@ -37,4 +37,9 @@ The Semi-Slav suits well-prepared, ambitious players who want both solidity and 
 
 ### The numbers
 
-On Lichess White wins 51–52% and Black 43–45% at every band below 2200, and 51% against 42% above it. In master games over the board it is very drawish: 60% of games are drawn, White wins 24% and Black 16%.
+On Lichess White wins 51–52% and Black 43–45% at every band below 2200, and 51% against 42% above it. In master games over the board 60% of games are drawn, White wins 24% and Black 16%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Semi-Slav Defense](https://en.wikipedia.org/w/index.php?title=Semi-Slav_Defense&oldid=1382050321), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Semi-Slav_Defense), figures collected from September to November 2026.

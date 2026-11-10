@@ -26,3 +26,8 @@ Because 1.c3 transposes so often, a player who uses it needs to know the opening
 ### The numbers
 
 On Lichess Black wins slightly more often than White: 47.8% against 47.6% in 5.2 million games. Under 1400 Black wins 49.1% and White 46.4%, and between 1400 and 1799 it is 49.2% against 46.9%. Between 1800 and 2199 White edges ahead, 48.0% against 47.2%, and from 2200 up Black again wins slightly more, 47.0% against 46.3%. In 338 master games over the board Black won 32.0%, White 28.4%, and 39.6% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Saragossa Opening](https://en.wikipedia.org/w/index.php?title=Saragossa_Opening&oldid=1377916218), version of 1 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Saragossa_Opening), figures collected from September to November 2026.

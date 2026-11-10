@@ -34,3 +34,8 @@ The Open Defence suits Black players who prefer active piece play and concrete l
 ### The numbers
 
 In 462,225 rated Lichess games between players rated 1600 and 2500, White won 46.9%, Black 46.2%, and 7.0% were drawn. The results change sharply with rating: White wins 59.7% against 37.3% under 1400 and 57.2% against 38.9% at 1400–1799, while Black is ahead at 1800–2199, 47.7% against 45.6%, and from 2200 up, 46.7% against 43.5%. In about 7,700 master games 55.5% were drawn, White won 28.6% and Black 15.9%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Ruy Lopez](https://en.wikipedia.org/w/index.php?title=Ruy_Lopez&oldid=1382049415), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ruy_Lopez_Open), figures collected from September to November 2026.

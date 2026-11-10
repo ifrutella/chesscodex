@@ -34,3 +34,8 @@ The Steinitz Defense suits patient, defensive players who are happy with a cramp
 ### The numbers
 
 On Lichess White's lead grows with rating: 50.4% against 44.9% under 1400, 51.5% against 43.7% at 1400–1799, 54.6% against 40.1% at 1800–2199 and 56.0% against 37.2% from 2200 up. There are fewer than 700 master games, too few to draw firm conclusions.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Ruy Lopez](https://en.wikipedia.org/w/index.php?title=Ruy_Lopez&oldid=1382049415), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ruy_Lopez_Steinitz_Defense), figures collected from September to November 2026.

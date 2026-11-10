@@ -20,3 +20,8 @@ White does not have to open the position.
 ### The numbers
 
 On Lichess Black wins 48.5% of the 40 million games and White 46.6%. Black is ahead up to 2199, 49.2% against 47.4% under 1400; from 2200 up White edges ahead, 47.0% against 46.0%. In 115,430 master games over the board White won 34.4%, Black 28.3%, and 37.4% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_French_Variation), figures collected from September to November 2026.

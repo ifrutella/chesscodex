@@ -1,4 +1,4 @@
-The Scandinavian Defense (1.e4 d5), also called the Centre Counter, is the most direct reply to 1.e4. Black challenges the e4-pawn immediately. After 2.exd5 Black recaptures, usually with the queen, and gets a simple, solid position while avoiding most of White's opening preparation.
+The Scandinavian Defense (1.e4 d5), also called the Centre Counter, is arguably Black's most forcing defence to 1.e4. Black challenges the e4-pawn immediately. After 2.exd5 Black recaptures, usually with the queen, hoping for a free game with easy development at the cost of a tempo.
 
 ### Origins
 
@@ -6,13 +6,13 @@ The Scandinavian is one of the oldest recorded openings. It appears in a fiction
 
 ### The idea
 
-After 2.exd5 Qxd5 3.Nc3, Black's queen is chased and White gains a tempo. That is the price Black pays. In return, Black gets a clear structure: pawns on c6 and e6, the light-squared bishop developed to f5 or g4 before ...e6, and a very safe king. The position is similar to the [Caro-Kann](/openings/caro-kann-defense), but Black decides the structure on move one and doesn't let White choose between many systems.
+After 2.exd5 Qxd5 3.Nc3, Black's queen is chased and White gains a tempo. That is the price Black pays. In return, Black gets a clear structure: in the main line, pawns on c6 and e6 with the light-squared bishop developed to f5 before ...e6. The structure resembles the [Caro-Kann](/openings/caro-kann-defense), and many Caro-Kann players have taken up this form of the Scandinavian.
 
 ### Main lines
 
-- [Main Line](/openings/scandinavian-defense-main-line) 3...Qa5: the classical retreat, keeping the queen active on the a5–e1 diagonal. The [4.d4 Nf6 line](/openings/scandinavian-defense-main-line-mieses-variation) is the heart of the opening.
-- [Gubinsky-Melts Defense](/openings/scandinavian-defense-gubinsky-melts-defense) 3...Qd6: a modern retreat, usually followed by ...Nf6, ...a6 and ...c6.
-- [Valencian Variation](/openings/scandinavian-defense-valencian-variation) 3...Qd8: the most solid and passive retreat.
+- [Main Line](/openings/scandinavian-defense-main-line) 3...Qa5: the main line and the most popular retreat, keeping the queen active on the a5–e1 diagonal. White's options include the [4.d4 Nf6 line](/openings/scandinavian-defense-main-line-mieses-variation).
+- [Gubinsky-Melts Defense](/openings/scandinavian-defense-gubinsky-melts-defense) 3...Qd6: long poorly regarded, it has been played many times in high-level chess since the mid-1990s.
+- [Valencian Variation](/openings/scandinavian-defense-valencian-variation) 3...Qd8: the old main line, still playable but considered somewhat passive.
 - [Modern Variation](/openings/scandinavian-defense-modern-variation) 2...Nf6: Black delays the recapture, and the [Portuguese Gambit](/openings/scandinavian-defense-portuguese-gambit) 3.d4 Bg4 or the [Icelandic-Palme Gambit](/openings/scandinavian-defense-icelandic-palme-gambit) 3.c4 e6 give sharp play.
 
 ### Strengths and weaknesses
@@ -35,4 +35,9 @@ The Scandinavian suits practical players who want a reliable, low-theory defence
 
 ### The numbers
 
-On Lichess the Scandinavian is close to even at club level: White wins 48–50% and Black 46–47% at every band below 2200. Among masters the picture changes. Over the board, White wins 38.5%, Black only 24.5%, and 37% are drawn, the best master score for White against any of the main answers to 1.e4 on this site.
+On Lichess the Scandinavian is close to even at club level: White wins 48–50% and Black 46–47% at every band below 2200. Among masters the picture changes. Over the board, White wins 38.5%, Black 24.5%, and 37% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Scandinavian Defense](https://en.wikipedia.org/w/index.php?title=Scandinavian_Defense&oldid=1383150160), version of 1 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Scandinavian_Defense), figures collected from September to November 2026.

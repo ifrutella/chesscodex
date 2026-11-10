@@ -1,4 +1,4 @@
-The Classical Variation of the [Ruy Lopez](/openings/ruy-lopez) (1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5), also called the Cordel Defence, develops Black's king's bishop to its most active square at once. It is possibly the oldest defence to the Ruy Lopez.
+The Classical Variation of the [Ruy Lopez](/openings/ruy-lopez) (1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5), also called the Cordel Defence, develops Black's king's bishop to c5 at once. It is possibly the oldest defence to the Ruy Lopez.
 
 ### Origins
 
@@ -37,3 +37,8 @@ The Classical Variation suits Black players who like active piece play and want 
 ### The numbers
 
 On Lichess White wins about 50% at every level: 49.5% against 46.7% under 1400, 49.8% against 46.3% at 1400–1799, 50.5% against 45.0% at 1800–2199 and 49.0% against 44.6% from 2200 up. There are only about 2,000 master games, too few to draw firm conclusions.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Ruy Lopez](https://en.wikipedia.org/w/index.php?title=Ruy_Lopez&oldid=1382049415), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ruy_Lopez_Classical_Variation), figures collected from September to November 2026.

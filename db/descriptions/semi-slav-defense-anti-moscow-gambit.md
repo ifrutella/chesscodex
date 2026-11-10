@@ -15,3 +15,8 @@ White usually continues 9.Be2, and Black answers 9...Bb7, an important prophylac
 ### The numbers
 
 On Lichess White wins 50.1% of the 268,796 games and Black 44.8%. White is well ahead below 1800, while from 1800 up the results are closer. Masters draw most of their games: in 10,031 games over the board 71.3% were drawn, White won 18.3% and Black 10.4%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Semi-Slav Defense](https://en.wikipedia.org/w/index.php?title=Semi-Slav_Defense&oldid=1382050321), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Semi-Slav_Defense_Anti-Moscow_Gambit), figures collected from September to November 2026.

@@ -15,3 +15,8 @@ Black can also play 7...g6 at once, which makes White's typical plan of e3â€“e4â
 ### The numbers
 
 On Lichess White wins 48.7% of the 109,646 games and Black 43.7%, with 7.6% drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Semi-Slav Defense](https://en.wikipedia.org/w/index.php?title=Semi-Slav_Defense&oldid=1382050321), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Semi-Slav_Defense_Moscow_Variation), figures collected from September to November 2026.

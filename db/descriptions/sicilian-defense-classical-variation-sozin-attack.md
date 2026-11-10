@@ -16,3 +16,8 @@ Instead of 6...e6 Black can play Benko's move, 6...Qb6, which forces White to de
 ### The numbers
 
 On Lichess White wins 48.3% of the 1 million games and Black 47.0%. Under 1400 Black is slightly ahead, 48.5% against 48.0%; from 2200 up White leads 48.4% to 45.3%. Masters over the board split the results almost exactly: in 8,387 games White won 32.9%, Black 33.7%, and 33.4% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Classical_Variation_Sozin_Attack), figures collected from September to November 2026.

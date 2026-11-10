@@ -1,4 +1,4 @@
-The Göring Gambit is 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3: in the [Scotch Game](/openings/scotch-game) White offers a second pawn instead of recapturing on d4. It is a delayed version of the [Danish Gambit](/openings/danish-gambit) (1.e4 e5 2.d4 exd4 3.c3), into which it can transpose. White gives up one or two pawns for a lead in development.
+The Göring Gambit is 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3: in the [Scotch Game](/openings/scotch-game) White offers a pawn instead of recapturing on d4. It is a delayed version of the [Danish Gambit](/openings/danish-gambit) (1.e4 e5 2.d4 exd4 3.c3), into which it can transpose. White gives up one or two pawns for a lead in development.
 
 ### Origins
 
@@ -18,3 +18,8 @@ White usually puts pressure on f7 with Bc4 and Qb3, sometimes adding Ng5, and th
 ### The numbers
 
 On Lichess White wins 55.2% of the 2.8 million games and Black 40.7%. Below 2200 White wins 53 to 56%, and from 2200 up the margin shrinks to 48.8% against 44.3%. In 736 master games over the board the two sides are level: White won 31.1%, Black 31.2%, and 37.6% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Scotch Game](https://en.wikipedia.org/w/index.php?title=Scotch_Game&oldid=1383332845), version of 2 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Scotch_Game_Goring_Gambit), figures collected from September to November 2026.

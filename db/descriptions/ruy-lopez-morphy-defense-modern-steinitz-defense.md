@@ -19,3 +19,8 @@ After 5.d4 Black can break the pin at once with 5...b5 6.Bb3 Nxd4 7.Nxd4 exd4. N
 ### The numbers
 
 On Lichess White wins 49.3% of the 1.1 million games and Black 45.3%. The balance changes with rating: White leads 53.0% to 43.2% under 1400, while from 2200 up Black is ahead, 47.3% against 45.1%. In 6,364 master games over the board White won 36.3%, Black 24.7%, and 39.0% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Ruy Lopez](https://en.wikipedia.org/w/index.php?title=Ruy_Lopez&oldid=1382049415), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ruy_Lopez_Morphy_Defense_Modern_Steinitz_Defense), figures collected from September to November 2026.

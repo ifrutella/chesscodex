@@ -30,3 +30,8 @@ The Accelerated Dragon suits Black players who like the Dragon's fianchetto but 
 ### The numbers
 
 On Lichess Black does better up to 2200: 50.6% against 46.0% under 1400, 49.0% against 47.0% at 1400–1799 and 47.9% against 46.6% at 1800–2199. From 2200 up the results are level, 45.9% for Black against 45.7%. In about 13,900 master games White won 34.4%, Black 23.0%, and 42.6% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Accelerated_Dragon), figures collected from September to November 2026.

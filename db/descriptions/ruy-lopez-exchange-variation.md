@@ -2,7 +2,7 @@ The Exchange Variation of the [Ruy Lopez](/openings/ruy-lopez) (1.e4 e5 2.Nf3 Nc
 
 ### Origins
 
-Max Euwe assessed the pure pawn ending, with all pieces except the kings removed, as a win for White. Emanuel Lasker had great success with the line in the late 19th and early 20th centuries, most famously in his win over José Raúl Capablanca at St. Petersburg 1914. Bobby Fischer turned 5.O-O into a serious weapon in the 1960s, for example in his wins over Portisch and Gligorić at the 1966 Havana Olympiad.
+Max Euwe assessed the pure pawn ending, with all pieces except the kings removed, as a win for White. Emanuel Lasker had great success with the line in the late 19th and early 20th centuries, most famously in his win over José Raúl Capablanca at St. Petersburg 1914. Bobby Fischer turned 5.O-O into a serious weapon in the 1960s, for example in his games against Portisch and Gligorić at the 1966 Havana Olympiad.
 
 ### The idea
 
@@ -13,7 +13,7 @@ After 4...dxc6 Black has doubled c-pawns but the bishop pair as compensation, so
 - 4...dxc6, almost always played:
   - 5.O-O, the most common move, sometimes called the Barendregt Variation after Johan Barendregt ([Normal Variation](/openings/ruy-lopez-exchange-variation-normal-variation) in this database). Unlike 5.d4, it forces Black to defend e5, usually with 5...f6 ([Gligorić Variation](/openings/ruy-lopez-exchange-variation-gligoric-variation)), 5...Bg4, 5...Qd6 (the sharpest, preparing long castling; [Bronstein Variation](/openings/ruy-lopez-exchange-variation-bronstein-variation)), 5...Qf6, 5...Qe7 or 5...Bd6 ([King's Bishop Variation](/openings/ruy-lopez-exchange-variation-kings-bishop-variation));
   - 5.Nc3 ([Keres Variation](/openings/ruy-lopez-exchange-variation-keres-variation)), usually met by 5...f6;
-  - 5.d4 exd4 6.Qxd4 Qxd4 7.Nxd4, most often followed by 7...Bd7, Lasker's line.
+  - 5.d4 exd4 6.Qxd4 Qxd4 7.Nxd4, Lasker's line, most often followed by 7...Bd7.
 - 4...bxc6, the [Lutikov Variation](/openings/ruy-lopez-exchange-variation-lutikov-variation), is much less popular than 4...dxc6. Black gets the half-open b-file, but the central pawn structure becomes awkward.
 
 ### Strengths and weaknesses
@@ -35,3 +35,9 @@ The Exchange Variation suits White players who like endgames and clear structura
 ### The numbers
 
 On Lichess White leads under 1400, 51.5% against 43.7%, and by a smaller margin above: 48.7% against 46.3% at 1400–1799, 48.9% against 44.7% at 1800–2199 and 48.8% against 41.5% from 2200 up. In about 10,100 master games 52.9% were drawn; White won 26.4% and Black 20.7%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Ruy Lopez](https://en.wikipedia.org/w/index.php?title=Ruy_Lopez&oldid=1382049415), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- The 4...bxc6 recapture: adapted from the Wikipedia article [Ruy Lopez, Exchange Variation](https://en.wikipedia.org/w/index.php?title=Ruy_Lopez%2C_Exchange_Variation&oldid=1382049337), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ruy_Lopez_Exchange_Variation), figures collected from September to November 2026.

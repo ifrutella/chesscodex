@@ -1,4 +1,4 @@
-The Berlin Defense (1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6) is the most solid answer to the [Ruy Lopez](/openings/ruy-lopez). Black counterattacks the e4-pawn instead of playing 3...a6, and in the main line heads for a queenless endgame nicknamed the "Berlin Wall". It is known as one of the most reliable drawing weapons in chess.
+The Berlin Defense (1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6) is Black's second most popular answer to the [Ruy Lopez](/openings/ruy-lopez), after 3...a6. Black counterattacks the e4-pawn, and in the main line heads for a queenless endgame nicknamed the "Berlin Wall". It is often used as a drawing weapon.
 
 ### Origins
 
@@ -12,8 +12,8 @@ In the main line, 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8, the q
 
 - [Berlin Wall endgame](/openings/ruy-lopez-berlin-defense-lhermet-variation-berlin-wall-defense) after 4.O-O Nxe4 5.d4 Nd6: the main line described above.
 - After [4.O-O Nxe4](/openings/ruy-lopez-berlin-defense-rio-gambit-accepted), Black can also avoid the early queen trade with 5.d4 Be7, the Rio de Janeiro Variation.
-- [4.O-O Bc5](/openings/ruy-lopez-berlin-defense-beverwijk-variation): a sharper, tactically rich line.
-- [Anti-Berlin](/openings/ruy-lopez-berlin-defense-anti-berlin-variation) 4.d3: White protects e4 and avoids the endgame, heading for a slow manoeuvring game.
+- [4.O-O Bc5](/openings/ruy-lopez-berlin-defense-beverwijk-variation): the Beverwijk Variation, also reached from the Cordel Defence (3...Bc5).
+- [Anti-Berlin](/openings/ruy-lopez-berlin-defense-anti-berlin-variation) 4.d3: White protects e4, keeps the game closed and sidesteps the Berlin endgame.
 
 ### Strengths and weaknesses
 
@@ -21,7 +21,7 @@ In the main line, 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8, the q
 
 - Very solid: one of the best ways for Black to neutralise 1.e4 at the top level.
 - The endgame is well understood and hard for White to win.
-- It forced a change in top-level chess: many White players moved to the Anti-Berlin or the Italian Game.
+- It changed top-level practice: many White players turned to the Anti-Berlin 4.d3 to avoid the drawish lines.
 
 **Weaknesses**
 
@@ -35,4 +35,9 @@ The Berlin suits solid, endgame-minded players who want a reliable defence again
 
 ### The numbers
 
-The Berlin's numbers show the gap between club and master chess. On Lichess below 2200, White wins 51.5–52.5% and Black 43–43.5%. Above 2200 it is 48% against 43%. Among masters over the board it is the "Berlin Wall": 65% of games are drawn, White wins 21% and Black 14%.
+On Lichess below 2200, White wins 51.4–52.5% and Black 43–43.5%. Above 2200 it is 48% against 43%. Among masters over the board 65% of games are drawn, White wins 21% and Black 14%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Berlin Defence](https://en.wikipedia.org/w/index.php?title=Berlin_Defence&oldid=1384532989), version of 8 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ruy_Lopez_Berlin_Defense), figures collected from September to November 2026.

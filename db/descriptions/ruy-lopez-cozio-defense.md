@@ -10,4 +10,9 @@ The same idea can be played a move later, 3...a6 4.Ba4 Nge7, the Cozio Defense D
 
 ### The numbers
 
-On Lichess White wins 50.9% of the 3.1 million games and Black 44.4%. The gap narrows with rating: 50.6% against 45.4% under 1400, and 46.7% against 46.1% from 2200 up. In 2,378 master games over the board White won 36.5%, Black 26.1%, and 37.4% were drawn.
+On Lichess White wins 50.9% of the 3.1 million games and Black 44.4%. The gap is narrower at the top: 50.6% against 45.4% under 1400, and 46.7% against 46.1% from 2200 up. In 2,378 master games over the board White won 36.5%, Black 26.1%, and 37.4% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Ruy Lopez](https://en.wikipedia.org/w/index.php?title=Ruy_Lopez&oldid=1382049415), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ruy_Lopez_Cozio_Defense), figures collected from September to November 2026.

@@ -13,3 +13,8 @@ From the 1950s it became less feared as Black found new methods against it. Larr
 ### The numbers
 
 On Lichess White wins 48.7% of the 1.4 million games and Black 44.0%. Under 1400 Black leads 50.3% to 46.3%; from 2200 up the results are close, 45.8% for White against 44.1%, with 10.1% drawn. In 10,128 master games over the board White won 36.1%, Black 18.3%, and 45.7% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Maróczy Bind](https://en.wikipedia.org/w/index.php?title=Mar%C3%B3czy_Bind&oldid=1361715542), version of 29 June 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Accelerated_Dragon_Maroczy_Bind), figures collected from September to November 2026.
