@@ -14,3 +14,8 @@ Black can play 4...h6 or the immediate 4...c5. After 4...h6 the game may go 5.Bh
 ### The numbers
 
 On Lichess Black wins slightly more often overall: 48.0% against 47.0% for White in 1.7 million games. White is ahead below 1800, 52.2% against 44.4% under 1400, but from 1800 up Black leads: 48.8% against 45.9% between 1800 and 2199, and 48.0% against 45.3% from 2200 up. In 2,095 master games over the board White won 29.2%, Black 30.5%, and 40.2% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Nimzo-Indian Defence](https://en.wikipedia.org/w/index.php?title=Nimzo-Indian_Defence&oldid=1382022682), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Nimzo-Indian_Defense_Leningrad_Variation), figures collected from September to November 2026.

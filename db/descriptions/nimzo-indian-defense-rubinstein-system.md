@@ -18,4 +18,9 @@ Besides Gligorić and Portisch on the white side, many of its lines carry the na
 
 ### The numbers
 
-On Lichess White wins 49.3% of the 1.8 million games and Black 44.8%. Under 1800 White wins about 51% against about 45.5%, and from 2200 up 48.9% against 43.4%, with 7.7% draws. In 36,178 master games over the board 44.9% were drawn, White won 29.7% and Black 25.4%.
+On Lichess White wins 49.3% of the 1.8 million games and Black 44.8%. Under 1800 White wins about 51% against 45.0–45.9%, and from 2200 up 48.9% against 43.4%, with 7.7% draws. In 36,178 master games over the board 44.9% were drawn, White won 29.7% and Black 25.4%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Nimzo-Indian Defence](https://en.wikipedia.org/w/index.php?title=Nimzo-Indian_Defence&oldid=1382022682), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Nimzo-Indian_Defense_Rubinstein_System), figures collected from September to November 2026.

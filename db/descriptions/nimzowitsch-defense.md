@@ -15,7 +15,7 @@ After 2.d4, Black has two main answers:
 - [Kennedy Variation](/openings/nimzowitsch-defense-kennedy-variation) 2...e5, favoured by Tony Miles:
   - 3.Nf3 transposes to the [Scotch Game](/openings/scotch-game);
   - [3.d5](/openings/nimzowitsch-defense-kennedy-variation-linksspringer-variation) Nce7 gains space;
-  - 3.dxe5 Nxe5 leads to open play.
+  - 3.dxe5 Nxe5, followed by 4.Nf3 or 4.f4.
 
 The most common reply in databases is [2.Nf3](/openings/nimzowitsch-defense-declined-variation), when Black can choose 2...d6 ([Williams Variation](/openings/nimzowitsch-defense-williams-variation)), 2...e6 ([Franco-Nimzowitsch](/openings/nimzowitsch-defense-franco-nimzowitsch-variation)), 2...e5 with a normal open game, or the sharp Colorado Gambit 2...f5.
 
@@ -40,3 +40,8 @@ The Nimzowitsch suits players who like unusual positions and want to take the op
 ### The numbers
 
 On Lichess White does better at lower levels (51.8% against 44.1% under 1400), but from 1800 up it is nearly even: 47.6% against 48% at 1800–2199, and 47.3% against 46.3% from 2200 up. In master games over the board, White wins 38.3%, Black 28.5% and 33.2% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Nimzowitsch Defence](https://en.wikipedia.org/w/index.php?title=Nimzowitsch_Defence&oldid=1382022497), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Nimzowitsch_Defense), figures collected from September to November 2026.

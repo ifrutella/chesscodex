@@ -16,3 +16,8 @@ Because the main line has held up well for Black, since the 1980s White has ofte
 ### The numbers
 
 On Lichess White wins 48.2% of the 737,000 games and Black 45.4%. The margin is small both under 1400, 49.9% against 46.9%, and from 2200 up, 48.0% against 44.1%. In 22,646 master games over the board 48.0% were drawn, White won 27.5% and Black 24.5%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Nimzo-Indian Defence](https://en.wikipedia.org/w/index.php?title=Nimzo-Indian_Defence&oldid=1382022682), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Nimzo-Indian_Defense_Normal_Variation), figures collected from September to November 2026.
