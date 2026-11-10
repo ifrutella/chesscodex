@@ -15,3 +15,8 @@ White's other major try is 4.Nc3 Nxe5 5.e4, which gives White a lead in developm
 ### The numbers
 
 On Lichess White wins 49.2% of the 5.3 million games and Black 46.6%. The trend runs against Black as ratings rise: Black wins 52.4% under 1400 but only 40.5% from 2200 up, where White wins 53.3%. There are too few master games, 57, for their result to say much.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Englund Gambit](https://en.wikipedia.org/w/index.php?title=Englund_Gambit&oldid=1382025129), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Englund_Gambit_Main_Line), figures collected from September to November 2026.

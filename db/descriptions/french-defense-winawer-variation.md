@@ -38,3 +38,8 @@ The Winawer suits French players who like sharp, unbalanced positions and are re
 ### The numbers
 
 On Lichess the results are level under 1400 (48.1% for Black against 48.0%), and White leads from there on: 49.5% against 46.7% at 1400–1799, 49.4% against 45.6% at 1800–2199 and 48.1% against 44.9% from 2200 up. In about 31,800 master games White won 37.5%, Black 24.2%, and 38.3% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [French Defence](https://en.wikipedia.org/w/index.php?title=French_Defence&oldid=1380968956), version of 19 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/French_Defense_Winawer_Variation), figures collected from September to November 2026.

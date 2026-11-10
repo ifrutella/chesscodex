@@ -1,4 +1,4 @@
-The Milner-Barry Gambit is a sharp line of the [Advance Variation](/openings/french-defense-advance-variation) of the French: 1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3. White develops the bishop instead of protecting d4, and offers the d-pawn for quick development and an attack.
+The Milner-Barry Gambit is a gambit line of the [Advance Variation](/openings/french-defense-advance-variation) of the French: 1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3. White develops the bishop instead of protecting d4, and offers the d-pawn for quick development and an attack.
 
 ### Origins
 
@@ -14,3 +14,9 @@ The main line continues [6...cxd4 7.cxd4 Bd7 8.O-O](/openings/french-defense-adv
 ### The numbers
 
 On Lichess White wins 50.3% of the 2.2 million games and Black 45.5%. The split hardly moves with rating: 50.1% against 47.1% under 1400, and 49.7% against 44.6% from 2200 up. In 779 master games over the board White won 40.1%, Black 32.2%, and 27.7% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [French Defence](https://en.wikipedia.org/w/index.php?title=French_Defence&oldid=1380968956), version of 19 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Stuart Milner-Barry: adapted from the Wikipedia article [Stuart Milner-Barry](https://en.wikipedia.org/w/index.php?title=Stuart_Milner-Barry&oldid=1368795594), version of 11 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/French_Defense_Advance_Variation_Milner-Barry_Gambit), figures collected from September to November 2026.

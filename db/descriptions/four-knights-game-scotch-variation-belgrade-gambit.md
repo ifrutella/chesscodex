@@ -15,4 +15,9 @@ The move 4.Nd5, the Naroditsky Variation, has a similar idea.
 
 ### The numbers
 
-On Lichess White wins 54.4% of the 220,000 games and Black 40.0%. Under 1400 Black is slightly ahead, 48.4% against 47.9%, but from 1400 up White wins clearly: 55.3% against 39.2% between 1800 and 2199, and 50.9% against 41.2% from 2200 up. In 484 master games over the board Black won 32.6%, White 22.5%, and 44.8% were drawn.
+On Lichess White wins 54.4% of the 219,513 games and Black 40.0%. Under 1400 Black is slightly ahead, 48.4% against 47.9%, but from 1400 up White wins clearly: 55.3% against 39.2% between 1800 and 2199, and 50.9% against 41.2% from 2200 up. In 484 master games over the board Black won 32.6%, White 22.5%, and 44.8% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Four Knights Game](https://en.wikipedia.org/w/index.php?title=Four_Knights_Game&oldid=1382024906), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Four_Knights_Game_Scotch_Variation_Belgrade_Gambit), figures collected from September to November 2026.
