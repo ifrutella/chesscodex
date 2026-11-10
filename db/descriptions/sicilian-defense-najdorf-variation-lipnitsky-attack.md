@@ -11,3 +11,8 @@ Because the bishop aims at f7, Black usually counters with 6...e6 7.Bb3 b5. The 
 ### The numbers
 
 On Lichess White wins 48.0% of the 2.5 million games and Black 47.5%. Black does a little better below 1800, while from 2200 up White is ahead, 50.5% against 43.8%. In 7,689 master games over the board White won 31.1%, Black 34.1%, and 34.9% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence, Najdorf Variation](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence%2C_Najdorf_Variation&oldid=1383589848), version of 3 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Najdorf_Variation_Lipnitsky_Attack), figures collected from September to November 2026.
