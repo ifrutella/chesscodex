@@ -170,21 +170,19 @@ final class OpeningHelpersTest extends TestCase
         $this->assertSame(["### Sources of the name\n\nText.", ''], OpeningPage::splitSources("### Sources of the name\n\nText."));
     }
 
-    #[TestDox('db/descriptions: a Sources list is the last section, one "- " line per source, with a fixed Wikipedia version')]
+    #[TestDox('db/descriptions: every text ends with a Sources list, one "- " line per source, with a fixed Wikipedia version')]
     public function testDescriptionSources(): void
     {
-        $withSources = 0;
-        foreach (glob(__DIR__ . '/../db/descriptions/*.md') ?: [] as $file) {
+        $files = glob(__DIR__ . '/../db/descriptions/*.md') ?: [];
+        $this->assertNotEmpty($files);
+        foreach ($files as $file) {
             [, $sources] = OpeningPage::splitSources((string) file_get_contents($file));
-            if ($sources === '') continue;
-            $withSources++;
             $name = basename($file);
             $this->assertMatchesRegularExpression('~\]\(https://en\.wikipedia\.org/w/index\.php\?title=[^&)]+&oldid=\d+\)~', $sources, $name);
             foreach (preg_split('/\R+/', $sources) ?: [] as $line) {
                 $this->assertStringStartsWith('- ', $line, $name . ': only list lines after "### Sources"');
             }
         }
-        $this->assertGreaterThan(0, $withSources);
     }
 
     #[TestDox('titleAlias: the first alias with a word the name lacks, else null')]

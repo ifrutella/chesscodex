@@ -1,4 +1,4 @@
-The Exchange Variation of the [Slav Defense](/openings/slav-defense) (1.d4 d5 2.c4 c6 3.cxd5) releases the central tension at once. After 3...cxd5 the pawn structure is symmetrical, and White's only advantage is the extra move. It was once described as "the system that takes the fun out of playing the Slav" for Black.
+The Exchange Variation of the [Slav Defense](/openings/slav-defense) (1.d4 d5 2.c4 c6 3.cxd5) releases the central tension at once. Black recaptures 3...cxd5 in about 93% of Lichess games; the pawn structure is then symmetrical, and White's only advantage is the extra move. It was once described as "the system that takes the fun out of playing the Slav" for Black.
 
 ### The idea
 

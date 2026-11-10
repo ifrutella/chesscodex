@@ -24,7 +24,7 @@ White develops the bishop at once and keeps f2–f4 in reserve, at the cost of l
 
 ### The numbers
 
-On Lichess it is rare: it appears in fewer than one in a thousand games that start 1.e4 e5. Its results change with the rating. Under 1400 Black wins 57.2% and White 37.1%, and at 1400–1799 Black still leads, 51.7% against 44.4%. At 1800–2199 it is nearly level, 48.2% for Black against 47.7% for White, and from 2200 up White is ahead, 49.0% against 45.1%. There are only 62 master games, too few to draw conclusions.
+On Lichess it is rare: it appears in fewer than one in a thousand games that start 1.e4 e5. Its results change with the rating. Under 1400 Black wins 57.2% and White 37.1%, and at 1400–1799 Black still leads, 51.7% against 44.4%. At 1800–2199 it is nearly level, 48.2% for Black against 47.7% for White, and from 2200 up White is ahead, 49.0% against 45.1%. There are only 62 master games, too few to draw conclusions. Stockfish rates the position after 2.Bb5 as about equal (−0.09).
 
 ### Sources
 
