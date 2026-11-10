@@ -1,4 +1,4 @@
-The Semi-Tarrasch Defense is a variation of the [Queen's Gambit Declined](/openings/queens-gambit-declined): 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5. This page reaches it by the move order 1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5. Unlike the regular [Tarrasch Defense](/openings/queens-gambit-declined-tarrasch-defense), where Black plays ...c5 on move three, Black does not have to accept an isolated queen's pawn, because after the usual 5.cxd5 Black can take back with the knight. In return Black gives White a central advantage. Its ECO codes are D40 to D42.
+The Semi-Tarrasch Defense is a variation of the [Queen's Gambit Declined](/openings/queens-gambit-declined): 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5. This page reaches it by the move order 1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5. Unlike the regular [Tarrasch Defense](/openings/queens-gambit-declined-tarrasch-defense), where Black plays ...c5 on move three, Black does not have to accept an isolated queen's pawn, because after the usual 5.cxd5 Black can take back with the knight. In return Black cedes a spatial advantage to White. Its ECO codes are D40 to D42.
 
 ### Main lines
 
@@ -14,3 +14,8 @@ Ding Liren played the Symmetrical Variation against Hikaru Nakamura in the last 
 ### The numbers
 
 On Lichess White wins 49.3% of the 2.2 million games and Black 44.3%. Under 1400 it is exactly even, 48.1% each. From 2200 up White wins 46.0% and Black 43.6%, with 10.5% draws. Over the board masters draw a lot: in 5,405 games 57.9% were drawn, White won 28.5% and Black 13.6%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Semi-Tarrasch Defense](https://en.wikipedia.org/w/index.php?title=Semi-Tarrasch_Defense&oldid=1370147569), version of 19 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Semi-Tarrasch_Defense), figures collected from September to November 2026.

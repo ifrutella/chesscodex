@@ -29,3 +29,8 @@ The Exchange Variation suits White players who like clear strategic plans such a
 ### The numbers
 
 On Lichess White wins about 51–52% at every level: 50.7% against 45.5% under 1400, 51.9% against 43.7% at 1400–1799, 52.1% against 42.2% at 1800–2199 and 51.1% against 40.9% from 2200 up. In about 18,400 master games White won 35.7%, Black only 16.6%, and 47.7% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Queen's Gambit Declined](https://en.wikipedia.org/w/index.php?title=Queen%27s_Gambit_Declined&oldid=1382050090), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Exchange_Variation), figures collected from September to November 2026.

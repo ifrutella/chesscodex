@@ -20,3 +20,8 @@ The Baltic has never been widely accepted among masters, but world-class grandma
 ### The numbers
 
 On Lichess White wins 52.7% of the 4 million games and Black 42.9%. Below 2200 the split hardly changes with rating: 52.8% against 43.9% under 1400, and 53.3% against 42.0% between 1800 and 2199. From 2200 up the two sides are level, 46.3% against 46.2%. In 1,072 master games over the board White won 43.8%, Black only 19.2%, and 36.9% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Baltic Defense](https://en.wikipedia.org/w/index.php?title=Baltic_Defense&oldid=1379316535), version of 9 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Baltic_Defense), figures collected from September to November 2026.

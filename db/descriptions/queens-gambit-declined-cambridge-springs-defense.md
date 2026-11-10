@@ -19,3 +19,8 @@ White can avoid the Cambridge Springs altogether by taking on d5 earlier, transp
 ### The numbers
 
 On Lichess Black wins 47.7% of the 610,000 games and White 46.0%. Between 1400 and 1799 Black is well ahead, 54.4% against 41.5%. From 1800 up White catches up: 46.2% against 47.9% between 1800 and 2199, and 48.2% against 43.4% from 2200 up. In 2,998 master games over the board 51.0% were drawn, White won 32.0% and Black 17.0%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Queen's Gambit Declined](https://en.wikipedia.org/w/index.php?title=Queen%27s_Gambit_Declined&oldid=1382050090), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Cambridge_Springs_Defense), figures collected from September to November 2026.

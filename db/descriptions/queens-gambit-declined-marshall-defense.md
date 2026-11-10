@@ -35,3 +35,8 @@ Because it is considered dubious, the Marshall Defense is at most an occasional 
 ### The numbers
 
 On Lichess White does well at every level: 52.7% against 43.5% under 1400, 53.3% against 42.6% at 1400–1799, 53.7% against 41.4% at 1800–2199 and 54.5% against 39.2% from 2200 up. There are only a few hundred master games, too few to draw firm conclusions.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Marshall Defense](https://en.wikipedia.org/w/index.php?title=Marshall_Defense&oldid=1339097704), version of 18 February 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Marshall_Defense), figures collected from September to November 2026.
