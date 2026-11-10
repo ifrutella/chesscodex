@@ -1,4 +1,4 @@
-The St. George Defense is 1.e4 a6, an unorthodox reply in which Black prepares ...b5 and a queenside fianchetto instead of fighting for the centre at once. It is also known as the Baker Defense, the Birmingham Defense and the Basman Counterattack, and is classified as B00.
+The St. George Defense is 1.e4 a6, an unorthodox reply in which Black prepares ...b5 and a queenside fianchetto instead of fighting for the centre at once. It is also known as the Baker's Defense, the Birmingham Defense and the Basman Counterattack, and is classified as B00.
 
 ### Origins
 
@@ -28,3 +28,8 @@ The St. George suits players who want to leave theory early and are happy to pla
 ### The numbers
 
 On Lichess White wins 50.1% of the 3.7 million games and Black 45.8%. The gap narrows as the rating rises: under 1400 White wins 51.6% against 44.5%, and from 2200 up 47.3% against 46.6%. In 463 master games over the board White won 47.9%, Black 28.1%, and 24.0% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [St. George Defence](https://en.wikipedia.org/w/index.php?title=St._George_Defence&oldid=1380849628), version of 18 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/St_George_Defense), figures collected from September to November 2026.

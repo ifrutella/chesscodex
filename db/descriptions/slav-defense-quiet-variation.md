@@ -13,3 +13,8 @@ Another way to play for Black is 4...Bg4.
 ### The numbers
 
 On Lichess White wins 48.8% of the 2.7 million games and Black 44.6%. From 2200 up White's lead grows to 50.1% against 40.9%, with 9.0% drawn. Masters draw more than half their games: in 29,404 games over the board 54.8% were drawn, White won 29.1% and Black 16.1%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Slav Defense](https://en.wikipedia.org/w/index.php?title=Slav_Defense&oldid=1381946452), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Slav_Defense_Quiet_Variation), figures collected from September to November 2026.

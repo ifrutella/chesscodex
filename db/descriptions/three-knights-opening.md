@@ -35,3 +35,8 @@ The Three Knights suits players who like quiet, classical development and want t
 ### The numbers
 
 On Lichess the results are close below 1800: 48.0% for White against 47.4% under 1400, and 48.1% against 47.4% at 1400–1799. From 1800 White pulls ahead, 50.0% against 44.8% at 1800–2199 and 50.1% against 41.4% from 2200 up, where 8.5% of games are drawn. In about 14,600 master games 48.0% were drawn; White won 27.5% and Black 24.5%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Three Knights Game](https://en.wikipedia.org/w/index.php?title=Three_Knights_Game&oldid=1381945658), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Three_Knights_Opening), figures collected from September to November 2026.
