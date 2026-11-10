@@ -16,4 +16,9 @@ White can also avoid d3. The most common alternative is 3.Nc3, a position also c
 
 ### The numbers
 
-On Lichess White wins 50.5% of the 18 million games and Black 45.3%. The gap is similar at every level: 49.9% against 46.4% under 1400 and 48.4% against 44.8% from 2200 up. In 7,755 master games over the board 44.6% were drawn, White won 33.3% and Black 22.1%.
+On Lichess White wins 50.5% of the 18 million games and Black 45.3%. White leads at every level, for example 49.9% against 46.4% under 1400 and 48.4% against 44.8% from 2200 up. In 7,755 master games over the board 44.6% were drawn, White won 33.3% and Black 22.1%.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Bishop's Opening](https://en.wikipedia.org/w/index.php?title=Bishop%27s_Opening&oldid=1380301426), version of 14 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Bishops_Opening_Berlin_Defense), figures collected from September to November 2026.

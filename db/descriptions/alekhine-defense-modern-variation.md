@@ -16,3 +16,8 @@ After 4...dxe5 5.Nxe5 Nd7 White can play 6.Nxf7 Kxf7 7.Qh5+ Ke6. The sacrifice i
 ### The numbers
 
 On Lichess the results are level: White and Black each win 47.0% of the 1.6 million games. Under 1400 White leads 52.7% to 43.4%; between 1800 and 2199 Black is ahead, 47.7% against 46.7%; from 2200 up White leads again, 48.1% against 44.1%. In 9,805 master games over the board White won 38.8%, Black 22.3%, and 38.9% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Alekhine's Defence](https://en.wikipedia.org/w/index.php?title=Alekhine%27s_Defence&oldid=1379317262), version of 9 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Alekhine_Defense_Modern_Variation), figures collected from September to November 2026.

@@ -11,3 +11,8 @@ The trap, named after Hermann Halosar, arises after 5...Qxd4 6.Be3 Qb4 7.O-O-O B
 ### The numbers
 
 On Lichess White wins 51.3% of the 976,818 games and Black 45.4%. The result turns with rating: White wins 54.1% under 1400, but from 2200 up Black is ahead, 51.3% against 43.9%. There are only 4 master games.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Blackmar–Diemer Gambit](https://en.wikipedia.org/w/index.php?title=Blackmar%E2%80%93Diemer_Gambit&oldid=1381541710), version of 23 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Blackmar-Diemer_Gambit_Accepted_Ryder_Gambit), figures collected from September to November 2026.

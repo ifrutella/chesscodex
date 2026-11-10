@@ -15,3 +15,8 @@ The worst answer to From's Gambit is 2.g4, which allows 2...Qh4#, the Fool's Mat
 ### The numbers
 
 On Lichess Black wins slightly more often: 48.7% against 47.5% for White in 2.9 million games. Black is ahead or level below 2200, for example 49.1% against 45.8% under 1400 and 49.0% against 47.0% between 1800 and 2199. From 2200 up White leads, 49.1% against 45.6%. In 406 master games over the board White won 38.4%, Black 27.3%, and 34.2% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Bird's Opening](https://en.wikipedia.org/w/index.php?title=Bird%27s_Opening&oldid=1382028236), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Bird_Opening_Froms_Gambit), figures collected from September to November 2026.

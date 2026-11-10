@@ -15,3 +15,8 @@ The pawn on f3 protects e4. If Black takes on e4, White recaptures with the f-pa
 ### The numbers
 
 On Lichess White wins 52.4% of the 2.5 million games and Black 43.2%. Under 1400 it is closer, 49.3% against 46.8%, and from 1400 up White wins about 51 to 53%. In 2,515 master games over the board White won 37.5%, Black 30.4%, and 32.2% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Caro–Kann Defence](https://en.wikipedia.org/w/index.php?title=Caro%E2%80%93Kann_Defence&oldid=1381151588), version of 20 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Caro-Kann_Defense_Maroczy_Variation), figures collected from September to November 2026.

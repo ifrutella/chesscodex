@@ -33,3 +33,8 @@ The Elephant Gambit is mainly a surprise weapon. White players should know 3.exd
 ### The numbers
 
 On Lichess White does well under 1400, 52.3% against 43.8%, and still leads at 1400–1799, 48.9% against 47.6%. From 1800 Black is ahead: 49.5% against 46.2% at 1800–2199 and 47.6% against 45.9% from 2200 up. There are only a few hundred master games, too few to draw firm conclusions.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Elephant Gambit](https://en.wikipedia.org/w/index.php?title=Elephant_Gambit&oldid=1382025479), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Elephant_Gambit), figures collected from September to November 2026.

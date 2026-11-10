@@ -11,7 +11,7 @@ After 3.d5 Black chooses the structure: ...e6 leads to the Modern Benoni, ...b5 
 ### Main lines
 
 - 3.d5, the main move:
-  - 3...e6, the [Modern Benoni](/openings/benoni-defense-modern-variation), the most common choice; after 4.Nc3 exd5 5.cxd5 d6 6.e4 the game reaches the [King's Pawn Line](/openings/benoni-defense-kings-pawn-line);
+  - 3...e6, the [Modern Benoni](/openings/benoni-defense-modern-variation); after 4.Nc3 exd5 5.cxd5 d6 6.e4 the game reaches the [King's Pawn Line](/openings/benoni-defense-kings-pawn-line);
   - 3...b5, the [Benko Gambit](/openings/benko-gambit), a pawn sacrifice for a queenside attack;
   - 3...e5, the [Czech Benoni](/openings/benoni-defense-czech-benoni-defense), also named after Karel Hromádka: more solid than the Modern Benoni but more passive, with much manoeuvring and breaks such as ...b5 or ...f5;
   - 3...d6 ([Hromadka System](/openings/benoni-defense-hromadka-system)) or 3...g6, usually transposing to main lines or to the [King's Indian Defense](/openings/kings-indian-defense).
@@ -36,3 +36,8 @@ After 3.d5 Black chooses the structure: ...e6 leads to the Modern Benoni, ...b5 
 ### The numbers
 
 On Lichess Black does very well between 1400 and 2200: 51.1% against 45.0% at 1400–1799 and 50.0% against 44.6% at 1800–2199. Under 1400 the results are level (48.5% against 48.3%), and from 2200 up White leads 47.4% against 45.3%. In about 37,700 master games White won 40.4%, Black 26.1%, and 33.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Benoni Defense](https://en.wikipedia.org/w/index.php?title=Benoni_Defense&oldid=1367149699), version of 1 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Benoni_Defense), figures collected from September to November 2026.

@@ -35,3 +35,8 @@ The Bird with 1...d5 suits White players who know the Dutch Defense from the Bla
 ### The numbers
 
 On Lichess Black does better under 1400 (50.2% against 45.5%), while White leads at 1400–1799 (50.1% against 46.0%) and 1800–2199 (49.8% against 45.1%); from 2200 up the results are level, 46.6% against 46.3%. In about 3,600 master games Black won more often than White, 33.4% against 25.4%, with 41.2% drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Bird's Opening](https://en.wikipedia.org/w/index.php?title=Bird%27s_Opening&oldid=1382028236), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Bird_Opening_Dutch_Variation), figures collected from September to November 2026.

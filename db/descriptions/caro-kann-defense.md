@@ -1,20 +1,20 @@
-The Caro-Kann Defense (1.e4 c6) is one of the most solid replies to 1.e4. Black prepares 2...d5 with the c-pawn in support, so the centre is challenged without shutting in the light-squared bishop, which is the main difference from the [French Defense](/openings/french-defense).
+The Caro-Kann Defense (1.e4 c6) is a common and solid reply to 1.e4. Black prepares 2...d5 with the c-pawn in support, so the centre is challenged without shutting in the light-squared bishop, unlike in the [French Defense](/openings/french-defense).
 
 ### Origins
 
-The opening is named after two 19th-century players, Horatio Caro, an Englishman who spent most of his chess career in Berlin, and the Austrian Marcus Kann, both of whom analysed it in 1886. A year earlier, Kann had beaten Jacques Mieses with it at the German Chess Congress in Hamburg. In the 20th century world champions such as José Raúl Capablanca, Mikhail Botvinnik and Anatoly Karpov played it. In the 21st century the Advance Variation became White's most popular answer, and players such as Ding Liren and Alireza Firouzja have used the Caro-Kann at the top level.
+The opening is named after two 19th-century players, Horatio Caro, an Englishman who spent most of his chess career in Berlin, and the Austrian Marcus Kann, both of whom analysed it in 1886. A year earlier, Kann had beaten Jacques Mieses with it at the German Chess Congress in Hamburg. In the 20th century the world champions José Raúl Capablanca and Mikhail Botvinnik played it. In the 21st century the Advance Variation became White's most popular answer, and players such as Ding Liren and Alireza Firouzja have used the Caro-Kann at the top level.
 
 ### The idea
 
-After 2.d4 d5 Black attacks e4 at once. In the main lines Black captures on e4 and develops the bishop to f5 or g4 before playing ...e6. That bishop, which is a problem piece in the French, becomes an active piece here. The price is time: Black spends a move on ...c6 and often gets a little less space. In return Black gets a very healthy pawn structure and a safe king, and often a good endgame.
+After 2.d4 d5 Black attacks e4 at once. In the Classical Variation Black captures on e4 and develops the bishop to f5 before playing ...e6, so the bishop that the French shuts in gets out. The price is a tempo: Black plays ...c6 and later ...c5 to contest d4, where in the French the c-pawn reaches c5 in one move, and Black can lag in development. In return Black makes very few compromises in the pawn structure.
 
 ### Main lines
 
-- [Classical Variation](/openings/caro-kann-defense-classical-variation) 3.Nc3 (or 3.Nd2) dxe4 4.Nxe4 Bf5: the traditional main line with ...Bg6 after Ng3, and the [modern h4 lines](/openings/caro-kann-defense-classical-variation-main-line).
+- [Classical Variation](/openings/caro-kann-defense-classical-variation) 3.Nc3 (or 3.Nd2) dxe4 4.Nxe4 Bf5: the traditional main line, which usually continues 5.Ng3 Bg6 and [6.h4](/openings/caro-kann-defense-classical-variation-main-line).
 - [Karpov Variation](/openings/caro-kann-defense-karpov-variation) 4...Nd7: solid, preparing ...Ngf6 without allowing doubled pawns.
-- [Advance Variation](/openings/caro-kann-defense-advance-variation) 3.e5: the most popular answer today. White gains space and Black plays ...Bf5, ...e6 and ...c5. The [Short Variation](/openings/caro-kann-defense-advance-variation-short-variation) with 4.Nf3 and Be2 is quiet but dangerous.
+- [Advance Variation](/openings/caro-kann-defense-advance-variation) 3.e5: the most popular answer today. White gains space at once, and Black usually develops the bishop with 3...Bf5. The [Short Variation](/openings/caro-kann-defense-advance-variation-short-variation) with 4.Nf3 and Be2 is the less ambitious line.
 - [Exchange Variation](/openings/caro-kann-defense-exchange-variation) 3.exd5 cxd5, and the [Panov Attack](/openings/caro-kann-defense-panov-attack) 4.c4, which leads to isolated-pawn positions.
-- [Two Knights Attack](/openings/caro-kann-defense-two-knights-attack) 2.Nc3 d5 3.Nf3: a flexible way to avoid the main theory.
+- [Two Knights Attack](/openings/caro-kann-defense-two-knights-attack) 2.Nc3 d5 3.Nf3: White aims for rapid development and keeps options for the d-pawn.
 
 ### Strengths and weaknesses
 
@@ -36,4 +36,10 @@ The Caro-Kann is ideal for players who want reliable, low-risk positions against
 
 ### The numbers
 
-On Lichess the Caro-Kann is balanced at every level: Black wins 47–49% below 2200, which is slightly better than White in the lower bands. Above 2200 White edges ahead 48% to 44%. In master games over the board, White wins 32%, Black 24% and 43% are drawn.
+On Lichess Black wins 47–49% below 2200, slightly more than White in the lower bands. Above 2200 White edges ahead 48% to 44%. In master games over the board, White wins 32%, Black 24% and 43% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Caro–Kann Defence](https://en.wikipedia.org/w/index.php?title=Caro%E2%80%93Kann_Defence&oldid=1381151588), version of 20 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Horatio Caro: adapted from the Wikipedia article [Horatio Caro](https://en.wikipedia.org/w/index.php?title=Horatio_Caro&oldid=1319822312), version of 1 November 2025, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Caro-Kann_Defense), figures collected from September to November 2026.

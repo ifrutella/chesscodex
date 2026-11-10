@@ -11,3 +11,8 @@ The popularity of the Blackmar Gambit was short-lived. It was basically unsound,
 ### The numbers
 
 On Lichess White wins 50.8% of the 1.2 million games and Black 45.6%. Black does better at both ends: 49.0% against 46.9% under 1400, and 50.5% against 44.1% from 2200 up. There are only 3 master games.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Blackmar–Diemer Gambit](https://en.wikipedia.org/w/index.php?title=Blackmar%E2%80%93Diemer_Gambit&oldid=1381541710), version of 23 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Blackmar-Diemer_Gambit_Blackmar_Gambit), figures collected from September to November 2026.

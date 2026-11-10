@@ -15,3 +15,8 @@ Other lines after 3...dxe4 4.Nxe4 are the [Classical Variation](/openings/caro-k
 ### The numbers
 
 On Lichess White wins 47.3% of the 3.2 million games and Black 45.8%. Under 1400 Black is slightly ahead, 48.2% against 47.8%; from 2200 up White leads 47.1% to 44.1%. In 4,116 master games over the board White won 30.4%, Black 26.2%, and 43.4% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Caro–Kann Defence](https://en.wikipedia.org/w/index.php?title=Caro%E2%80%93Kann_Defence&oldid=1381151588), version of 20 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Caro-Kann_Defense_Tartakower_Variation), figures collected from September to November 2026.

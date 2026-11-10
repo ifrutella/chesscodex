@@ -15,3 +15,8 @@ Grandmaster Ben Finegold often plays the Czech Benoni and notably beat Shakhriya
 ### The numbers
 
 On Lichess Black wins 49.8% of the 396,187 games and White 45.0%. Under 1400 White is well ahead, 52.4% against 44.4%, and from 2200 up the results are level, 46.9% for Black against 46.4%. Masters have done better with White: in 3,030 games over the board White won 44.5%, Black 24.4%, and 31.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Benoni Defense](https://en.wikipedia.org/w/index.php?title=Benoni_Defense&oldid=1367149699), version of 1 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Benoni_Defense_Czech_Benoni_Defense), figures collected from September to November 2026.

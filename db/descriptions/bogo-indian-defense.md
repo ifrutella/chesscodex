@@ -37,3 +37,8 @@ The Bogo-Indian suits Black players who meet 1.d4 with 1...Nf6 and 2...e6 and wa
 ### The numbers
 
 In 1,997,295 rated Lichess games between players rated 1600 and 2500, White won 49.1%, Black 44.1%, and 6.8% were drawn. White leads in every rating band: 51.4% against 44.9% under 1400, 51.3% against 44.3% at 1400–1799, 49.2% against 44.5% at 1800–2199 and 47.8% against 43.6% from 2200 up. In about 23,000 master games White won 34.4%, Black 21.1%, and 44.4% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Bogo-Indian Defence](https://en.wikipedia.org/w/index.php?title=Bogo-Indian_Defence&oldid=1382050400), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Bogo-Indian_Defense), figures collected from September to November 2026.

@@ -1,4 +1,4 @@
-The Panov Attack (1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4), or Panov–Botvinnik Attack, is White's main alternative to the quiet 4.Bd3 after the exchange on d5 in the [Caro-Kann Defense](/openings/caro-kann-defense). It is named after Vasily Panov and world champion Mikhail Botvinnik.
+The Panov Attack (1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4), or Panov–Botvinnik Attack, is the alternative to the quiet main line 4.Bd3 after the exchange on d5 in the [Caro-Kann Defense](/openings/caro-kann-defense). It is named after Vasily Panov and world champion Mikhail Botvinnik.
 
 ### The idea
 
@@ -32,3 +32,10 @@ The Panov suits White players who like isolated-queen's-pawn positions and activ
 ### The numbers
 
 On Lichess White leads at every level: 51.6% against 44.5% under 1400, 51.9% against 43.6% at 1400–1799, 49.9% against 44.2% at 1800–2199 and 48.4% against 43.2% from 2200 up. In about 11,400 master games White won 30.4%, Black 24.1%, and 45.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Caro–Kann Defence](https://en.wikipedia.org/w/index.php?title=Caro%E2%80%93Kann_Defence&oldid=1381151588), version of 20 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Transposition from the English: adapted from the Wikipedia article [English Opening](https://en.wikipedia.org/w/index.php?title=English_Opening&oldid=1371350813), version of 26 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Transposition from the Scandinavian: adapted from the Wikipedia article [Scandinavian Defense](https://en.wikipedia.org/w/index.php?title=Scandinavian_Defense&oldid=1383150160), version of 1 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Caro-Kann_Defense_Panov_Attack), figures collected from September to November 2026.

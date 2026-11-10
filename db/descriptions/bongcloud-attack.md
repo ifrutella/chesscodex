@@ -18,4 +18,9 @@ There is no chess reason. The only argument is psychological: after Carlsen beat
 
 ### The numbers
 
-On Lichess Black wins 57.7% of the 49,000 games and White 37.0%, with 5.2% draws.
+On Lichess Black wins 57.7% of the 49,385 games and White 37.0%, with 5.2% draws.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Bongcloud Attack](https://en.wikipedia.org/w/index.php?title=Bongcloud_Attack&oldid=1371511320), version of 26 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Bongcloud_Attack), figures collected from September to November 2026.

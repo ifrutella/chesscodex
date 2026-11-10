@@ -13,3 +13,8 @@ White can transpose to other openings. With 3.Nc3 White enters the [Vienna Game]
 ### The numbers
 
 On Lichess White wins 51.2% of the 6.6 million games and Black 44.6%. White's lead is largest under 1400, 54.1% against 41.8%, and from 2200 up it is 50.7% against 43.6%. There are too few master games over the board, 175, to compare.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Bishop's Opening](https://en.wikipedia.org/w/index.php?title=Bishop%27s_Opening&oldid=1380301426), version of 14 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Bishops_Opening_Boi_Variation), figures collected from September to November 2026.

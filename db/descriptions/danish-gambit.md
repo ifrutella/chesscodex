@@ -1,4 +1,4 @@
-The Danish Gambit (1.e4 e5 2.d4 exd4 3.c3) is one of the most aggressive openings in chess. White offers one or even two pawns for a huge lead in development and two bishops raking across the board towards Black's king.
+The Danish Gambit (1.e4 e5 2.d4 exd4 3.c3) is an aggressive gambit for White. White offers one or even two pawns for a huge lead in development and two bishops raking across the board towards Black's king.
 
 ### Origins
 
@@ -35,4 +35,9 @@ The Danish suits attacking players who love open positions and bishops, and it i
 
 ### The numbers
 
-On Lichess White does well at club level: below 2200 White wins 53.5–55% and Black 42–43.5%. Above 2200 it is closer, 48% against 46%. There are only about 200 master games with it, too few to judge.
+On Lichess White does well at club level: below 2200 White wins 53.7–54.9% and Black 41.9–43.3%. Above 2200 it is closer, 48% against 46%. There are only about 200 master games with it, too few to judge.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Danish Gambit](https://en.wikipedia.org/w/index.php?title=Danish_Gambit&oldid=1380544128), version of 16 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Danish_Gambit), figures collected from September to November 2026.

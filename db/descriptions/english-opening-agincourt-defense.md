@@ -30,3 +30,8 @@ The Agincourt suits Black players with a Queen's Gambit Declined or French reper
 ### The numbers
 
 On Lichess White leads by about 5 points at every level: 50.6% against 45.6% under 1400, 50.6% against 45.2% at 1400–1799, 49.5% against 44.9% at 1800–2199 and 48.1% against 43.5% from 2200 up. In about 30,900 master games White won 36.0%, Black 21.7%, and 42.3% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [English Opening](https://en.wikipedia.org/w/index.php?title=English_Opening&oldid=1371350813), version of 26 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/English_Opening_Agincourt_Defense), figures collected from September to November 2026.

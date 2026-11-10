@@ -36,3 +36,8 @@ The Symmetrical English suits positional players on either side who like long ma
 ### The numbers
 
 On Lichess White leads at every level: 51.6% against 44.2% under 1400, 50.9% against 44.7% at 1400–1799, 50.5% against 43.8% at 1800–2199 and 49.2% against 42.7% from 2200 up. In about 22,200 master games White won 34.0%, Black 20.9%, and 45.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [English Opening](https://en.wikipedia.org/w/index.php?title=English_Opening&oldid=1371350813), version of 26 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/English_Opening_Symmetrical_Variation), figures collected from September to November 2026.

@@ -1,4 +1,4 @@
-The Karpov Variation is 1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7, a solid main line of the [Caro-Kann Defense](/openings/caro-kann-defense). It can also be reached with 3.Nc3. It is named after Anatoly Karpov but has had many names: the Steinitz Variation, after the first World Champion Wilhelm Steinitz, who played it, as well as the Smyslov Variation and the Modern Variation.
+The Karpov Variation is 1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7, a solid main line of the [Caro-Kann Defense](/openings/caro-kann-defense). It can also be reached with 3.Nc3. It has had many names: the Karpov Variation, the Steinitz Variation, after the first World Champion Wilhelm Steinitz, who played it, the Smyslov Variation and the Modern Variation.
 
 ### The idea
 
@@ -17,3 +17,8 @@ The famous last game of the rematch between Deep Blue and Garry Kasparov, in whi
 ### The numbers
 
 On Lichess White wins 48.3% of the 1.7 million games and Black 45.2%. Below 1800 Black is slightly ahead, for example 48.5% against 47.7% under 1400. From 1800 up White leads, 48.6% against 43.0% from 2200 up. In 6,823 master games over the board 47.3% were drawn, White won 32.0% and Black 20.7%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Caro–Kann Defence](https://en.wikipedia.org/w/index.php?title=Caro%E2%80%93Kann_Defence&oldid=1381151588), version of 20 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Caro-Kann_Defense_Karpov_Variation), figures collected from September to November 2026.

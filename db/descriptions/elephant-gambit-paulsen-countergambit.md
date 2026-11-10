@@ -15,3 +15,8 @@ Tal–Lutikov, Tallinn 1964, went 4.Qe2 f5 5.d3 Nf6 6.dxe4 fxe4 7.Nc3 Bb4 8.Qb5+
 ### The numbers
 
 On Lichess Black wins 51.4% of the 3.2 million games and White 44.6%. From 2200 up the gap narrows to 47.7% against 46.0%. There are only 69 master games, too few to judge.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Elephant Gambit](https://en.wikipedia.org/w/index.php?title=Elephant_Gambit&oldid=1382025479), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Elephant_Gambit_Paulsen_Countergambit), figures collected from September to November 2026.

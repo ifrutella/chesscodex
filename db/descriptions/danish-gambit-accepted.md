@@ -31,3 +31,8 @@ The accepted Danish suits White players who are happy to give material for fast 
 ### The numbers
 
 White does well on Lichess at every level: 54.7% against 42.3% for Black under 1400, 56.3% against 40.6% at 1400–1799, 55.8% against 40.5% at 1800–2199, and 50.7% against 44.0% from 2200 up. The masters database has only 57 games, too few to draw conclusions from.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Danish Gambit](https://en.wikipedia.org/w/index.php?title=Danish_Gambit&oldid=1380544128), version of 16 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Danish_Gambit_Accepted), figures collected from September to November 2026.

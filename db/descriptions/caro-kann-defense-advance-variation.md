@@ -6,7 +6,7 @@ The line goes back to the defence's early days: Marcus Kann won a 24-move game a
 
 ### The idea
 
-White uses the space advantage either for a direct pawn storm on the kingside (g4, h4) or for quiet development followed by play against Black's centre. Black aims to complete development with ...e6, ...c5 and ...Nc6, attacking d4.
+White uses the space advantage either for an early pawn storm on the kingside with g4 or h4, or for quiet development with Nf3 and Be2, which Black meets with ...e6 and ...c5.
 
 ### Main lines
 
@@ -37,3 +37,8 @@ The Advance suits White players who want space and the initiative against the Ca
 ### The numbers
 
 On Lichess the results are almost level: White 47.3%, Black 47.9%. Under 1400 White leads 49.5% against 46.9%; at 1400–1799 Black leads 48.8% against 47.1%, and at 1800–2199 47.8% against 47.3%. From 2200 up White is ahead again, 49.2% against 44.2%. In about 33,400 master games White won 34.6%, Black 22.3%, and 43.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Caro–Kann Defence](https://en.wikipedia.org/w/index.php?title=Caro%E2%80%93Kann_Defence&oldid=1381151588), version of 20 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Caro-Kann_Defense_Advance_Variation), figures collected from September to November 2026.

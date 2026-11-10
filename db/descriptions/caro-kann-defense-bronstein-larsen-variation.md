@@ -12,4 +12,9 @@ The more solid recapture is 5...exf6, the [Tartakower Variation](/openings/caro-
 
 ### The numbers
 
-On Lichess White wins 48.0% of the 490,000 games and Black 45.6%. White's lead is largest under 1400, 55.4% against 39.8%; between 1800 and 2199 the results are close, 47.5% against 46.4%, and from 2200 up White leads 48.6% to 43.2%. In 1,902 master games over the board White won 41.4%, Black 23.0%, and 35.6% were drawn.
+On Lichess White wins 48.0% of the 490,083 games and Black 45.6%. White's lead is largest under 1400, 55.4% against 39.8%; between 1800 and 2199 the results are close, 47.5% against 46.4%, and from 2200 up White leads 48.6% to 43.2%. In 1,902 master games over the board White won 41.4%, Black 23.0%, and 35.6% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Caro–Kann Defence](https://en.wikipedia.org/w/index.php?title=Caro%E2%80%93Kann_Defence&oldid=1381151588), version of 20 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Caro-Kann_Defense_Bronstein-Larsen_Variation), figures collected from September to November 2026.
