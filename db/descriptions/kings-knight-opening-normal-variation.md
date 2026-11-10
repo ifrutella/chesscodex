@@ -15,3 +15,8 @@ The [Konstantinopolsky Opening](/openings/kings-knight-opening-konstantinopolsky
 ### The numbers
 
 On Lichess White wins 50.7% of the 229 million games and Black 44.6%. The results barely change with rating: 50.8% against 45.1% under 1400 and 48.2% against 44.3% from 2200 up. In 249,218 master games over the board 50.7% were drawn, White won 28.9% and Black 20.4%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Open Game](https://en.wikipedia.org/w/index.php?title=Open_Game&oldid=1376195524), version of 22 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Knight_Opening_Normal_Variation), figures collected from September to November 2026.

@@ -14,3 +14,8 @@ After 5...O-O 6.Nf3 Black has two main choices.
 ### The numbers
 
 On Lichess White wins 50.1% of the 2.4 million games and Black 45.2%. The split hardly changes with rating: 51.0% against 45.8% under 1400, and 49.8% against 43.7% from 2200 up. In 3,929 master games over the board White won 38.8%, Black 26.8%, and 34.4% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Indian Defence](https://en.wikipedia.org/w/index.php?title=King%27s_Indian_Defence&oldid=1376322791), version of 23 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Indian_Defense_Four_Pawns_Attack), figures collected from September to November 2026.

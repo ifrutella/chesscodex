@@ -16,3 +16,8 @@ In the line above, 14.e3 instead of 14.f4 runs into 14...Bf5, a trap that counts
 ### The numbers
 
 On Lichess White wins 49.1% of the 1.2 million games and Black 44.3%. The gap is similar at both ends of the rating range: 50.5% against 45.6% under 1400 and 47.9% against 43.5% from 2200 up. In 18,221 master games over the board White won 35.7%, Black 20.9%, and 43.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Indian Defence](https://en.wikipedia.org/w/index.php?title=King%27s_Indian_Defence&oldid=1376322791), version of 23 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Indian_Defense_Fianchetto_Variation), figures collected from September to November 2026.

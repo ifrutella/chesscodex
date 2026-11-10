@@ -17,3 +17,8 @@ The Averbakh System of the [Modern Defense](/openings/modern-defense-averbakh-sy
 ### The numbers
 
 On Lichess White wins 52.4% of the 420,000 games and Black 41.9%. White leads at every rating: 53.4% against 41.6% between 1800 and 2199, and 50.7% against 42.1% from 2200 up. In 6,212 master games over the board White won 39.6%, Black 24.0%, and 36.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Indian Defence](https://en.wikipedia.org/w/index.php?title=King%27s_Indian_Defence&oldid=1376322791), version of 23 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Indian_Defense_Averbakh_Variation), figures collected from September to November 2026.
