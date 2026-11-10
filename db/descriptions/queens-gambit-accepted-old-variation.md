@@ -12,3 +12,8 @@ An old trap catches Black trying to keep the extra pawn. Alessandro Salvio point
 ### The numbers
 
 On Lichess White wins 55.7% of the 5.7 million games and Black 39.5%. White does well below 2200, for example 56.1% against 40.0% under 1400, but from 2200 up the margin is much smaller, 47.1% against 43.6%. In 5,015 master games over the board White won 32.6%, Black 18.7%, and 48.7% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Queen's Gambit Accepted](https://en.wikipedia.org/w/index.php?title=Queen%27s_Gambit_Accepted&oldid=1378795157), version of 6 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Accepted_Old_Variation), figures collected from September to November 2026.
