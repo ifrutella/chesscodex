@@ -17,3 +17,8 @@ The line is often said not to be a true gambit, since White cannot take on e5 wi
 ### The numbers
 
 On Lichess White wins 48.6% of the 4.3 million games and Black 47.3%. Under 1400 Black wins 51.3% against 45.5%. From 2200 up White leads 49.7% to 45.0%. Masters over the board almost never play it; the database has two games.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Blackburne Shilling Gambit](https://en.wikipedia.org/w/index.php?title=Blackburne_Shilling_Gambit&oldid=1382027590), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Blackburne-Kostic_Gambit), figures collected from September to November 2026.

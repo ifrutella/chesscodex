@@ -36,3 +36,8 @@ The Exchange suits White players who want to avoid French theory and are happy w
 ### The numbers
 
 On Lichess the results are nearly even: White 47.1%, Black 46.8%, with 6.0% draws. Under 1400 White leads 49.1% against 46.7% and at 1400–1799 48.6% against 46.6%; at 1800–2199 Black is slightly ahead, 47.1% against 46.6%, and from 2200 up it is 45.7% against 45.3% with 9.0% draws. In about 8,200 master games 55.3% were drawn, and Black won more often than White, 24.8% against 19.9%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [French Defence](https://en.wikipedia.org/w/index.php?title=French_Defence&oldid=1380968956), version of 19 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/French_Defense_Exchange_Variation), figures collected from September to November 2026.

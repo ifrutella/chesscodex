@@ -14,3 +14,8 @@ The most common moves are 9.d5 and 9.Nc3.
 ### The numbers
 
 On Lichess White wins 57.1% of the 1 million games and Black 39.7%, and White's lead holds in every rating band, from 2200 up included (53.8% against 42.0%). There are only 38 master games, too few to judge.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Evans Gambit](https://en.wikipedia.org/w/index.php?title=Evans_Gambit&oldid=1381874139), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Evans_Gambit_McDonnell_Defense), figures collected from September to November 2026.

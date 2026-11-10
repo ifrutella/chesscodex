@@ -15,4 +15,9 @@ Instead of defending the knight on f6 with ...Be7, as in the Classical Variation
 
 ### The numbers
 
-On Lichess Black wins slightly more often: 47.2% against 46.7% for White in 510,000 games. Lower ratings favour White, 54.8% against 41.4% under 1400. Between 1800 and 2199 Black leads, 48.2% against 46.2%, and from 2200 up White is slightly ahead again, 47.3% against 45.2%. In 4,145 master games over the board White won 32.6%, Black 24.2%, and 43.2% were drawn.
+On Lichess Black wins slightly more often: 47.2% against 46.7% for White in 506,877 games. Lower ratings favour White, 54.8% against 41.4% under 1400. Between 1800 and 2199 Black leads, 48.2% against 46.2%, and from 2200 up White is slightly ahead again, 47.3% against 45.2%. In 4,145 master games over the board White won 32.6%, Black 24.2%, and 43.2% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [French Defence](https://en.wikipedia.org/w/index.php?title=French_Defence&oldid=1380968956), version of 19 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/French_Defense_McCutcheon_Variation), figures collected from September to November 2026.

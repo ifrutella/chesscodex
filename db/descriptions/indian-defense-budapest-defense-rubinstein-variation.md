@@ -18,3 +18,8 @@ At Berlin 1918 Milan Vidmar, at a loss for what to play as Black against Akiba R
 ### The numbers
 
 On Lichess White wins 53.3% of the 861,828 games and Black 40.8%. Masters' results favour White: in 1,351 games over the board White won 43.4%, Black 16.3%, and 40.3% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Budapest Gambit](https://en.wikipedia.org/w/index.php?title=Budapest_Gambit&oldid=1382027140), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Indian_Defense_Budapest_Defense_Rubinstein_Variation), figures collected from September to November 2026.

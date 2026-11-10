@@ -17,3 +17,8 @@ Theory gives White the better game after both 4.d4 and 4.d3, so a White player w
 ### The numbers
 
 On Lichess Black does better than White: in 2.5 million games Black wins 50.5% and White 46.2%. Black stays ahead up to 2199, winning 50.9% under 1400 and 49.9% between 1800 and 2199. From 2200 up the picture flips: White wins 48.0% and Black 47.3%. There are too few master games over the board, 15, to say anything.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Rousseau Gambit](https://en.wikipedia.org/w/index.php?title=Rousseau_Gambit&oldid=1382018889), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Rousseau_Gambit), figures collected from September to November 2026.

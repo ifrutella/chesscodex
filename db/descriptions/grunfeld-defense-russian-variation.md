@@ -16,4 +16,9 @@ After 5...dxc4 6.Qxc4 O-O 7.e4 Black has several main options:
 
 ### The numbers
 
-On Lichess White wins 50.3% of the 197,000 games and Black 43.3%. White leads 51.6% to 42.6% between 1800 and 2199, and 48.2% to 44.3% from 2200 up. Masters over the board draw more than half their games: in 5,347 games 54.2% were drawn, White won 28.6% and Black 17.2%.
+On Lichess White wins 50.3% of the 196,548 games and Black 43.3%. White leads 51.6% to 42.6% between 1800 and 2199, and 48.2% to 44.3% from 2200 up. Masters over the board draw more than half their games: in 5,347 games 54.2% were drawn, White won 28.6% and Black 17.2%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Grünfeld Defence](https://en.wikipedia.org/w/index.php?title=Gr%C3%BCnfeld_Defence&oldid=1376212952), version of 22 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Grunfeld_Defense_Russian_Variation), figures collected from September to November 2026.

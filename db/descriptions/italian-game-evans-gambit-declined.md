@@ -17,3 +17,8 @@ Because of the wasted tempo, most commentators consider declining weaker than ac
 ### The numbers
 
 On Lichess Black wins 49.3% of the 531,869 games and White 47.0%. From 2200 up Black's lead grows to 51.7% against 42.1%. In 220 master games over the board Black won 38.2%, White 30.5%, and 31.4% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Evans Gambit](https://en.wikipedia.org/w/index.php?title=Evans_Gambit&oldid=1381874139), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Evans_Gambit_Declined), figures collected from September to November 2026.

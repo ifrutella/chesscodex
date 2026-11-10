@@ -20,4 +20,9 @@ The Halloween Gambit is for players who want to shock a Four Knights opponent. I
 
 ### The numbers
 
-On Lichess White wins 52.6% of the 680,000 games and Black 43.8%, despite the piece. The split stays similar from 1400 to 2199, around 52.5% against 44%. Under 1400 it is 50.7% against 45.6%, and from 2200 up 49.0% against 45.3%. There are too few master games over the board, 16, to say anything.
+On Lichess White wins 52.6% of the 682,027 games and Black 43.8%, despite the piece. The split stays similar from 1400 to 2199, around 52.5% against 44%. Under 1400 it is 50.7% against 45.6%, and from 2200 up 49.0% against 45.3%. There are too few master games over the board, 16, to say anything.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Halloween Gambit](https://en.wikipedia.org/w/index.php?title=Halloween_Gambit&oldid=1382023686), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Four_Knights_Game_Halloween_Gambit), figures collected from September to November 2026.

@@ -20,4 +20,9 @@ The main alternative is 2.Nf3. Against 2...d5 White can play c4 and reach the Qu
 
 ### The numbers
 
-On Lichess White wins 48.3% of the 182 million games and Black 46.2%. White's score hardly changes with rating, while Black wins 47.7% under 1400 and 43.9% from 2200 up, where more games are drawn. In 626,798 master games over the board White won 31.9%, Black 23.3%, and 44.8% were drawn.
+On Lichess White wins 48.3% of the 182 million games and Black 46.2%. White's winning percentage hardly changes with rating, 48.2–48.5%, while Black wins 47.7% under 1400 and 43.9% from 2200 up, where more games are drawn. In 626,798 master games over the board White won 31.9%, Black 23.3%, and 44.8% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Indian Defence](https://en.wikipedia.org/w/index.php?title=Indian_Defence&oldid=1382028523), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Indian_Defense), figures collected from September to November 2026.

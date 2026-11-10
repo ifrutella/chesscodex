@@ -35,4 +35,9 @@ The Budapest suits active players who want an aggressive, low-theory answer to 1
 
 ### The numbers
 
-On Lichess the Budapest does well at club level. Below 1400 it is level, 48.5% each. Between 1400 and 1800 Black is ahead, 49.6% against 46.7%. Between 1800 and 2200 it is even again, 47.6% against 47.2%. Above 2200 White pulls ahead, 49.6% against 43%. In master games over the board, White wins 44%, Black 20% and 35.5% are drawn.
+On Lichess, below 1400, it is level, 48.5% each. Between 1400 and 1800 Black is ahead, 49.6% against 46.7%. Between 1800 and 2200 it is even again, 47.6% against 47.2%. Above 2200 White pulls ahead, 49.6% against 43%. In master games over the board, White wins 44%, Black 20% and 35.5% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Budapest Gambit](https://en.wikipedia.org/w/index.php?title=Budapest_Gambit&oldid=1382027140), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Indian_Defense_Budapest_Defense), figures collected from September to November 2026.

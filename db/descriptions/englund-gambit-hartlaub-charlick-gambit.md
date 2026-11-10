@@ -14,3 +14,8 @@ The Englund Gambit as a whole is considered weak.
 ### The numbers
 
 On Lichess the results are almost even: White wins 48.1% of the 4.5 million games and Black 47.8%. From 2200 up White does better, 51.5% against 42.9%. There are only 14 master games, too few to judge.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Englund Gambit](https://en.wikipedia.org/w/index.php?title=Englund_Gambit&oldid=1382025129), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Englund_Gambit_Hartlaub-Charlick_Gambit), figures collected from September to November 2026.

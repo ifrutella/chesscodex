@@ -13,3 +13,8 @@ Play usually continues [4...exd4](/openings/four-knights-game-scotch-variation-a
 ### The numbers
 
 On Lichess White wins 51.9% of the 5 million games and Black 42.3%. From 2200 up more games are drawn, 10.5%, and White leads 48.7% to 40.8%. Masters over the board draw most games: in 6,294 games 56.4% were drawn, Black won 23.0% and White 20.6%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Four Knights Game](https://en.wikipedia.org/w/index.php?title=Four_Knights_Game&oldid=1382024906), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Four_Knights_Game_Scotch_Variation), figures collected from September to November 2026.

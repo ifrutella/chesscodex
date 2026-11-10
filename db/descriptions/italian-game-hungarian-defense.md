@@ -18,3 +18,8 @@ The Hungarian is rarely seen in modern play. Grandmasters with strong defensive 
 ### The numbers
 
 On Lichess Black wins more often than White below 1800: Black wins 49.0% against 47.3% under 1400, and 48.1% against 47.7% between 1400 and 1799. From 1800 up White is ahead: 48.7% against 45.9% between 1800 and 2199, and 49.6% against 42.8% from 2200 up. Over all 5.5 million games White wins 48.4% and Black 46.5%. In 1,043 master games over the board White won 41.6%, Black 21.5%, and 36.9% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Hungarian Defense](https://en.wikipedia.org/w/index.php?title=Hungarian_Defense&oldid=1313803794), version of 28 September 2025, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Hungarian_Defense), figures collected from September to November 2026.

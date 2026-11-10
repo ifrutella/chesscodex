@@ -1,4 +1,4 @@
-The Evans Gambit (1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4) is the most famous gambit in the [Italian Game](/openings/italian-game). White offers the b-pawn to divert Black's bishop from c5, then uses the time to play c3 and d4, opening the centre and attacking.
+The Evans Gambit (1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4) is a gambit in the [Italian Game](/openings/italian-game). White offers the b-pawn to divert Black's bishop from c5, then uses the time to play c3 and d4, opening the centre and attacking.
 
 ### Origins
 
@@ -37,4 +37,9 @@ The Evans Gambit suits attacking 1.e4 players who like open positions and initia
 
 ### The numbers
 
-On Lichess White does well at club level: below 1800 White wins 53–54% and Black 43–44%. From 1800 to 2200 it is 52% against 44%. Above 2200 it is level at about 47.5% each. In master games over the board (a small sample of about 1,700 games), White wins 27%, Black 29% and 44% are drawn.
+On Lichess, below 1800, White wins 53–54% and Black 43–44%. From 1800 to 2200 it is 52% against 44%. Above 2200 it is level at about 47.5% each. In master games over the board (a small sample of about 1,700 games), White wins 27%, Black 29% and 44% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Evans Gambit](https://en.wikipedia.org/w/index.php?title=Evans_Gambit&oldid=1381874139), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Evans_Gambit), figures collected from September to November 2026.

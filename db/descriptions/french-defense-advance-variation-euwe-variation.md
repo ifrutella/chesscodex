@@ -13,3 +13,8 @@ The Euwe Variation is 1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7, a main line of
 ### The numbers
 
 On Lichess Black wins 50.6% of the 2.5 million games and White 44.7%. The picture changes with rating: Black wins 54.0% between 1400 and 1799, but from 2200 up White is slightly ahead, 47.3% against 46.4%. In 5,444 master games over the board 36.0% were drawn, White won 34.2% and Black 29.8%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [French Defence](https://en.wikipedia.org/w/index.php?title=French_Defence&oldid=1380968956), version of 19 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/French_Defense_Advance_Variation_Euwe_Variation), figures collected from September to November 2026.

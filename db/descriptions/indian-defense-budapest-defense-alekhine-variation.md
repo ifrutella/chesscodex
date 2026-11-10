@@ -11,3 +11,8 @@ Taylor considers 4...Nxe5 inferior and recommends a rarely played idea of Richar
 ### The numbers
 
 On Lichess White wins 52.3% of the 295,231 games and Black 42.8%, and the gap barely changes from one rating band to the next. In 231 master games over the board White won 46.8%, Black 24.2%, and 29.0% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Budapest Gambit](https://en.wikipedia.org/w/index.php?title=Budapest_Gambit&oldid=1382027140), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Indian_Defense_Budapest_Defense_Alekhine_Variation), figures collected from September to November 2026.

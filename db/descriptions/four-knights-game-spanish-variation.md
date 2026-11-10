@@ -34,3 +34,8 @@ The Spanish Four Knights suits White players who like classical, positional ches
 ### The numbers
 
 On Lichess White wins about 50% at every level: 50.1% against 44.9% under 1400, 49.9% against 45.3% at 1400–1799, 50.4% against 43.9% at 1800–2199 and 49.4% against 42.2% from 2200 up. In about 7,600 master games 50.1% were drawn; White won 28.3% and Black 21.6%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Four Knights Game](https://en.wikipedia.org/w/index.php?title=Four_Knights_Game&oldid=1382024906), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Four_Knights_Game_Spanish_Variation), figures collected from September to November 2026.
