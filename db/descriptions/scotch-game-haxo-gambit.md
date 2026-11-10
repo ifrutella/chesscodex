@@ -15,3 +15,8 @@ After 5.O-O, the second most common reply, the game usually transposes to the [M
 ### The numbers
 
 On Lichess White wins 54.3% of the 3.7 million games and Black 41.8%. The gap closes at the top: from 2200 up it is 47.6% against 45.6%. Masters have done better with Black: in 676 games over the board Black won 35.1%, White 24.0%, and 41.0% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Scotch Game](https://en.wikipedia.org/w/index.php?title=Scotch_Game&oldid=1383332845), version of 2 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Scotch_Game_Haxo_Gambit), figures collected from September to November 2026.

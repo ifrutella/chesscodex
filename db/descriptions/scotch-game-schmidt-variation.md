@@ -17,3 +17,8 @@ After 5.Nxc6 bxc6 White chooses how to deal with the attack on e4:
 ### The numbers
 
 On Lichess Black wins 47.5% of the 3.8 million games and White 46.6%. Black is ahead under 1400, 48.7% against 46.9%, while from 2200 up White leads 46.1% to 44.8%. In 8,802 master games over the board 51.7% were drawn, White won 26.3% and Black 21.9%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Scotch Game](https://en.wikipedia.org/w/index.php?title=Scotch_Game&oldid=1383332845), version of 2 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Scotch_Game_Schmidt_Variation), figures collected from September to November 2026.
