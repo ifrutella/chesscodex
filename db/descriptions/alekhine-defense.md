@@ -6,12 +6,12 @@ The opening is named after Alexander Alekhine, who introduced it at the 1921 Bud
 
 ### The idea
 
-After 2.e5 Nd5 3.d4 d6, White has a big centre and more space. Black's plan is to attack that centre with ...d6, ...Bg4 or ...Bf5, ...e6 and ...c5 or ...Nc6, and to prove that White's advanced pawns are targets rather than strengths. From the very first move the position loses its symmetry and balance, which makes it a good choice for fighting players.
+After 2.e5 Nd5 3.d4 d6, White has a big centre and more space. Black's plan is to undermine and attack that centre later, in the spirit of hypermodern theory. From the very first move the position loses its symmetry and balance, which makes it a good choice for fighting players.
 
 ### Main lines
 
-- [Modern Variation](/openings/alekhine-defense-modern-variation) 4.Nf3: the most common line, with quiet development and a small space advantage for White.
-- [Four Pawns Attack](/openings/alekhine-defense-four-pawns-attack) 4.c4 Nb6 5.f4: White's most ambitious try, building a huge centre that Black must attack at once.
+- [Modern Variation](/openings/alekhine-defense-modern-variation) 4.Nf3: the most common line, in which White accepts a modest space advantage and expects to keep it.
+- [Four Pawns Attack](/openings/alekhine-defense-four-pawns-attack) 4.c4 Nb6 5.f4: White's most ambitious try, building an imposing pawn centre that Black must attack vigorously.
 - [Exchange Variation](/openings/alekhine-defense-exchange-variation) 5.exd6: less ambitious, with a modest space advantage for White.
 - [Two Pawns Attack](/openings/alekhine-defense-two-pawns-attack) 3.c4 Nb6 4.c5: ambitious but strategically questionable.
 - [Scandinavian Variation](/openings/alekhine-defense-scandinavian-variation) 2.Nc3 d5: an independent line where White avoids 2.e5.
@@ -36,4 +36,9 @@ Alekhine's Defense suits counterattacking players who like provocative, unbalanc
 
 ### The numbers
 
-The Lichess numbers change sharply with rating. Below 1400 White wins 52% and Black only 44%. From 1800 to 2200 Black is ahead, 49% against 46%. Above 2200 it is close, at 47% against 46%. In master games over the board, White wins 37%, Black 26% and 37% are drawn, so it is one of the more decisive defences to 1.e4.
+The Lichess numbers change sharply with rating. Below 1400 White wins 52% and Black only 44%. From 1800 to 2200 Black is ahead, 49% against 46%. Above 2200 it is close, at 47% against 46%. In master games over the board, White wins 37%, Black 26% and 37% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Alekhine's Defence](https://en.wikipedia.org/w/index.php?title=Alekhine%27s_Defence&oldid=1379317262), version of 9 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Alekhine_Defense), figures collected from September to November 2026.

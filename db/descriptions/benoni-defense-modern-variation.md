@@ -1,4 +1,4 @@
-The Modern Benoni (1.d4 Nf6 2.c4 c5 3.d5 e6) is one of Black's sharpest and most active defences to 1.d4. After ...exd5 and cxd5 the pawn structure becomes unbalanced: White gets a central majority, Black a queenside majority, and both sides play for the win.
+The Modern Benoni (1.d4 Nf6 2.c4 c5 3.d5 e6) is one of Black's sharpest and most active defences to 1.d4. After ...exd5 and cxd5 the pawn structure becomes unbalanced: White gets a central majority and Black a queenside majority.
 
 ### Origins
 
@@ -6,13 +6,13 @@ Frank Marshall introduced it at the 1927 New York tournament, drawing with Capab
 
 ### The idea
 
-After 4.Nc3 exd5 5.cxd5 d6, Black fianchettoes the bishop on g7 and plays on the queenside with ...a6, ...b5 and ...c4, supported by the long-diagonal bishop. White's main positional trump is the e4–e5 break, which can create a passed d-pawn and open lines towards Black's king. It is often said that the Modern Benoni is "definitely not an opening for cowards": Black plays for counterattack, not for equality.
+After 4.Nc3 exd5 5.cxd5 d6, Black fianchettoes the bishop on g7 and plays on the queenside with ...a6, ...b5 and ...c4, supported by the long-diagonal bishop. The central majority is White's main positional trump, and the e4–e5 break is its most important tool: it can open lines for White's pieces and create a passed d-pawn. As Lev Psakhis wrote, the Modern Benoni "is definitely not an opening for cowards", since Black aims to counterattack rather than equalize.
 
 ### Main lines
 
 - Classical Main Line 7.Nf3 Bg7 8.Be2 O-O 9.O-O: the historical standard.
 - Modern Main Line 7.Nf3 Bg7 8.h3 O-O 9.Bd3: prevents ...Bg4 and became critical in the late 1980s.
-- Taimanov Attack 7.f4: White grabs even more central space and often checks on b5.
+- Taimanov Attack 7.f4 Bg7 8.Bb5+: White stakes out even more central space and threatens a quick e4–e5.
 - Fianchetto Variation with g3.
 - The [Snake Variation](/openings/benoni-defense-modern-variation-snake-variation) 5...Bd6 is a rare offbeat alternative.
 
@@ -36,4 +36,9 @@ The Modern Benoni is for combative, well-prepared players who want to play for a
 
 ### The numbers
 
-On Lichess, below 1800 White wins 51–53% and Black 44–46%. Between 1800 and 2200 Black is ahead, 48% against 47%. Above 2200, White leads 49% to 45%. In master games over the board the Modern Benoni is very decisive: White wins 44%, Black 26%, and only 30% are drawn.
+On Lichess, below 1800 White wins 51–53% and Black 44–46%. Between 1800 and 2200 Black is ahead, 48% against 47%. Above 2200, White leads 49% to 45%. In master games over the board White wins 44%, Black 26%, and 30% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Modern Benoni](https://en.wikipedia.org/w/index.php?title=Modern_Benoni&oldid=1363244116), version of 8 July 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Benoni_Defense_Modern_Variation), figures collected from September to November 2026.

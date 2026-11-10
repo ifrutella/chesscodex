@@ -14,4 +14,9 @@ From 4...Bc5 5.O-O Nc6 the game can also reach the [Max Lange Attack](/openings/
 
 ### The numbers
 
-On Lichess White wins 53.0% of the 781,000 games and Black 42.9%. White's lead is largest between 1400 and 1799, 54.4% against 42.6%, and smallest from 2200 up, 47.5% against 45.3%. Masters over the board draw more than half their games: in 424 games 54.7% were drawn, White won 24.8% and Black 20.5%.
+On Lichess White wins 53.0% of the 781,366 games and Black 42.9%. White's lead is largest between 1400 and 1799, 54.4% against 42.6%, and smallest from 2200 up, 47.5% against 45.3%. Masters over the board draw more than half their games: in 424 games 54.7% were drawn, White won 24.8% and Black 20.5%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Bishop's Opening](https://en.wikipedia.org/w/index.php?title=Bishop%27s_Opening&oldid=1380301426), version of 14 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Bishops_Opening_Urusov_Gambit), figures collected from September to November 2026.

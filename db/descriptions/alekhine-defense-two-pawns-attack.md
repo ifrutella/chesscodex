@@ -1,4 +1,4 @@
-The Two Pawns Attack is 1.e4 Nf6 2.e5 Nd5 3.c4, an ambitious try against the [Alekhine Defense](/openings/alekhine-defense). After 3...Nb6 White usually continues 4.c5, which this site calls the [Lasker Variation](/openings/alekhine-defense-two-pawns-attack-lasker-variation); the line is also known as the Lasker Attack or the Chase Variation.
+The Two Pawns Attack is 1.e4 Nf6 2.e5 Nd5 3.c4, an ambitious try against the [Alekhine Defense](/openings/alekhine-defense). The full line is 3...Nb6 4.c5, which this site calls the [Lasker Variation](/openings/alekhine-defense-two-pawns-attack-lasker-variation); the line is also known as the Lasker Attack or the Chase Variation.
 
 ### The idea
 
@@ -13,3 +13,8 @@ Statistics presented by the author John Cox show the variation scoring poorly fo
 ### The numbers
 
 On Lichess Black wins 49.2% of the 5.2 million games and White 46.1%. The rating split is sharp: under 1400 White leads 54.9% to 41.8%, while between 1800 and 2199 Black wins 49.9% against 45.3%. From 2200 up the results are level, 46.7% against 46.5%. In 1,685 master games over the board White won 33.5%, Black 31.5%, and 35.0% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Alekhine's Defence](https://en.wikipedia.org/w/index.php?title=Alekhine%27s_Defence&oldid=1379317262), version of 9 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Alekhine_Defense_Two_Pawns_Attack), figures collected from September to November 2026.

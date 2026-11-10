@@ -4,13 +4,13 @@ Anderssen's Opening is 1.a3, an irregular first move classified as A00. It does 
 
 In December 1858 Morphy and Anderssen played a match at the Hôtel de Breteuil in Paris: the first to win seven games would win, and draws did not count. Anderssen won the first game, but Morphy then won three in a row. Anderssen answered by opening with 1.a3 in his three following games with White, the sixth, eighth and tenth. He lost the sixth, drew the eighth and won the tenth, 1½ points out of 3, but Morphy won the match in the eleventh game.
 
-All three games followed the same moves through move seven: Black played ...e5 and the game took on a Reversed Sicilian structure, with the a3-pawn as an extra useful move for White.
+All three games followed the same moves through move seven, and in each the players transposed to a Reversed Sicilian structure with an exchange of pawns.
 
 According to Philip W. Sergeant, Anderssen used 1.a3 again in 1877 and 1878, beating Louis Paulsen, George Henry Mackenzie and James Mason with it. Steinitz played it against Blackburne in Vienna in 1873.
 
 ### The idea
 
-1.a3 keeps White's options open and can be a way to leave an opponent's opening preparation behind. It is often played as a joke or as a challenge to oneself.
+Some players value its psychological effect, or hope it will help them against an opponent who knows more opening theory. It is often played as a joke or as a challenge to oneself.
 
 ### Main lines
 
@@ -27,3 +27,8 @@ A modern proponent is the Croatian International Master Zvonko Krečak. In March
 ### The numbers
 
 On Lichess White wins 47.9% of the 1.9 million games and Black 47.0%. Under 1400 Black is ahead, 49.7% against 44.4%, and between 1400 and 1799 it is 49.0% against 46.6%. From 1800 up White is ahead: 48.6% against 46.1%, and 48.2% against 44.4% from 2200 up. In 838 master games over the board Black won 29.6%, White 28.6%, and 41.8% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Anderssen's Opening](https://en.wikipedia.org/w/index.php?title=Anderssen%27s_Opening&oldid=1382027996), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Anderssens_Opening), figures collected from September to November 2026.

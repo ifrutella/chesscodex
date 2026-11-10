@@ -15,3 +15,8 @@ Most grandmasters play 2.e5 against the Alekhine, but Jonny Hector regularly pla
 ### The numbers
 
 On Lichess Black wins 50.6% of the 4.5 million games and White 43.5%. Under 1400 the order is reversed, 48.6% for White against 46.5%, and from 2200 up the results are close, 46.7% for Black against 45.2%. In 2,054 master games over the board 38.8% were drawn, White won 32.5% and Black 28.8%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Alekhine's Defence](https://en.wikipedia.org/w/index.php?title=Alekhine%27s_Defence&oldid=1379317262), version of 9 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Alekhine_Defense_Scandinavian_Variation), figures collected from September to November 2026.

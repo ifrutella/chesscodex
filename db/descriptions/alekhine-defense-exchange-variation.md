@@ -15,3 +15,8 @@ A popular answer to 5...cxd6 is the [Voronezh Variation](/openings/alekhine-defe
 ### The numbers
 
 On Lichess Black wins 48.3% of the 2.5 million games and White 46.2%. Under 1400 White leads 53.8% to 43.2%, but between 1800 and 2199 Black is ahead, 48.9% against 45.7%. From 2200 up the results are almost level, 46.5% for White against 46.0%. In 3,915 master games over the board White won 38.8%, Black 25.3%, and 35.9% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Alekhine's Defence](https://en.wikipedia.org/w/index.php?title=Alekhine%27s_Defence&oldid=1379317262), version of 9 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Alekhine_Defense_Exchange_Variation), figures collected from September to November 2026.
