@@ -1,4 +1,4 @@
-The Rapport-Jobava System (1.d4 d5 2.Nc3 Nf6 3.Bf4), also known as the Jobava London, is an aggressive relative of the [London System](/openings/queens-pawn-game-london-system). White develops the queen's knight to c3 instead of d2, which creates potential threats against Black's c7-pawn.
+The Rapport-Jobava System (1.d4 d5 2.Nc3 Nf6 3.Bf4), also known as the Jobava London, is a relative of the [London System](/openings/queens-pawn-game-london-system) with considerable attacking value. White develops the queen's knight to c3 instead of d2, which creates potential threats against Black's c7-pawn.
 
 ### Origins
 
@@ -6,13 +6,13 @@ The system is a modern development of the London System, named after the grandma
 
 ### The idea
 
-With Nc3 and Bf4, White puts pressure on c7, and Nb5 can add to it. A typical setup is e3, Qd2 and long castling. The system has considerable attacking value, while the ordinary London has a reputation as a solid but less dynamic opening.
+With Nc3 and Bf4, White puts pressure on c7, and Nb5 can add to it. The system has considerable attacking value, while the ordinary London has a reputation as a solid but less dynamic opening.
 
 ### Main lines
 
-- 3...e6 and ...Bd6: Black challenges the f4-bishop and keeps a solid centre.
-- 3...c5: Black strikes at the centre at once. Lines with Nb5 and e3 become sharp.
-- 3...Bf5, a natural developing move, and 3...a6, which takes the b5-square from White's knight.
+- 3...e6 and ...Bd6: Black challenges the f4-bishop.
+- 3...c5: Black strikes at the centre at once.
+- 3...Bf5, developing the bishop, and 3...a6, which takes the b5-square from White's knight.
 - The system can also start with 1.d4 Nf6 2.Nc3 d5 3.Bf4.
 
 ### Strengths and weaknesses
@@ -35,3 +35,8 @@ The Jobava London suits attacking players who like the London setup but want sha
 ### The numbers
 
 On Lichess the Jobava London does well at club level. Below 1400 White wins 53% and Black 43%. From 1400 to 2200 it is 50–51.5% against 44.5–45%. Above 2200 it is close to 50% against 43%. In master games over the board (about 4,000 games), White wins 30%, Black 28% and 42% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [London System](https://en.wikipedia.org/w/index.php?title=London_System&oldid=1382022968), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Rapport-Jobava_System), figures collected from September to November 2026.

@@ -1,4 +1,4 @@
-The Richter–Veresov Attack, or Veresov Opening, is a queen's pawn opening in which White develops the queen's knight before the c-pawn and pins the f6-knight: 1.d4 Nf6 2.Nc3 d5 3.Bg5, the most common move order. It also arises from 1.d4 d5 2.Nc3 Nf6 3.Bg5. With the [Trompowsky](/openings/trompowsky-attack), the [Colle System](/openings/queens-pawn-game-colle-system), the [London System](/openings/queens-pawn-game-london-system) and the [Torre Attack](/openings/queens-pawn-game-torre-attack), it is one of the more common branches of the Queen's Pawn Game.
+The Richter–Veresov Attack, or Veresov Opening, is a queen's pawn opening in which White develops the queen's knight before the c-pawn and attacks the f6-knight: 1.d4 Nf6 2.Nc3 d5 3.Bg5, the most common move order. It also arises from 1.d4 d5 2.Nc3 Nf6 3.Bg5. With the [Trompowsky](/openings/trompowsky-attack), the [Colle System](/openings/queens-pawn-game-colle-system), the [London System](/openings/queens-pawn-game-london-system) and the [Torre Attack](/openings/queens-pawn-game-torre-attack), it is one of the more common branches of the Queen's Pawn Game.
 
 ### Origins
 
@@ -26,3 +26,8 @@ The Veresov has never been very popular at the top level, though strong players 
 ### The numbers
 
 On Lichess White wins 49.2% of the 2.4 million games and Black 45.5%. Between 1400 and 1799 the sides are almost level, 48.1% against 47.7%. From 2200 up White wins 49.6% and Black 43.2%. In 4,018 master games over the board Black did better: Black won 36.1%, White 27.4%, and 36.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Richter–Veresov Attack](https://en.wikipedia.org/w/index.php?title=Richter%E2%80%93Veresov_Attack&oldid=1382049687), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Richter-Veresov_Attack), figures collected from September to November 2026.
