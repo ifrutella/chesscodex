@@ -21,3 +21,8 @@ The soundness of the gambit is much debated. Many masters dismiss it while many 
 ### The numbers
 
 On Lichess White wins 52.8% of the 2.4 million games and Black 43.5%, and White stays ahead in every rating band. Masters have done far better with Black: in 240 games over the board Black won 42.1%, White 19.6%, and 38.3% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Blackmar–Diemer Gambit](https://en.wikipedia.org/w/index.php?title=Blackmar%E2%80%93Diemer_Gambit&oldid=1381541710), version of 23 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Blackmar-Diemer_Gambit_Accepted), figures collected from September to November 2026.
