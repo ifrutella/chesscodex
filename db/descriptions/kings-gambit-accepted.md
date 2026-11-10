@@ -40,4 +40,9 @@ The King's Gambit Accepted suits attacking players who enjoy tactics and are wil
 
 ### The numbers
 
-On Lichess White does very well below 2200: 53.8% against 43.1% under 1400, 54.1% against 42.9% at 1400–1799 and 50.6% against 45.8% at 1800–2199. From 2200 up the results level out, 47.4% for White and 47.5% for Black. There are only about 3,300 master games, too few to draw firm conclusions.
+On Lichess White does very well below 2200: 53.8% against 43.1% under 1400, 54.1% against 42.9% at 1400–1799 and 50.6% against 45.8% at 1800–2199. From 2200 up the results level out, 47.4% for White and 47.5% for Black. In about 3,300 master games over the board White won 26.3%, Black 36.2%, and 37.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Gambit](https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1382023287), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit_Accepted), figures collected from September to November 2026.

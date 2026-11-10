@@ -17,3 +17,8 @@ Transpositions are common. After 4.d4 g5 5.Bc4 Bg7 6.O-O the game is in a common
 ### The numbers
 
 On Lichess White wins 49.3% of the 874,000 games and Black 47.2%. The result turns with rating: under 1400 White leads 54.1% to 43.1%, while from 2200 up Black wins 51.0% against 43.7%. There are too few master games over the board, 133, to say much.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [King's Gambit](https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1382023287), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit_Accepted_Becker_Defense), figures collected from September to November 2026.

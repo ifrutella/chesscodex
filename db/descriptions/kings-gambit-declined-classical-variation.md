@@ -17,3 +17,8 @@ A rarely seen try is 3.Nf3 d6 4.b4. As in the [Evans Gambit](/openings/italian-g
 ### The numbers
 
 On Lichess the results are nearly level: Black wins 48.4% of the 1.9 million games and White 48.1%. Under 1400 White leads 52.0% to 45.3%; from 2200 up Black does better, 49.7% against 44.8%. In 518 master games over the board White won 34.9%, Black 35.1%, and 29.9% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [King's Gambit](https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1382023287), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit_Declined_Classical_Variation), figures collected from September to November 2026.

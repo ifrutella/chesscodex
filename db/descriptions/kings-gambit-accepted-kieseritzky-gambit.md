@@ -22,3 +22,8 @@ The Kieseritzky is for King's Gambit players who want the classical main line wi
 ### The numbers
 
 On Lichess White wins 50.4% of the 440,000 games and Black 46.1%, and the split hardly moves with rating: 51.5% against 45.8% under 1400, and 48.3% against 46.8% from 2200 up. In 421 master games over the board Black did better: Black won 34.0%, White 23.8%, and 42.3% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Kieseritzky Gambit](https://en.wikipedia.org/w/index.php?title=Kieseritzky_Gambit&oldid=1382023469), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit_Accepted_Kieseritzky_Gambit), figures collected from September to November 2026.

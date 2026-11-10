@@ -11,3 +11,8 @@ Also common is 4.Nc3, which defends e4 and lets Black's knight stay on f6. Black
 ### The numbers
 
 On Lichess White wins 53.6% of the 1.6 million games and Black 42.8%. The result turns with rating: White wins 57.1% between 1400 and 1799, but from 2200 up Black is ahead, 49.9% against 44.6%. In 205 master games over the board 42.4% were drawn, Black won 32.2% and White 25.4%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Gambit](https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1382023287), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit_Accepted_Schallopp_Defense), figures collected from September to November 2026.

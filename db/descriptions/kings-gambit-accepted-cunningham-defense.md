@@ -14,3 +14,8 @@ To avoid Ke2, White's most popular reply is 4.Bc4. The same line is often reache
 ### The numbers
 
 On Lichess the line is balanced: White wins 48.4% of the 2.6 million games and Black 48.3%. Black does better under 1400, 53.1% against 44.6%. In 170 master games over the board Black won 38.8%, White 30.6%, and 30.6% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [King's Gambit](https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1382023287), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit_Accepted_Cunningham_Defense), figures collected from September to November 2026.

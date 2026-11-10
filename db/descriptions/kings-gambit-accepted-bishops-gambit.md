@@ -21,3 +21,8 @@ In many lines White can transpose into positions normally reached with 3.Nf3 but
 ### The numbers
 
 On Lichess White wins 54.2% of the 1.7 million games and Black 42.4%. White stays ahead at every rating: 53.8% against 43.4% under 1400, 55.5% against 41.8% between 1400 and 1799, and 51.2% against 43.7% from 2200 up. In 803 master games over the board Black did better: Black won 37.1%, White 26.8%, and 36.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Bishop's Gambit](https://en.wikipedia.org/w/index.php?title=Bishop%27s_Gambit&oldid=1372119259), version of 30 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit_Accepted_Bishops_Gambit), figures collected from September to November 2026.

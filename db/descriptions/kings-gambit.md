@@ -1,4 +1,4 @@
-The King's Gambit (1.e4 e5 2.f4) is the most famous gambit in chess. White sacrifices the f-pawn on move two to open the f-file, build a big centre with d4 and attack Black's king. It is the symbol of the romantic era of chess, when attack and sacrifice mattered more than safety.
+The King's Gambit (1.e4 e5 2.f4) is one of the oldest documented openings. White offers a pawn to divert Black's e-pawn from the centre and, if Black accepts, usually targets f7, which only the king defends. It is considered characteristic of Romantic chess, when bold attacking tactics mattered more than positional strategy.
 
 ### Origins
 
@@ -6,7 +6,7 @@ The King's Gambit appears in Lucena's book of 1497. Ruy López de Segura was the
 
 ### The idea
 
-After 2...exf4, White plans Nf3, d4, Bc4 or Bd3, and O-O, attacking along the open f-file and aiming at f7. If Black tries to keep the pawn with ...g5, both sides' kings become exposed and sharp tactics follow. White's own king is weakened by f4, which is the main risk of the whole opening.
+After 2...exf4, 3.Nf3 is the most popular move: it develops the knight and prevents 3...Qh4+. Black either tries to hold the pawn with ...g5, sometimes prepared by ...h6, or returns it with an early ...d5 to develop. White's own king is weakened by f4, which is the main downside of the opening.
 
 ### Main lines
 
@@ -27,7 +27,7 @@ After 2...exf4, White plans Nf3, d4, Bc4 or Bd3, and O-O, attacking along the op
 
 **Weaknesses**
 
-- Objectively, Black can equalise or even get the better game with accurate defence (for example 3...d5 or 3...d6).
+- Since the late 19th century leading players have considered it likely unsound, and Black can equalise or even get the better game with accurate defence.
 - White's own king is weakened for the rest of the game.
 - If the attack fails, White is often simply a pawn down.
 
@@ -37,4 +37,10 @@ The King's Gambit is for attacking players who enjoy risk and want to take the i
 
 ### The numbers
 
-Below 1800 on Lichess, White wins 53–54% and Black only 43%. Above 2200 both sides win 47%. In master games over the board it is even worse for White: White wins 29%, Black 35% and 36% are drawn. The King's Gambit is one of the few main openings where Black outscores White among masters.
+Below 1800 on Lichess, White wins 53–54% and Black only 43%. Above 2200 both sides win 47%. In master games over the board it is even worse for White: White wins 29%, Black 35% and 36% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Gambit](https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1382023287), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Immortal Game: adapted from the Wikipedia article [Immortal Game](https://en.wikipedia.org/w/index.php?title=Immortal_Game&oldid=1379590040), version of 10 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit), figures collected from September to November 2026.
