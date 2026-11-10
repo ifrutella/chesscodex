@@ -38,3 +38,8 @@ The Polish suits players who like offbeat openings and want to take opponents ou
 ### The numbers
 
 On Lichess White leads below 2200: 49.9% against 45.9% under 1400, 52.3% against 43.9% at 1400–1799 and 50.1% against 44.9% at 1800–2199. From 2200 up Black is slightly ahead, 46.9% against 46.1%. There are only about 2,200 master games, too few to draw firm conclusions.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sokolsky Opening](https://en.wikipedia.org/w/index.php?title=Sokolsky_Opening&oldid=1377932091), version of 2 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Polish_Opening), figures collected from September to November 2026.

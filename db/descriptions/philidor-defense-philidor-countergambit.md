@@ -11,8 +11,13 @@ White has several promising options: 4.Nc3, 4.Bc4, 4.dxe5 and 4.exf5. 4.Bd3 is w
 - 4.Bc4 is probably the most conclusive way to a clear advantage. Black's best reply is 4...Nc6, played by Morphy and already analysed in the Traitté de Lausanne of 1698; White should continue with the rare but strong 5.Ng5 Nh6 6.d5, gaining a clear space advantage.
 - 4.Nc3, sometimes called the Zukertort Variation, also leads to an advantage for White.
 - 4.dxe5 fxe4 5.Ng5 d5 leads to a very sharp position. The main move is 6.e6, the del Rio Attack, known since 1763.
-- 4.exf5, the more positional choice, was regarded by Steinitz as the best continuation. After 4...e4 5.Ng5 Bxf5 6.Nc3 White is regarded as slightly better.
+- 4.exf5, the more positional choice, was regarded by Steinitz as the best continuation. After 4...e4 5.Ng5 Bxf5 6.Nc3 Nf6 7.f3 White is regarded as slightly better.
 
 ### The numbers
 
 On Lichess White wins 51.7% of the 333,755 games and Black 44.8%. The gap narrows as ratings rise: from 1800 up Black wins 45.5%. There are only 45 master games, too few to judge.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Philidor Defence](https://en.wikipedia.org/w/index.php?title=Philidor_Defence&oldid=1382655750), version of 29 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Philidor_Defense_Philidor_Countergambit), figures collected from September to November 2026.

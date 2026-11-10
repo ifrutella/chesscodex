@@ -37,3 +37,8 @@ The Austrian Attack suits White players who want to meet the Pirc head-on, with 
 ### The numbers
 
 In 1,894,131 rated Lichess games between players rated 1600 and 2500, White won 51.0%, Black 44.0%, and 4.9% were drawn. White is ahead in every rating band: 52.3% against 44.3% under 1400, 52.2% against 44.1% at 1400–1799, 50.6% against 44.6% at 1800–2199 and 51.5% against 41.7% from 2200 up. In about 5,000 master games White won 37.0%, Black 24.8%, and 38.2% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Pirc Defence](https://en.wikipedia.org/w/index.php?title=Pirc_Defence&oldid=1381326764), version of 21 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Pirc_Defense_Austrian_Attack), figures collected from September to November 2026.

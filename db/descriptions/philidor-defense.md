@@ -1,4 +1,4 @@
-The Philidor Defense (1.e4 e5 2.Nf3 d6) protects the e5-pawn with a pawn instead of the usual 2...Nc6. It is a solid but somewhat passive choice. Black builds a firm "strongpoint" on e5 and aims for a compact, hard-to-break position.
+The Philidor Defense (1.e4 e5 2.Nf3 d6) protects the e5-pawn with a pawn instead of the usual 2...Nc6. It is a solid but somewhat passive choice.
 
 ### Origins
 
@@ -6,20 +6,20 @@ The opening is named after the 18th-century French player and composer François
 
 ### The idea
 
-With 2...d6 Black keeps e5 firmly defended and prepares a compact setup: ...Nf6, ...Nbd7, ...Be7, ...O-O and ...c6. This is the Hanham Variation idea of a strongpoint defence of e5. The drawback is that the dark-squared bishop is blocked behind the d6-pawn, and White gets more space. In sharper lines Black gives up the centre with ...exd4 for freer piece play.
+With 2...d6 Black keeps e5 firmly defended and prepares a compact setup: ...Nf6, ...Nbd7, ...Be7, ...O-O and ...c6. This is the Hanham Variation idea of a strongpoint defence of e5. The drawback is that the dark-squared bishop is blocked behind the d6-pawn, and White gets more space. Black's most common reply to 3.d4, however, is 3...exd4, which gives up the centre.
 
 ### Main lines
 
-- [Exchange Variation](/openings/philidor-defense-exchange-variation) 3.d4 exd4: the main line continues 4.Nxd4 Nf6 5.Nc3 Be7. Black gives up the centre for simple development.
+- [Exchange Variation](/openings/philidor-defense-exchange-variation) 3.d4 exd4: the main line continues 4.Nxd4 Nf6 5.Nc3 Be7. Black relieves the central tension but gives up the centre.
 - [Hanham Variation](/openings/philidor-defense-hanham-variation) 3...Nd7 and the [Lion setup](/openings/philidor-defense-lion-variation) with ...Nf6 and ...Nbd7: Black keeps the pawn on e5.
 - Philidor Countergambit 3...f5: often considered too risky and dubious, but played by David Bronstein and Hikaru Nakamura.
-- [Morphy Gambit](/openings/philidor-defense-morphy-gambit) 4.Bc4 after 3...exd4, a sharp attacking choice for White.
+- [Morphy Gambit](/openings/philidor-defense-morphy-gambit) 4.Bc4 after 3...exd4, where White develops instead of recapturing the pawn.
 
 ### Strengths and weaknesses
 
 **Strengths**
 
-- Solid and easy to learn: the same setup works against most White plans.
+- Solid, with a clear defensive setup, although Black cannot always reach it by force.
 - Avoids the heavy theory of the Ruy Lopez and the Italian.
 - A good choice for amateur players who want a defensive strategy.
 
@@ -35,4 +35,10 @@ The Philidor suits solid, defensive players who like a fixed setup and slow mano
 
 ### The numbers
 
-On Lichess White wins 51–52% and Black 43–44.5% at every band below 2200, and 50% against 43% above it. It is played very often at club level: most of its Lichess games are below 1800. In master games over the board, White wins 41%, Black 25% and 34.5% are drawn, one of the better master scores for White among the replies to 2.Nf3.
+On Lichess White wins 51–52% and Black 43.1–44.4% at every band below 2200, and 50% against 43% above it. It is played very often at club level: most of its Lichess games are below 1800. In master games over the board, White wins 41%, Black 25% and 34.5% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Philidor Defence](https://en.wikipedia.org/w/index.php?title=Philidor_Defence&oldid=1382655750), version of 29 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Philidor: adapted from the Wikipedia article [François-André Danican Philidor](https://en.wikipedia.org/w/index.php?title=Fran%C3%A7ois-Andr%C3%A9_Danican_Philidor&oldid=1378944026), version of 7 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Philidor_Defense), figures collected from September to November 2026.

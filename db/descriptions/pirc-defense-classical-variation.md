@@ -15,3 +15,8 @@ After 4...Bg7 5.Be2 O-O 6.O-O, the move 6...c5 7.Be3 cxd4 8.Nxd4 transposes to t
 ### The numbers
 
 On Lichess White wins 48.0% of the 4.6 million games and Black 46.8%. The gap is small under 1400, 49.1% against 46.4%, and wider from 2200 up, 50.0% against 42.8%. In 5,640 master games over the board White won 32.6%, Black 23.8%, and 43.6% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Pirc Defence](https://en.wikipedia.org/w/index.php?title=Pirc_Defence&oldid=1381326764), version of 21 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Pirc_Defense_Classical_Variation), figures collected from September to November 2026.
