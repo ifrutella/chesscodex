@@ -16,3 +16,8 @@ With 6...d6 Black supports e5 instead. After 7.O-O Bb6, Emanuel Lasker's defence
 ### The numbers
 
 On Lichess White wins 51.1% of the 1.3 million games and Black 45.7%. From 2200 up Black is slightly ahead, 47.8% against 47.5%. Masters draw more than half their games: in 889 games over the board 54.0% were drawn, Black won 24.6% and White 21.4%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Evans Gambit](https://en.wikipedia.org/w/index.php?title=Evans_Gambit&oldid=1381874139), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Evans_Gambit_Main_Line), figures collected from September to November 2026.

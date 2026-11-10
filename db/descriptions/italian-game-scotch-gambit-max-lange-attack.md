@@ -1,8 +1,8 @@
-The Max Lange Attack is a sharp open game named after the German master Max Lange, who suggested it in 1854. It can arise from several openings, including the [Two Knights Defense](/openings/italian-game-two-knights-defense), the [Scotch Gambit](/openings/scotch-game-scotch-gambit), Petrov's Defense, the Bishop's Opening and the Giuoco Piano. This page has the Scotch Gambit order, 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.O-O Bc5, one move before the attack itself, 6.e5.
+The Max Lange Attack is an opening named after the German master Max Lange, who suggested it in 1854. It can arise from several openings, including the [Two Knights Defense](/openings/italian-game-two-knights-defense), the [Scotch Gambit](/openings/scotch-game-scotch-gambit), Petrov's Defense, the Bishop's Opening and the Giuoco Piano. This page has the Scotch Gambit order, 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.O-O Bc5, one move before the attack itself, 6.e5.
 
 ### The idea
 
-White gives up the d4-pawn, castles and then attacks the f6-knight with e5. Black usually hits back in the centre with ...d5, and the play becomes sharp and tactical.
+White gives up the d4-pawn, castles and then attacks the f6-knight with e5. Black usually hits back in the centre with ...d5, and the play becomes complex.
 
 ### Main lines
 
@@ -22,3 +22,8 @@ The Max Lange is for players on both sides who know the lines: one wrong move in
 ### The numbers
 
 On Lichess White wins 60.3% of the 1.5 million games and Black 36.6%. Below 1400 the margin is smaller, 54.8% against 42.7%. Between 1400 and 2199 White wins about 60% and Black about 37%, and from 2200 up 56.3% against 38.8%. In 231 master games over the board White won 39.4%, Black 34.6%, and 26.0% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Max Lange Attack](https://en.wikipedia.org/w/index.php?title=Max_Lange_Attack&oldid=1380004505), version of 13 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Scotch_Gambit_Max_Lange_Attack), figures collected from September to November 2026.

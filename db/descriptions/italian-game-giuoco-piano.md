@@ -1,4 +1,4 @@
-The Giuoco Piano (1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5) is the main line of the [Italian Game](/openings/italian-game). The name is Italian for "quiet game". Both sides develop their bishops to the most active diagonal, aimed at the opponent's weak f-pawn.
+The Giuoco Piano (1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5) is the main line of the [Italian Game](/openings/italian-game). The name is Italian for "quiet game". Both sides develop their bishops to c4 and c5, where they aim at the f7- and f2-pawns, each protected only by the king.
 
 ### Origins
 
@@ -36,3 +36,8 @@ The Giuoco Piano suits beginners learning how to develop and fight for the centr
 ### The numbers
 
 On Lichess the results are almost identical at every level: White wins 47.6–49.4% and Black 45.7–46.9%, with draws growing from 3.7% under 1400 to 6.7% from 2200 up. In master games over the board, half the games are drawn (50.2%); White wins 27.4% and Black 22.3%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Giuoco Piano](https://en.wikipedia.org/w/index.php?title=Giuoco_Piano&oldid=1374765874), version of 14 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Giuoco_Piano), figures collected from September to November 2026.

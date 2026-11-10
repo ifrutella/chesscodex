@@ -21,4 +21,9 @@ After 6.Qh5+ Black must not play 6...Kf6, because of 7.Qf5+ Ke7 8.Qxe5+ Kf7 9.Qx
 
 ### The numbers
 
-On Lichess Black wins more often: 51.2% against 45.3% for White in 250,000 games. Under 1400 it is closer, 49.7% against 47.1%, and from 1400 up Black wins about 51% against about 45%. There is only one master game over the board, too few to say anything.
+On Lichess Black wins more often: 51.2% against 45.3% for White in 251,126 games. Under 1400 it is closer, 49.7% against 47.1%, and from 1400 up Black wins about 51% against about 45%. There is only one master game over the board, too few to say anything.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Jerome Gambit](https://en.wikipedia.org/w/index.php?title=Jerome_Gambit&oldid=1359174069), version of 13 June 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Jerome_Gambit), figures collected from September to November 2026.

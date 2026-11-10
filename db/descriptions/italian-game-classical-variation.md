@@ -37,3 +37,8 @@ The Classical Variation suits White players who like classical central play, whe
 ### The numbers
 
 On Lichess White leads at every level, though less as ratings rise: 53.2% against 43.3% under 1400, 52.1% against 44.1% at 1400–1799, 50.6% against 44.7% at 1800–2199 and 48.5% against 44.3% from 2200 up. In about 14,000 master games 52.5% were drawn; White won 26.7% and Black 20.8%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Giuoco Piano](https://en.wikipedia.org/w/index.php?title=Giuoco_Piano&oldid=1374765874), version of 14 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Classical_Variation), figures collected from September to November 2026.
