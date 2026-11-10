@@ -14,3 +14,8 @@ An early 4...h6 is weak because of 5.Bxf6: after 5...gxf6 6.cxd5 exd5 Black has 
 ### The numbers
 
 On Lichess White wins 50.4% of the 9.4 million games and Black 43.9%. White's lead shrinks a little with rating, from 52.3% against 43.9% under 1400 to 49.1% against 42.6% from 2200 up. Masters over the board draw half their games: in 7,914 games 50.3% were drawn, White won 32.4% and Black 17.4%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Queen's Gambit Declined](https://en.wikipedia.org/w/index.php?title=Queen%27s_Gambit_Declined&oldid=1382050090), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Modern_Variation), figures collected from September to November 2026.

@@ -1,4 +1,4 @@
-The Réti Opening (1.Nf3 d5 2.c4) is the classic hypermodern opening. White does not occupy the centre with pawns, but attacks it from the flanks with the c-pawn, a knight and usually a fianchettoed bishop. It is flexible and can transpose into the [English](/openings/english-opening), the [Catalan](/openings/catalan-opening) or Queen's Gambit positions.
+The Réti Opening (1.Nf3 d5 2.c4) is a hypermodern opening. White does not occupy the centre with pawns, but attacks it from the flanks with the c-pawn, a knight and usually a fianchettoed bishop. It is flexible and can transpose into the [English](/openings/english-opening), the [Catalan](/openings/catalan-opening) or Queen's Gambit positions.
 
 ### Origins
 
@@ -6,12 +6,12 @@ The opening is named after the Czechoslovak player Richard Réti (1889–1929), 
 
 ### The idea
 
-White controls the centre from the wings rather than by direct occupation. Typical moves are g3, Bg2, O-O, b3 and Bb2, sometimes with b4 to gain queenside space. White avoids the early pawn moves e4 and d4 and waits to see how Black sets up, then strikes at the centre with pieces and flank pawns.
+White controls the centre from the wings rather than by direct occupation. Typical moves are g3, Bg2, O-O, b3 and Bb2, sometimes with b4 to gain queenside space. White avoids the pawn moves e4 and d4 and expands on the queenside instead.
 
 ### Main lines
 
-- [2...d4](/openings/reti-opening-advance-variation): Black gains space and keeps the game closed. White often plays e3 or b4 against the d4-pawn.
-- 2...e6 or 2...c6: Black defends d5, and the game often transposes to Queen's Gambit or Slav structures, or to the "Anglo-Slav" lines.
+- [2...d4](/openings/reti-opening-advance-variation): Black gains space and keeps the game closed. White usually answers 3.e3 or the sharper 3.b4.
+- 2...e6 or 2...c6: Black defends d5, and the game often transposes to Queen's Gambit or Slav structures, or to the English Opening.
 - [2...dxc4](/openings/reti-opening-reti-accepted): Black takes the pawn, and White regains it with a slight advantage.
 
 ### Strengths and weaknesses
@@ -34,4 +34,9 @@ The Réti suits positional players who like flexible, manoeuvring games and want
 
 ### The numbers
 
-On Lichess the Réti does well for White: 53–54% for White and 41–43.5% for Black below 2200, and 50% against 42% above it. In master games over the board, White wins 34%, Black 24% and 42% are drawn.
+On Lichess the Réti does well for White: 53–54% for White and 41.1–43.6% for Black below 2200, and 50% against 42% above it. In master games over the board, White wins 34%, Black 24% and 42% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Réti Opening](https://en.wikipedia.org/w/index.php?title=R%C3%A9ti_Opening&oldid=1382019324), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Reti_Opening), figures collected from September to November 2026.

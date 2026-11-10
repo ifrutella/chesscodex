@@ -1,19 +1,19 @@
-The Queen's Gambit (1.d4 d5 2.c4) is White's classical main line against 1...d5. White offers the c-pawn to lure Black's d-pawn away from the centre. It is not a true gambit, because Black cannot safely keep the pawn, and it has been one of the most important openings in chess for more than a century.
+The Queen's Gambit (1.d4 d5 2.c4) is one of the oldest openings in chess and is still commonly played. White offers the c-pawn to lure Black's d-pawn away from the centre. It is not a true gambit, because Black cannot safely keep the pawn.
 
 ### Origins
 
-The Queen's Gambit is mentioned in the Göttingen manuscript of 1490, one of the oldest chess books, and was later analysed by Alessandro Salvio (1604) and Gioachino Greco. It did not become common until the Vienna tournament of 1873, and it reached its peak in the 1920s and 1930s. In the 1927 world championship match between Capablanca and Alekhine, 32 of the 34 games began with it. After the Second World War many players switched to the Indian defences against 1.d4, but the Queen's Gambit is still one of the main openings at every level.
+The Queen's Gambit is mentioned in the Göttingen manuscript of 1490. Alessandro Salvio pointed out a trap in it in 1604, and Gioachino Greco analysed it in the 17th century. It did not become common until the Vienna tournament of 1873, and it reached its peak in the 1920s and 1930s. In the 1927 world championship match between Capablanca and Alekhine, 32 of the 34 games began with it. After the Second World War many players switched to the Indian defences against 1.d4, but the Queen's Gambit is still frequently played.
 
 ### The idea
 
-2.c4 attacks d5 from the side. If Black takes, White gets a free hand in the centre with e3 or e4 and wins the pawn back. If Black defends, White keeps pressure on d5 and gains space. The goal is a strong central pawn majority and active pieces, while Black has to choose between solidity and counterplay.
+2.c4 attacks d5 from the side. If Black takes, White gets a free hand in the centre with e3 or e4 and wins the pawn back. If Black defends, White keeps pressure on d5 and gains space. Black often keeps a pawn on d5 and frees the cramped position by exchanging pieces and with the pawn breaks ...c5 and ...e5.
 
 ### Black's main replies
 
 - [Queen's Gambit Declined](/openings/queens-gambit-declined) 2...e6: the classical, very solid defence, with the [Orthodox](/openings/queens-gambit-declined-orthodox-defense), [Exchange](/openings/queens-gambit-declined-exchange-variation) and [Tarrasch](/openings/queens-gambit-declined-tarrasch-defense) lines.
 - [Queen's Gambit Accepted](/openings/queens-gambit-accepted) 2...dxc4: Black takes and returns the pawn for quick development and ...c5.
 - [Slav Defense](/openings/slav-defense) 2...c6: supports d5 while keeping the c8-bishop free. The [Semi-Slav](/openings/semi-slav-defense) combines ...c6 and ...e6.
-- Counter-attacks: the [Albin Countergambit](/openings/queens-gambit-declined-albin-countergambit) 2...e5, the [Chigorin Defense](/openings/queens-gambit-declined-chigorin-defense) 2...Nc6, the [Baltic Defense](/openings/queens-gambit-declined-baltic-defense) 2...Bf5 and the [Marshall Defense](/openings/queens-gambit-declined-marshall-defense) 2...Nf6.
+- Less common replies: the [Albin Countergambit](/openings/queens-gambit-declined-albin-countergambit) 2...e5, the [Chigorin Defense](/openings/queens-gambit-declined-chigorin-defense) 2...Nc6, the [Baltic Defense](/openings/queens-gambit-declined-baltic-defense) 2...Bf5 and the [Marshall Defense](/openings/queens-gambit-declined-marshall-defense) 2...Nf6.
 
 ### Strengths and weaknesses
 
@@ -35,4 +35,9 @@ The Queen's Gambit is the natural choice for players who start with 1.d4 and wan
 
 ### The numbers
 
-On Lichess the Queen's Gambit does well for White at club level: 53–54% for White and 43% for Black below 1800, and 49% against 43% above 2200. In master games over the board, about half the games are drawn (49.5%), White wins 32% and Black 18.5%.
+On Lichess the Queen's Gambit does well for White at club level: 53–54% for White and 43% for Black below 1800, and 49% against 43% above 2200. In master games over the board, about half the games are drawn (49.5%), White wins 32% and Black 18.4%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Queen's Gambit](https://en.wikipedia.org/w/index.php?title=Queen%27s_Gambit&oldid=1372114076), version of 30 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit), figures collected from September to November 2026.

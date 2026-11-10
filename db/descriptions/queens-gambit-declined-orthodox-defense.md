@@ -13,3 +13,8 @@ José Raúl Capablanca introduced the idea 9...Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.R
 ### The numbers
 
 On Lichess White wins 48.5% of the 864,000 games and Black 44.9%. White's score hardly changes with rating: 49.2% against 47.1% under 1400 and 48.2% against 43.0% from 2200 up. Masters over the board draw more than half their games: in 3,883 games 51.2% were drawn, White won 33.2% and Black 15.6%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Queen's Gambit Declined](https://en.wikipedia.org/w/index.php?title=Queen%27s_Gambit_Declined&oldid=1382050090), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Orthodox_Defense), figures collected from September to November 2026.

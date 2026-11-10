@@ -15,3 +15,8 @@ An important line of the Semi-Tarrasch is the Endgame Line: 4...c5 5.cxd5 cxd4 6
 ### The numbers
 
 On Lichess White wins 51.1% of the 15.7 million games and Black 43.1%, and the gap is about the same in every rating band. Masters draw most of their games: in 78,777 games over the board 57.1% were drawn, White won 26.2% and Black 16.7%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Queen's Gambit Declined](https://en.wikipedia.org/w/index.php?title=Queen%27s_Gambit_Declined&oldid=1382050090), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Three_Knights_Variation), figures collected from September to November 2026.

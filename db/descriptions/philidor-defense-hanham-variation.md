@@ -14,3 +14,8 @@ Aron Nimzowitsch favoured 3...Nf6 to avoid 3...Nd7 4.Bc4, but then White can cho
 ### The numbers
 
 On Lichess the two sides are almost level: Black wins 47.8% of the 1.5 million games and White 47.6%. Below 1800 White is slightly ahead, and between 1800 and 2199 Black is, 48.3% against 47.1%. From 2200 up White wins 50.3% against 43.5%. In 910 master games over the board White won 52.7%, Black 20.4%, and 26.8% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Philidor Defence](https://en.wikipedia.org/w/index.php?title=Philidor_Defence&oldid=1382655750), version of 29 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Philidor_Defense_Hanham_Variation), figures collected from September to November 2026.

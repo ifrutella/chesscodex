@@ -6,7 +6,7 @@ White develops the bishop at once and keeps f2–f4 in reserve, at the cost of l
 
 ### Main lines
 
-- 2...c6, the most common reply on Lichess, kicks the bishop at once. The game might continue 3.Ba4 Nf6, and now White can play 4.Nc3 or 4.Qe2.
+- 2...c6, more popular than 2...Nc6, kicks the bishop at once. The game might continue 3.Ba4 Nf6, and now White can play 4.Nc3 or 4.Qe2.
 - 2...Nf6 allows White to try a gambit with 3.d4, the [Portuguese Gambit](/openings/portuguese-opening-portuguese-gambit).
 - 2...Nc6 lets White transpose into the Ruy Lopez with 3.Nf3.
 - 2...Bc5 3.b4 is the [Miguel Gambit](/openings/portuguese-opening-miguel-gambit).
@@ -24,4 +24,9 @@ White develops the bishop at once and keeps f2–f4 in reserve, at the cost of l
 
 ### The numbers
 
-On Lichess it is rare: it appears in fewer than one in a thousand games that start 1.e4 e5. Its results change with the rating. Under 1400 Black wins 57.2% and White 37.1%, and at 1400–1799 Black still leads, 51.7% against 44.4%. At 1800–2199 it is nearly level, 48.2% for Black against 47.7% for White, and from 2200 up White is ahead, 49.0% against 45.1%. There are only 62 master games, too few to draw conclusions. Stockfish rates the position after 2.Bb5 as about equal (−0.09).
+On Lichess it is rare: it appears in fewer than one in a thousand games that start 1.e4 e5. Its results change with the rating. Under 1400 Black wins 57.2% and White 37.1%, and at 1400–1799 Black still leads, 51.7% against 44.4%. At 1800–2199 it is nearly level, 48.2% for Black against 47.7% for White, and from 2200 up White is ahead, 49.0% against 45.1%. There are only 62 master games, too few to draw conclusions.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Portuguese Opening](https://en.wikipedia.org/w/index.php?title=Portuguese_Opening&oldid=1382020454), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Portuguese_Opening), figures collected from September to November 2026.

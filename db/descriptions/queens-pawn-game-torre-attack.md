@@ -1,4 +1,4 @@
-The Torre Attack is a quiet system for White built on 1.d4, Nf3 and Bg5. On this page Black answers with ...d5 and ...Nf6, so the line runs 1.d4 d5 2.Nf3 Nf6 3.Bg5. This form is also called the Tartakower Variation of the Queen's Pawn Game (D03). The bishop pins the f6-knight before White has moved the c- or e-pawn.
+The Torre Attack is a quiet system for White built on 1.d4, Nf3 and Bg5. On this page Black answers with ...d5 and ...Nf6, so the line runs 1.d4 d5 2.Nf3 Nf6 3.Bg5. This form is also called the Tartakower Variation of the Queen's Pawn Game (D03). The bishop goes to g5, attacking the f6-knight, before White has moved the c- or e-pawn.
 
 ### Origins
 
@@ -6,7 +6,7 @@ The opening is named after the Mexican grandmaster Carlos Torre Repetto, who bea
 
 ### The idea
 
-White develops quickly and simply: the light-squared bishop goes to d3, the dark-squared bishop to g5 and the knights to d2 and f3. The d4-pawn is supported by c2–c3, and White often follows with e2–e4 to get attacking chances on the kingside while the bishop pins the knight on f6.
+White develops quickly and simply: the light-squared bishop goes to d3, the dark-squared bishop to g5 and the knights to d2 and f3. The d4-pawn is supported by c2–c3, and White often follows with e2–e4 to get attacking chances on the kingside while the bishop bears on the knight on f6.
 
 If White plays an early c4 instead, the game turns into one of the more common queen's pawn openings, such as the [Queen's Gambit](/openings/queens-gambit) or one of the Indian defences.
 
@@ -25,3 +25,8 @@ The Torre is rarely a main weapon in modern top-level chess, and statistics sugg
 ### The numbers
 
 On Lichess White wins 49.5% of the 3.1 million games with this line and Black 44.6%. The split hardly moves with rating: 49.4% against 46.2% under 1400, 49.5% against 44.5% between 1800 and 2199, and 47.6% against 43.6% from 2200 up. In 1,972 master games over the board, 43% were drawn, White won 29.1% and Black 27.9%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Torre Attack](https://en.wikipedia.org/w/index.php?title=Torre_Attack&oldid=1356336290), version of 27 May 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Pawn_Game_Torre_Attack), figures collected from September to November 2026.

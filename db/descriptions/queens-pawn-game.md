@@ -6,7 +6,7 @@ In the 19th and early 20th centuries 1.e4 was by far the most common start, and 
 
 ### The idea
 
-1.d4 prepares c4, the Queen's Gambit, or a quieter set-up with Nf3, e3 or Bf4. The games tend to be more positional than after 1.e4: the fight is about space, pawn structure and piece placement rather than early tactics.
+1.d4 prepares c4, the Queen's Gambit, or a quieter set-up with Nf3, e3 or Bf4.
 
 ### Black's main answers
 
@@ -17,14 +17,14 @@ In the 19th and early 20th centuries 1.e4 was by far the most common start, and 
 
 ### White's systems
 
-Many players meet everything with the same set-up instead of learning the Queen's Gambit:
+Other than the Queen's Gambit, common Queen's Pawn Game openings include:
 
 - the [London System](/openings/queens-pawn-game-london-system) with Bf4;
 - the [Colle System](/openings/queens-pawn-game-colle-system) with e3 and Bd3;
 - the [Torre Attack](/openings/queens-pawn-game-torre-attack) with Bg5;
 - the [Stonewall Attack](/openings/queens-pawn-game-stonewall-attack);
 - the [Trompowsky Attack](/openings/trompowsky-attack) and the [Richter-Veresov Attack](/openings/richter-veresov-attack);
-- the [Blackmar-Diemer Gambit](/openings/blackmar-diemer-gambit), a sharp pawn sacrifice.
+- the [Blackmar-Diemer Gambit](/openings/blackmar-diemer-gambit), a gambit with a dubious reputation.
 
 ### Strengths and weaknesses
 
@@ -46,3 +46,8 @@ Many players meet everything with the same set-up instead of learning the Queen'
 ### The numbers
 
 On Lichess White wins 48.8–50.5% and Black 43.6–45.3% at every rating band, with draws rising from 4.1–4.2% below 1800 to 7.6% from 2200 up. In master games over the board, White wins 32.5%, Black 22.7% and 44.8% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Queen's Pawn Game](https://en.wikipedia.org/w/index.php?title=Queen%27s_Pawn_Game&oldid=1363508269), version of 10 July 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Pawn_Game), figures collected from September to November 2026.

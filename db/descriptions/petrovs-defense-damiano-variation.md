@@ -15,3 +15,8 @@ Best is 4...Qe7 5.Qxe4 d6 6.d4 dxe5 7.dxe5 Nc6. After 8.Nc3 Qxe5 9.Qxe5+ Nxe5 10
 ### The numbers
 
 On Lichess White wins 54.2% of the 1.1 million games and Black 40.6%. White's results fall as ratings rise: White wins 61.8% under 1400 and 62.0% between 1400 and 1799, but from 2200 up Black is ahead, 47.7% against 41.6%. In 375 master games over the board 56.0% were drawn, White won 31.7% and Black 12.3%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Petrov's Defence](https://en.wikipedia.org/w/index.php?title=Petrov%27s_Defence&oldid=1382022050), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Petrovs_Defense_Damiano_Variation), figures collected from September to November 2026.

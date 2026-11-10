@@ -1,4 +1,4 @@
-The Accelerated London System (1.d4 d5 2.Bf4) brings White's dark-squared bishop out on move two, before the king's knight. It is the move order now most often used to reach the [London System](/openings/queens-pawn-game-london-system), a set-up White can play against almost any defence.
+The Accelerated London System (1.d4 d5 2.Bf4) brings White's dark-squared bishop out on move two, before the king's knight. It has become a common move order for the [London System](/openings/queens-pawn-game-london-system), a set-up White can play against almost any defence.
 
 ### Origins
 
@@ -36,3 +36,8 @@ The Accelerated London suits players who want a solid repertoire with 1.d4 built
 ### The numbers
 
 On Lichess White leads at every level: 52.8% against 43.2% under 1400, 51.5% against 44.1% at 1400–1799, 50.3% against 44.1% at 1800–2199 and 48.8% against 43.1% from 2200 up. In about 7,100 master games 44.9% were drawn; White won 31.3% and Black 23.8%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [London System](https://en.wikipedia.org/w/index.php?title=London_System&oldid=1382022968), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Pawn_Game_Accelerated_London_System), figures collected from September to November 2026.

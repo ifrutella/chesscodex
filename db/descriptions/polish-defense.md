@@ -17,3 +17,8 @@ Against the Réti or the King's Indian Attack, ...b5 is fully respectable. The l
 ### The numbers
 
 On Lichess White wins 49.3% of the 1.1 million games and Black 46.3%. Lower down White does much better: 55.1% against 39.9% under 1400. The gap closes as the rating rises, and from 2200 up the sides are level, 46.9% against 46.6%. In 666 master games over the board White won 48.0%, Black 23.9%, and 28.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Polish Defense](https://en.wikipedia.org/w/index.php?title=Polish_Defense&oldid=1382021794), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Polish_Defense), figures collected from September to November 2026.

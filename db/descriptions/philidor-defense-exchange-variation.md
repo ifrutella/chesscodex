@@ -1,4 +1,4 @@
-The Exchange Variation of the [Philidor Defense](/openings/philidor-defense) (1.e4 e5 2.Nf3 d6 3.d4 exd4) is Black's most common answer to 3.d4. Black releases the central tension and gives up the centre, aiming for quick, harmonious development instead.
+The Exchange Variation of the [Philidor Defense](/openings/philidor-defense) (1.e4 e5 2.Nf3 d6 3.d4 exd4) is Black's most common answer to 3.d4. Black relieves the central tension, although it gives up the centre.
 
 ### Origins
 
@@ -33,3 +33,8 @@ The Exchange Variation suits Black players who meet 1.e4 e5 2.Nf3 with the Phili
 ### The numbers
 
 On Lichess White's lead grows with rating up to 2200: 50.2% against 45.7% under 1400, 51.3% against 44.3% at 1400–1799 and 53.4% against 41.5% at 1800–2199. From 2200 up it is 51.3% against 41.7%. In about 4,100 master games White won 38.5%, Black 25.9%, and 35.7% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Philidor Defence](https://en.wikipedia.org/w/index.php?title=Philidor_Defence&oldid=1382655750), version of 29 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Philidor_Defense_Exchange_Variation), figures collected from September to November 2026.

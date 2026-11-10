@@ -19,3 +19,8 @@ Alexander Morozevich is perhaps the only modern grandmaster who plays the Chigor
 ### The numbers
 
 On Lichess White wins 52.4% of the 3.3 million games and Black 42.9%. The gap narrows as the rating rises: under 1400 White wins 55.0% against 41.3%, between 1800 and 2199 52.2% against 42.9%, and from 2200 up 48.1% against 44.0%. In 3,788 master games over the board White won 44.1%, Black 22.1%, and 33.8% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Chigorin Defense](https://en.wikipedia.org/w/index.php?title=Chigorin_Defense&oldid=1382026313), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Chigorin_Defense), figures collected from September to November 2026.

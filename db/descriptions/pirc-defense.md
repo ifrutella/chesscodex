@@ -6,14 +6,14 @@ The Pirc was occasionally played in the 19th century but was considered an irreg
 
 ### The idea
 
-Black builds a compact kingside with ...d6, ...Nf6, ...g6, ...Bg7 and ...O-O. White gets more space, but Black's position has no weaknesses, and the g7-bishop presses on d4 and the long diagonal. At the right moment Black hits the centre with ...e5, ...c5 or ...c6 and ...b5. The Pirc is a bet that White's centre will become a target rather than a strength.
+Black builds a compact kingside with ...d6, ...Nf6, ...g6, ...Bg7 and ...O-O. In hypermodern fashion Black lets White set up pawns on d4 and e4 and works to undermine that centre from the flanks. At the right moment Black hits the centre with ...e5, ...c5 or ...c6 and ...b5.
 
 ### Main lines
 
-- [Austrian Attack](/openings/pirc-defense-austrian-attack) 4.f4: the most aggressive answer, grabbing even more space and preparing e5. Black must react quickly with ...c5 or ...O-O and ...c5.
+- [Austrian Attack](/openings/pirc-defense-austrian-attack) 4.f4: a direct, aggressive answer, grabbing even more space and preparing e5. Black often castles early and looks for counterplay with ...c5.
 - [Classical Variation](/openings/pirc-defense-classical-variation) 4.Nf3: calm development with Be2 and O-O, leading to the [Quiet System](/openings/pirc-defense-classical-variation-quiet-system).
-- [150 Attack](/openings/pirc-defense-150-attack) with Be3, Qd2 and often Bh6 and h4: a simple, direct plan to trade Black's key bishop and attack on the h-file. The name refers to an English (ECF) rating of 150, about 1825 Elo, suggesting that players of that strength can play it easily and get strong play.
-- [Byrne Variation](/openings/pirc-defense-byrne-variation) 4.Bg5 and the [Kholmov System](/openings/pirc-defense-kholmov-system) 4.Bc4: less common tries.
+- [150 Attack](/openings/pirc-defense-150-attack) with Be3 and Qd2, a set-up also used against the King's Indian and the Dragon Sicilian. The name refers to an English (ECF) rating of 150, about 1825 Elo, suggesting that players of that strength can play it easily and get strong play.
+- [Byrne Variation](/openings/pirc-defense-byrne-variation) 4.Bg5 and the [Kholmov System](/openings/pirc-defense-kholmov-system) 4.Bc4: other systems.
 
 ### Strengths and weaknesses
 
@@ -35,4 +35,9 @@ The Pirc suits counterattacking players who are comfortable defending a cramped 
 
 ### The numbers
 
-On Lichess the Pirc is balanced at club level: White wins 49–50% and Black 46–47% at every band below 2200, and 49% against 45% above it. In master games over the board, White wins 38%, Black 26% and only 36% are drawn. That is a sharp profile: Black wins more often than in most main defences, but also loses more often.
+On Lichess the Pirc is balanced at club level: White wins 48.5–50.2% and Black 45.6–46.8% at every band below 2200, and 49% against 45% above it. In master games over the board, White wins 38%, Black 26% and only 36% are drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Pirc Defence](https://en.wikipedia.org/w/index.php?title=Pirc_Defence&oldid=1381326764), version of 21 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Pirc_Defense), figures collected from September to November 2026.

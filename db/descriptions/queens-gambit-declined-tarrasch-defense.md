@@ -36,3 +36,8 @@ The Tarrasch suits Black players who prefer active pieces and open lines to a pa
 ### The numbers
 
 In 686,706 rated Lichess games between players rated 1600 and 2500, White won 49.0%, Black 44.8%, and 6.2% were drawn. White is ahead below 2200: 51.5% against 44.7% under 1400, 52.1% against 43.6% at 1400–1799 and 48.9% against 45.4% at 1800–2199. From 2200 up Black is slightly ahead, 45.6% against 44.6%. In about 3,600 master games White won 36.2%, Black 16.2%, and 47.6% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Tarrasch Defense](https://en.wikipedia.org/w/index.php?title=Tarrasch_Defense&oldid=1382050226), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Tarrasch_Defense), figures collected from September to November 2026.

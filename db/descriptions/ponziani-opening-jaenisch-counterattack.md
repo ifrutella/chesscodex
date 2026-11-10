@@ -19,3 +19,8 @@ The knight on c6 is attacked, and Black has three choices:
 ### The numbers
 
 On Lichess White wins 49.0% of the 3.7 million games and Black 46.7%. The gap stays small at every rating: 48.5% against 47.7% under 1400 and 47.7% against 45.5% from 2200 up. In 909 master games over the board White won 32.7%, Black 28.8%, and 38.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Ponziani Opening](https://en.wikipedia.org/w/index.php?title=Ponziani_Opening&oldid=1382020755), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ponziani_Opening_Jaenisch_Counterattack), figures collected from September to November 2026.

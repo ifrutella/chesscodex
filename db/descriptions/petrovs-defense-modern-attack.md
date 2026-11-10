@@ -17,3 +17,8 @@ After 3...exd4 the usual line is 4.e5 Ne4 5.Qxd4 d5 6.exd6 Nxd6. 4.Bc4 instead t
 ### The numbers
 
 On Lichess White wins 52.0% of the 2.9 million games and Black 43.1%. White is ahead both under 1400, 52.4% against 43.6%, and from 2200 up, 49.0% against 42.1%. Masters over the board draw most games: in 6,417 games 58.4% were drawn, White won 30.0% and Black only 11.6%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Petrov's Defence](https://en.wikipedia.org/w/index.php?title=Petrov%27s_Defence&oldid=1382022050), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Petrovs_Defense_Modern_Attack), figures collected from September to November 2026.

@@ -17,3 +17,8 @@ After 3...Nxe4 White can also play 4.d3, for example 4...Nf6 5.Nxe5 d5 6.Bb3 Bd6
 ### The numbers
 
 On Lichess White wins 50.3% of the 10.1 million games and Black 45.9%. White's lead shrinks as ratings rise, and from 2200 up Black is ahead, 48.1% against 45.4%. In 177 master games over the board Black won 37.3%, White 27.1%, and 35.6% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Petrov's Defence](https://en.wikipedia.org/w/index.php?title=Petrov%27s_Defence&oldid=1382022050), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Petrovs_Defense_Italian_Variation), figures collected from September to November 2026.

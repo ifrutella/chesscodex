@@ -1,4 +1,4 @@
-The Saduleto Variation, more widely known as the Central Variation, is 1.d4 d5 2.c4 dxc4 3.e4, a line of the [Queen's Gambit Accepted](/openings/queens-gambit-accepted). White immediately builds a strong pawn centre while Black's pawn sits on c4. It is an old move that became popular again in the 1990s. Raetsky and Chetverik call the line straightforward and critical, and say that anyone playing the Queen's Gambit Accepted must be ready to meet it.
+The Saduleto Variation, also called the Central Variation, is 1.d4 d5 2.c4 dxc4 3.e4, a line of the [Queen's Gambit Accepted](/openings/queens-gambit-accepted). White immediately builds a strong pawn centre while Black's pawn sits on c4. It is an old move that became popular again in the 1990s. Raetsky and Chetverik call the line straightforward and critical, and say that anyone playing the Queen's Gambit Accepted must be ready to meet it.
 
 ### Main lines
 
@@ -14,3 +14,8 @@ The Saduleto Variation, more widely known as the Central Variation, is 1.d4 d5 2
 ### The numbers
 
 On Lichess White wins 53.7% of the 4.7 million games and Black 41.8%. White leads 54.7% to 41.3% under 1400, but from 2200 up the margin narrows to 48.4% against 44.2%. In 6,212 master games over the board White won 35.1%, Black 19.8%, and 45.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Queen's Gambit Accepted](https://en.wikipedia.org/w/index.php?title=Queen%27s_Gambit_Accepted&oldid=1378795157), version of 6 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Accepted_Saduleto_Variation), figures collected from September to November 2026.

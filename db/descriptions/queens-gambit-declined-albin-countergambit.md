@@ -33,3 +33,8 @@ The Albin suits Black players who want sharp, attacking play against 1.d4 and ar
 ### The numbers
 
 On Lichess White leads at every level: 52.3% against 43.7% under 1400, 49.7% against 46.2% at 1400–1799, 49.1% against 45.8% at 1800–2199 and 48.9% against 44.2% from 2200 up. There are only about 1,500 master games, too few to draw firm conclusions.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Albin Countergambit](https://en.wikipedia.org/w/index.php?title=Albin_Countergambit&oldid=1371388463), version of 26 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Albin_Countergambit), figures collected from September to November 2026.

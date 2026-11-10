@@ -32,3 +32,8 @@ The American IM Yaacov Norowitz has played it a lot in online blitz with conside
 ### The numbers
 
 On Lichess White wins 50.9% of the 2.8 million games and Black 44.4%. Under 1400 it is 50.2% against 46.0%, between 1400 and 1799 51.6% against 44.5%, and between 1800 and 2199 50.7% against 44.4%. From 2200 up the two sides are almost level: 46.9% against 46.5%. In 215 master games over the board Black won 35.3%, White 27.4%, and 37.2% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Stonewall Attack](https://en.wikipedia.org/w/index.php?title=Stonewall_Attack&oldid=1381840679), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Pawn_Game_Stonewall_Attack), figures collected from September to November 2026.

@@ -15,3 +15,8 @@ The bishop on b4 pins the knight on c3 and can be exchanged for it, as in the Ni
 ### The numbers
 
 On Lichess White wins 53.7% of the 4.3 million games and Black 41.1%. Below 2200 White wins about 53 to 54%, and from 2200 up 49.6% against 42.5%. Masters over the board draw most games: in 18,247 games 59.0% were drawn, White won 23.7% and Black 17.3%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Queen's Gambit Declined](https://en.wikipedia.org/w/index.php?title=Queen%27s_Gambit_Declined&oldid=1382050090), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Queens_Gambit_Declined_Ragozin_Defense), figures collected from September to November 2026.

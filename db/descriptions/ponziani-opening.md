@@ -2,7 +2,7 @@ The Ponziani Opening (1.e4 e5 2.Nf3 Nc6 3.c3) is an old open game in which White
 
 ### Origins
 
-The opening is much older than Ponziani: it was already discussed around 1497, by Lucena and in the Göttingen manuscript. It has also been called the English Knight's Game, and Staunton's Opening after Howard Staunton, generally considered the world's strongest player from 1843 to 1851. Frank Marshall wrote in 1904 that "there is no point in White's third move unless Black plays badly". Magnus Carlsen won with it in 2013.
+The opening is much older than Ponziani: it was already discussed by 1497, by Lucena and in the Göttingen manuscript. It has also been called the English Knight's Game, and Staunton's Opening after Howard Staunton, generally considered the world's strongest player from 1843 to 1851. Frank Marshall wrote in 1904 that "there is no point in White's third move unless Black plays badly". Magnus Carlsen won with it in 2013.
 
 ### The idea
 
@@ -13,7 +13,7 @@ The opening is much older than Ponziani: it was already discussed around 1497, b
 - [Jaenisch Counterattack](/openings/ponziani-opening-jaenisch-counterattack) 3...Nf6: Black attacks e4. After 4.d4 Black can take on e4 or on d4; 4.Bc4 is the [Neumann Gambit](/openings/ponziani-opening-neumann-gambit).
 - 3...d5: a direct strike in the centre, usually met by 4.Qa4, with the [Steinitz Variation](/openings/ponziani-opening-steinitz-variation) 4...f6 and the [Caro Gambit](/openings/ponziani-opening-caro-gambit) 4...Bd7; 4.Bb5 is the [Spanish Variation](/openings/ponziani-opening-spanish-variation).
 - [Ponziani Countergambit](/openings/ponziani-opening-ponziani-countergambit) 3...f5: a sharp counter-gambit.
-- [Romanishin Variation](/openings/ponziani-opening-romanishin-variation) 3...Be7: a quiet, solid reply.
+- [Romanishin Variation](/openings/ponziani-opening-romanishin-variation) 3...Be7: a passive reply, usually met by 4.d4.
 
 ### Strengths and weaknesses
 
@@ -36,3 +36,8 @@ The Ponziani suits players who want an offbeat open game and like sharp position
 ### The numbers
 
 On Lichess the results hardly change with rating: White wins 48.2–50.3% and Black 45.2–46.4%, and draws grow from 3.8% below 1800 to 6.5% from 2200 up. There are only about 1,600 master games, too few to draw firm conclusions.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Ponziani Opening](https://en.wikipedia.org/w/index.php?title=Ponziani_Opening&oldid=1382020755), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ponziani_Opening), figures collected from September to November 2026.
