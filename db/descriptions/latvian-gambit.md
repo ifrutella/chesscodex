@@ -23,3 +23,8 @@ It has always been rare at the top level, but some correspondence players are de
 ### The numbers
 
 On Lichess White and Black each win 48.2% of the 3.7 million games. Under 1400 White wins 52.4% against 44.3%, but between 1800 and 2199 Black is slightly ahead, 48.3% against 47.9%, and from 2200 up White wins 47.6% against 46.8%. Masters are a different story: in 365 games over the board White won 67.7% and Black only 15.1%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Latvian Gambit](https://en.wikipedia.org/w/index.php?title=Latvian_Gambit&oldid=1377886597), version of 1 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Latvian_Gambit), figures collected from September to November 2026.

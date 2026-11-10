@@ -12,7 +12,7 @@ Since 1...d6 is playable for Black against any first move, the mirror move is pl
 
 - 1...e5, the [Reversed Rat](/openings/mieses-opening-reversed-rat); 2.Nd2 is the Valencia Variation.
 - 1...d5, 1...c5, 1...Nf6 and 1...g6 are all reasonable replies. 1...c5 2.Nc3 Nc6 3.g3 is the [Venezolana Variation](/openings/mieses-opening-venezolana-variation), and 1...g6 2.g4 the [Myers Spike Attack](/openings/mieses-opening-myers-spike-attack).
-- Kasparov–Deep Blue went 1.d3 e5 2.Nf3 Nc6 3.c4 Nf6 4.a3, reaching a reversed Sicilian set-up.
+- Kasparov–Deep Blue went 1.d3 e5 2.Nf3 Nc6 3.c4 Nf6 4.a3.
 
 ### Strengths and weaknesses
 
@@ -32,4 +32,9 @@ Since 1...d6 is playable for Black against any first move, the mirror move is pl
 
 ### The numbers
 
-On Lichess Black wins more often at most levels: 50.2% against 44.6% for White under 1400, 50.0% against 45.7% at 1400–1799 and 48.1% against 47.1% at 1800–2199. From 2200 up White is slightly ahead, 46.9% against 46.3%. There are only about 800 master games, too few to draw firm conclusions.
+On Lichess Black wins more often at most levels: 50.2% against 44.6% for White under 1400, 50.0% against 45.7% at 1400–1799 and 48.1% against 47.1% at 1800–2199. From 2200 up White is slightly ahead, 46.9% against 46.3%. In 800 master games over the board Black won 34.9%, White 32.6%, and 32.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Mieses Opening](https://en.wikipedia.org/w/index.php?title=Mieses_Opening&oldid=1356335787), version of 27 May 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Mieses_Opening), figures collected from September to November 2026.

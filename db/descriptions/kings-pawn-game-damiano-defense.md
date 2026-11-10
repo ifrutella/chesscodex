@@ -19,3 +19,8 @@ The Damiano is never seen in top-level play today. The strongest player to use i
 ### The numbers
 
 On Lichess White wins 62.6% of the 950,000 games and Black 34.0%. The gap is large at every rating below 2200: White wins 56.9% under 1400 and 62.9% between 1400 and 1799. From 2200 up it is 52.5% against 42.5%. There are too few master games over the board, 5, to say anything.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Damiano Defence](https://en.wikipedia.org/w/index.php?title=Damiano_Defence&oldid=1371784700), version of 28 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Pawn_Game_Damiano_Defense), figures collected from September to November 2026.

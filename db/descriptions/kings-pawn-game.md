@@ -2,7 +2,7 @@
 
 ### The idea
 
-With 1.e4 White claims the centre straight away and prepares quick development: the bishop can come out to c4 or b5, the knight to f3, and White can castle early. The e4-pawn is not protected yet, so it becomes a target for Black's first replies. Every major defence is a different way of dealing with it.
+With 1.e4 White claims the centre straight away and prepares quick development: the bishop can come out to c4 or b5, the knight to f3, and White can castle early. The e4-pawn is not protected yet, so it becomes a target for Black's first replies.
 
 ### Black's main answers
 
@@ -38,3 +38,8 @@ Among the rarer answers are the [Nimzowitsch Defense](/openings/nimzowitsch-defe
 ### The numbers
 
 1.e4 is the most-played first move on Lichess. White wins 48.1–50.2% and Black 44.8–46.5% at every rating band; draws rise from 4% under 1400 to 7.1% from 2200 up. In master games over the board, White wins 32%, Black 24.2% and 43.8% are drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [King's Pawn Game](https://en.wikipedia.org/w/index.php?title=King%27s_Pawn_Game&oldid=1381292295), version of 21 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Pawn_Game), figures collected from September to November 2026.
