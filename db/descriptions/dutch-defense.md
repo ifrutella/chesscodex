@@ -1,4 +1,4 @@
-The Dutch Defense (1.d4 f5) is an aggressive and unbalancing answer to 1.d4. By playing ...f5, Black fights for the e4-square immediately and prepares a kingside attack, creating an unbalanced position from the very first move.
+The Dutch Defense (1.d4 f5) is an aggressive answer to 1.d4. By playing ...f5, Black fights for the e4-square immediately and prepares a kingside attack, creating an unbalanced position from the very first move.
 
 ### Origins
 

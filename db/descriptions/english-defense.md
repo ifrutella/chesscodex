@@ -10,7 +10,7 @@ Black lets White build a broad pawn centre with c4 and e4 and then attacks it in
 
 ### Main lines
 
-- 2.c4 e6 3.e4 Bb7, the most common lines, for example 4.Bd3 Bb4+ 5.Nc3 f5 6.Qe2 Nf6, or 4.Bd3 Nc6, the [Perrin Variation](/openings/english-defense-perrin-variation).
+- 2.c4 e6 3.e4 Bb7, the start of the common lines, for example 4.Bd3 Bb4+ 5.Nc3 f5 6.Qe2 Nf6, or 4.Bd3 Nc6, the [Perrin Variation](/openings/english-defense-perrin-variation).
 - If White avoids e4, for example with Nc3 and Nf3, play often transposes to a ...b6 line of the [Nimzo-Indian Defense](/openings/nimzo-indian-defense).
 - 2.e4 turns the game into a King's Pawn opening, usually the [Owen Defense](/openings/owen-defense) (1.e4 b6) or, after ...e6 and ...d5, the [French Defense](/openings/french-defense).
 - Gambits such as the [Eastbourne Gambit](/openings/english-defense-eastbourne-gambit) (2.c4 Bb7 3.Nc3 e5) are rare.
