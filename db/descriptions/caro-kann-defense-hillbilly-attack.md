@@ -11,3 +11,8 @@ Williams attributes the name to National Master Jack Young, who allegedly used i
 ### The numbers
 
 On Lichess Black wins 52.9% of the 6.3 million games and White 42.7%. Black's lead holds through most rating bands, but from 2200 up the results are nearly even, 47.1% for Black against 46.9%. There are only 19 master games, too few to judge.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Caro–Kann Defence](https://en.wikipedia.org/w/index.php?title=Caro%E2%80%93Kann_Defence&oldid=1381151588), version of 20 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Caro-Kann_Defense_Hillbilly_Attack), figures collected from September to November 2026.

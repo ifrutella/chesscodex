@@ -26,3 +26,8 @@ The Two Knights Attack suits White players who want to leave the main Caro-Kann 
 ### The numbers
 
 On Lichess Black is slightly ahead under 1400, 48.9% against 47.1%, and White leads from there on: 48.8% against 47.2% at 1400–1799, 49.7% against 44.7% at 1800–2199, and 48.2% against 43.6% from 2200 up. In about 9,100 master games White won 32.1%, Black 27.0%, and 40.9% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Caro–Kann Defence](https://en.wikipedia.org/w/index.php?title=Caro%E2%80%93Kann_Defence&oldid=1381151588), version of 20 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Caro-Kann_Defense_Two_Knights_Attack), figures collected from September to November 2026.

@@ -35,3 +35,8 @@ The Exchange suits White players who like clear, structural middlegames, while t
 ### The numbers
 
 On Lichess the results are almost level: White 47.7%, Black 46.4%. Under 1400 Black is slightly ahead, 48.3% against 47.6%; at 1400–1799 White leads 48.0% against 47.4%, at 1800–2199 47.6% against 46.4%, and from 2200 up 47.3% against 44.2% with 8.5% draws. In about 16,800 master games 44.3% were drawn; White won 29.4% and Black 26.3%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Caro–Kann Defence](https://en.wikipedia.org/w/index.php?title=Caro%E2%80%93Kann_Defence&oldid=1381151588), version of 20 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Caro-Kann_Defense_Exchange_Variation), figures collected from September to November 2026.

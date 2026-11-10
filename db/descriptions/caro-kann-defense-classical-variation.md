@@ -31,3 +31,8 @@ The Classical Caro-Kann suits Black players who want a solid, healthy position a
 ### The numbers
 
 On Lichess Black is slightly ahead under 1400, 48.5% against 47.7%, and White leads from there on: 49.7% against 46.1% at 1400–1799, 50.0% against 44.0% at 1800–2199, and 47.9% against 43.4% from 2200 up. In about 16,500 master games White won 26.7%, Black 23.0%, and 50.4% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Caro–Kann Defence](https://en.wikipedia.org/w/index.php?title=Caro%E2%80%93Kann_Defence&oldid=1381151588), version of 20 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Caro-Kann_Defense_Classical_Variation), figures collected from September to November 2026.
