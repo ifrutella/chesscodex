@@ -13,3 +13,8 @@ The Nimzowitsch Defense is a hypermodern opening: Black invites White to occupy 
 ### The numbers
 
 On Lichess the line has been played in 6.9 million games: White wins 48.6% and Black 47.5%. Under 1400 White does much better, 54.3% against 41.7%, while from 2200 up the results are level, 47.1% against 47.2%. In 649 master games over the board White won 38.1%, Black 30.8%, and 31.1% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Nimzowitsch Defence](https://en.wikipedia.org/w/index.php?title=Nimzowitsch_Defence&oldid=1382022497), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Nimzowitsch_Defense_Kennedy_Variation), figures collected from September to November 2026.

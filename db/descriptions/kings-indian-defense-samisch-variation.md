@@ -32,3 +32,8 @@ The Sämisch suits White players who like a solid centre and attacking chances a
 ### The numbers
 
 On Lichess White is ahead at every level: 50.3% against 46.2% for Black under 1400, 52.6% against 43.7% at 1400–1799, 51.4% against 43.7% at 1800–2199, and 49.8% against 43.3% from 2200 up. In about 15,400 master games White won 38.2%, Black 24.7%, and 37.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Indian Defence](https://en.wikipedia.org/w/index.php?title=King%27s_Indian_Defence&oldid=1376322791), version of 23 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Indian_Defense_Samisch_Variation), figures collected from September to November 2026.

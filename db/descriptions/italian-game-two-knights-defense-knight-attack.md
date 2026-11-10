@@ -36,3 +36,8 @@ After 4.Ng5 the only good defence is 4...d5, blocking the bishop. After 5.exd5 W
 ### The numbers
 
 On Lichess White does very well at low ratings, 56.2% against 40.7% under 1400 and 53.0% against 44.0% at 1400–1799. From 1800 the results level out: 49.0% against 47.2% at 1800–2199 and 48.3% against 46.2% from 2200 up. In about 3,500 master games White won 32.9%, Black 24.5%, and 42.6% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Two Knights Defense](https://en.wikipedia.org/w/index.php?title=Two_Knights_Defense&oldid=1381945263), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Italian_Game_Two_Knights_Defense_Knight_Attack), figures collected from September to November 2026.

@@ -15,3 +15,8 @@ Black has two main approaches. One is to hold on to the extra pawn with ...g5, s
 ### The numbers
 
 On Lichess White wins 51.8% of the 19.3 million games and Black 44.7%. The balance shifts with rating: White leads 55.1% to 42.0% under 1400, while from 2200 up Black is ahead, 48.6% against 46.2%. In 2,381 master games over the board White won 26.3%, Black 35.4%, and 38.3% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Gambit](https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1382023287), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit_Accepted_Kings_Knights_Gambit), figures collected from September to November 2026.

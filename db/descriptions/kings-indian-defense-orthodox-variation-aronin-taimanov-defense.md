@@ -17,3 +17,8 @@ Black's other seventh moves are 7...Nbd7, the old main line, which is less commo
 ### The numbers
 
 On Lichess White wins 51.4% of the 1 million games and Black 43.2%. White's lead grows with rating: 49.7% against 46.5% under 1400 and 52.1% against 41.5% from 2200 up. In 20,115 master games over the board White won 36.1%, Black 21.4%, and 42.5% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Indian Defence](https://en.wikipedia.org/w/index.php?title=King%27s_Indian_Defence&oldid=1376322791), version of 23 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Indian_Defense_Orthodox_Variation_Aronin-Taimanov_Defense), figures collected from September to November 2026.

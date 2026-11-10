@@ -17,4 +17,9 @@ Fischer called 3...d6 "a high-class waiting move". It lets Black support the paw
 
 ### The numbers
 
-On Lichess White wins 52.6% of the 4 million games and Black 43.7%. Below 1800 White wins about 54.5%, but the gap closes with rating: 51.2% against 44.9% between 1800 and 2199, and from 2200 up Black is ahead, 48.1% against 47.2%. In 451 master games over the board Black won 40.8%, White 25.5%, and 33.7% were drawn.
+On Lichess White wins 52.6% of the 4 million games and Black 43.7%. Below 1800 White wins 54.5–54.8%, but the gap closes with rating: 51.2% against 44.9% between 1800 and 2199, and from 2200 up Black is ahead, 48.1% against 47.2%. In 451 master games over the board Black won 40.8%, White 25.5%, and 33.7% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Gambit, Fischer Defense](https://en.wikipedia.org/w/index.php?title=King%27s_Gambit%2C_Fischer_Defense&oldid=1377933312), version of 2 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit_Accepted_Fischer_Defense), figures collected from September to November 2026.

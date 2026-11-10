@@ -4,7 +4,7 @@ The Scandinavian Variation is 1.e4 Nc6 2.d4 d5, the line of the [Nimzowitsch Def
 
 - 3.e5 is usually met by 3...Bf5 followed by ...e6, which no longer shuts in the light-squared bishop. Black later attacks White's central pawns with ...f6 and ...c5. 3...f6 is also a decent but more complex reply.
 - 3.exd5 Qxd5 4.Nf3 aims to gain time by attacking the queen with Nc3, but Black can put pressure on White's centre with 4...Bg4 or 4...e5.
-- 3.Nc3 dxe4 4.d5 Ne5 is the sharpest line; White usually continues 5.Qd4 or 5.Bf4 Ng6 6.Bg3. Black can also answer 3.Nc3 with 3...e6, which leads to a kind of [French Defense](/openings/french-defense).
+- 3.Nc3 dxe4 4.d5 Ne5, after which White usually continues 5.Qd4 or 5.Bf4 Ng6 6.Bg3. Black can also answer 3.Nc3 with 3...e6, which leads to a kind of [French Defense](/openings/french-defense).
 
 ### The idea
 
@@ -13,3 +13,8 @@ The Nimzowitsch Defense is a hypermodern opening. Black lets White occupy the ce
 ### The numbers
 
 On Lichess White wins 48.1% of the 3.2 million games and Black 47.5%. From 2200 up the result turns slightly in Black's favour, 49.5% against 44.0%. In 1,081 master games over the board White won 38.3%, Black 28.7%, and 33.0% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Nimzowitsch Defence](https://en.wikipedia.org/w/index.php?title=Nimzowitsch_Defence&oldid=1382022497), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Nimzowitsch_Defense_Scandinavian_Variation), figures collected from September to November 2026.

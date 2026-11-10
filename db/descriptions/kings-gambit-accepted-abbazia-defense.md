@@ -18,3 +18,8 @@ Instead of 4...Nf6 Black sometimes plays 4...Qxd5, which resembles the [Scandina
 ### The numbers
 
 On Lichess Black wins 49.7% of the 944,000 games and White 45.5%. Under 1400 White is ahead, 50.4% against 46.9%, but between 1800 and 2199 Black leads 50.2% to 45.0%, and from 2200 up 47.8% to 45.2%. The 639 master games over the board split almost evenly: White won 28.2%, Black 29.1%, and 42.7% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Gambit](https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1382023287), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit_Accepted_Abbazia_Defense), figures collected from September to November 2026.

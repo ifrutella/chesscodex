@@ -31,4 +31,10 @@ The Falkbeer suits Black players who meet the King's Gambit with a direct centra
 
 ### The numbers
 
-On Lichess the results move in Black's favour as ratings rise: White leads 49.7% against 47.1% under 1400, but Black is ahead 48.7% against 48.1% at 1400–1799, 49.6% against 46.3% at 1800–2199 and 47.7% against 46.3% from 2200 up. There are fewer than a thousand master games, too few to draw firm conclusions.
+On Lichess the results move in Black's favour as ratings rise: White leads 49.7% against 47.1% under 1400, but Black is ahead 48.7% against 48.1% at 1400–1799, 49.6% against 46.3% at 1800–2199 and 47.7% against 46.3% from 2200 up. In 864 master games over the board White won 35.9%, Black 30.0%, and 34.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [King's Gambit](https://en.wikipedia.org/w/index.php?title=King%27s_Gambit&oldid=1382023287), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- The name and 3.Nc3: adapted from the Wikipedia article [Falkbeer Countergambit](https://en.wikipedia.org/w/index.php?title=Falkbeer_Countergambit&oldid=1356335879), version of 27 May 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Gambit_Declined_Falkbeer_Countergambit), figures collected from September to November 2026.

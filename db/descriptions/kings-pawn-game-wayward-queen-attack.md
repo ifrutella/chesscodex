@@ -20,3 +20,8 @@ Developing the queen this early breaks a basic opening principle and exposes her
 ### The numbers
 
 On Lichess White wins 50.4% of the 3.6 million games and Black 45.1%. The split hardly moves with rating: 50.4% against 45.3% under 1400, and 51.7% against 41.9% from 2200 up. There are too few master games over the board, 48, to say much.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Danvers Opening](https://en.wikipedia.org/w/index.php?title=Danvers_Opening&oldid=1372017778), version of 29 August 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Pawn_Game_Wayward_Queen_Attack), figures collected from September to November 2026.

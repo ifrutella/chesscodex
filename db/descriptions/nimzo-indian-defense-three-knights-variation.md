@@ -17,3 +17,8 @@ After 4...c5, 5.e3 transposes to the [Rubinstein System](/openings/nimzo-indian-
 ### The numbers
 
 On Lichess White wins 48.3% of the 2.3 million games and Black 46.5%; from 1800 up the results are nearly level. In 8,075 master games over the board 45.1% were drawn, White won 31.7% and Black 23.1%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Nimzo-Indian Defence](https://en.wikipedia.org/w/index.php?title=Nimzo-Indian_Defence&oldid=1382022682), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Nimzo-Indian_Defense_Three_Knights_Variation), figures collected from September to November 2026.

@@ -22,3 +22,8 @@ After 1.d4 Nc6 Black has to be ready for many different continuations. Since mos
 ### The numbers
 
 On Lichess White wins 49.4% of the 4.1 million games and Black 46.0%. Lower down, White does better: under 1400 White wins 53.3% against 41.9%, and between 1400 and 1799 55.0% against 41.1%. Between 1800 and 2199 Black is slightly ahead, 47.9% against 47.6%, and from 2200 up White wins 47.1% and Black 46.1%. In 1,680 master games over the board White won 43.8%, Black 26.1%, and 30.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Bogoljubov–Mikenas Defense](https://en.wikipedia.org/w/index.php?title=Bogoljubov%E2%80%93Mikenas_Defense&oldid=1382027259), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Mikenas_Defense), figures collected from September to November 2026.

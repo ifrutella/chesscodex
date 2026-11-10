@@ -15,3 +15,8 @@ White has four frequent alternatives on move two. The [King's Gambit](/openings/
 ### The numbers
 
 On Lichess White wins 50.7% of the 340 million games and Black 44.6%. The split hardly moves with rating: 51.5% against 44.4% under 1400 and 48.1% against 44.4% from 2200 up. In 289,898 master games over the board 51.5% were drawn, White won 29.0% and Black 19.5%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Open Game](https://en.wikipedia.org/w/index.php?title=Open_Game&oldid=1376195524), version of 22 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Kings_Knight_Opening), figures collected from September to November 2026.

@@ -19,3 +19,8 @@ Mikhail Botvinnik played the Sämisch five times against Mikhail Tal in the 1960
 ### The numbers
 
 On Lichess Black wins slightly more often: 48.0% against 47.1% for White in 1.1 million games. Under 1400 White is ahead, 50.1% against 46.7%. Between 1800 and 2199 Black leads, 49.0% against 46.0%, but from 2200 up White wins 50.4% against 43.8%. In 1,882 master games over the board White won 31.0%, Black 33.6%, and 35.3% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Nimzo-Indian Defence](https://en.wikipedia.org/w/index.php?title=Nimzo-Indian_Defence&oldid=1382022682), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Nimzo-Indian_Defense_Samisch_Variation), figures collected from September to November 2026.
