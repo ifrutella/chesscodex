@@ -13,3 +13,8 @@ If White wants a Ruy Lopez with d2–d3, it is objectively slightly better to ca
 ### The numbers
 
 On Lichess White wins 50.5% of the 2.1 million games and Black 44.2%. From 2200 up the gap narrows to 48.5% against 44.4%. In 6,428 master games over the board 42.5% were drawn, White won 33.3% and Black 24.3%.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Ruy Lopez](https://en.wikipedia.org/w/index.php?title=Ruy_Lopez&oldid=1382049415), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ruy_Lopez_Morphy_Defense_Anderssen_Variation), figures collected from September to November 2026.

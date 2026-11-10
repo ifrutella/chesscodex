@@ -39,3 +39,8 @@ The Morphy Defense is the standard choice for Black players who meet 1.e4 with 1
 ### The numbers
 
 On Lichess White does well at every level: 52.4% against 43.2% under 1400, 50.9% against 44.6% at 1400–1799, 49.9% against 44.6% at 1800–2199, and 48.1% against 44.0% from 2200 up. In about 115,800 master games 50.9% were drawn; White won 29.8% and Black 19.3%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Ruy Lopez](https://en.wikipedia.org/w/index.php?title=Ruy_Lopez&oldid=1382049415), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ruy_Lopez_Morphy_Defense), figures collected from September to November 2026.

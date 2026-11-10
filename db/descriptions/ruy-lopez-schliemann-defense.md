@@ -21,3 +21,8 @@ The Schliemann is considered a good practical weapon but positionally risky, esp
 ### The numbers
 
 On Lichess Black wins 50.5% of the 1.7 million games and White 44.5%. Only under 1400 is White ahead, 49.3% against 47.5%. Between 1800 and 2199 Black wins 50.9% against 44.2%, and from 2200 up 48.2% against 44.7%. Master games over the board look different: in 4,363 games White won 38.9%, Black 20.1%, and 41.0% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Ruy Lopez](https://en.wikipedia.org/w/index.php?title=Ruy_Lopez&oldid=1382049415), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Ruy_Lopez_Schliemann_Defense), figures collected from September to November 2026.
