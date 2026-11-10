@@ -11,3 +11,8 @@ Black must avoid 5...Bf5 6.Qe2, which wins a piece because of the pin on the e-f
 ### The numbers
 
 On Lichess White wins 51.6% of the 960,693 games and Black 41.4%. From 2200 up the results are closer, 47.3% against 43.5%. Masters draw most of their games: in 5,659 games over the board 61.5% were drawn, White won 27.1% and Black 11.5%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Petrov's Defence](https://en.wikipedia.org/w/index.php?title=Petrov%27s_Defence&oldid=1382022050), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Petrovs_Defense_Nimzowitsch_Attack), figures collected from September to November 2026.

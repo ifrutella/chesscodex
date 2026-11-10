@@ -1,4 +1,4 @@
-Petrov's Defense (1.e4 e5 2.Nf3 Nf6), also called the Russian Game, is a symmetrical counterattack. Instead of defending the e5-pawn, Black attacks White's e4-pawn. It is one of the most solid replies to 1.e4 and is known as a reliable drawing weapon at the top level.
+Petrov's Defense (1.e4 e5 2.Nf3 Nf6), also called the Russian Game, is a symmetrical counterattack. Instead of defending the e5-pawn, Black attacks White's e4-pawn. It has a drawish reputation, though there are attacking opportunities for both sides and a few lines are quite sharp.
 
 ### Origins
 
@@ -6,14 +6,14 @@ The opening was first popularised by the Russian player Alexander Petrov in the 
 
 ### The idea
 
-After 3.Nxe5, the key move is 3...d6!, driving the knight back before taking on e4. The natural 3...Nxe4? is a well-known trap: after 4.Qe2 the knight on e4 is pinned, and if Black continues 4...Nf6?? White plays 5.Nc6+, a discovered check that wins the queen. In the main lines the position becomes symmetrical, with open lines and few weaknesses. Black aims for easy development and a safe game, while White tries to use the small initiative of the first move.
+After 3.Nxe5, the key move is 3...d6!, driving the knight back before taking on e4. The natural 3...Nxe4? is usually regarded as an error: after 4.Qe2 the knight on e4 is attacked, and if Black continues 4...Nf6?? White plays 5.Nc6+, a discovered check that wins the queen. The main line resembles an Exchange French in which Black has the extra move ...Nf6–e4, and White tries to drive the knight from e4 with moves like c4 and Re1.
 
 ### Main lines
 
 - [Classical Attack](/openings/petrovs-defense-classical-attack) 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3: the main line.
-- [Nimzowitsch Attack](/openings/petrovs-defense-nimzowitsch-attack) 5.Nc3: White offers a queen trade or doubled pawns for quick development and long castling.
-- [Cozio Attack](/openings/petrovs-defense-cozio-attack) 5.Qe2: aiming for an early queen trade.
-- [Modern Attack](/openings/petrovs-defense-modern-attack) 3.d4 (the Steinitz Attack), opening the centre at once.
+- [Nimzowitsch Attack](/openings/petrovs-defense-nimzowitsch-attack) 5.Nc3: White accepts doubled pawns for quick development and queenside castling.
+- [Cozio Attack](/openings/petrovs-defense-cozio-attack) 5.Qe2: forcing simplification and a likely draw.
+- [Modern Attack](/openings/petrovs-defense-modern-attack) 3.d4 (the Steinitz Variation), opening the centre at once.
 - [Three Knights Game](/openings/petrovs-defense-three-knights-game) 3.Nc3, often transposing to the [Four Knights](/openings/four-knights-game).
 - The [Stafford Gambit](/openings/petrovs-defense-stafford-gambit) 3.Nxe5 Nc6 is a dubious but trappy sideline, popular online.
 
@@ -37,4 +37,9 @@ The Petrov suits solid players who want a safe answer to 1.e4, and players who n
 
 ### The numbers
 
-The Lichess numbers show a big difference between levels. Below 1400, White wins 53% and Black only 43%. From 1400 to 2200 it evens out to 49–50.5% against 45.5%. Above 2200 it is 47% against 44%. In master games over the board the Petrov is one of the most drawish openings on this site: 61% of games are drawn, White wins 27% and Black only 12%.
+The Lichess numbers show a big difference between levels. Below 1400, White wins 53% and Black only 43%. From 1400 to 2200 it evens out to 49–50.5% against 45.6%. Above 2200 it is 47% against 44%. In master games over the board 61% of games are drawn, White wins 27% and Black only 12%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Petrov's Defence](https://en.wikipedia.org/w/index.php?title=Petrov%27s_Defence&oldid=1382022050), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Petrovs_Defense), figures collected from September to November 2026.

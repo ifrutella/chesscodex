@@ -6,7 +6,7 @@ It is named after the Rev. John Owen, a 19th-century vicar and strong amateur pl
 
 ### The idea
 
-Black lets White build a big pawn centre with d4, then attacks it with the bishop on b7, ...e6 and ...c5. The price is space: White can take the centre with pawns and gain a spatial advantage, and Black must know how to hit back before that centre becomes a crushing bind.
+Black lets White build a big pawn centre with d4, then attacks it with the bishop on b7, ...e6 and ...c5. The price is space: White can take the centre with pawns and gain a spatial advantage.
 
 ### Main lines
 
@@ -16,7 +16,7 @@ After 1.e4 b6 2.d4 Bb7:
 - 3.Nc3 e6 4.Nf3 Bb4 5.Bd3 Nf6: Black pins the knight and increases the pressure on e4.
 - 3.Nf3, the [Smith Gambit](/openings/owen-defense-smith-gambit), leaving e4 to Black's bishop.
 
-Other tries include 2...Ba6, the [Guatemala Defense](/openings/owen-defense-guatemala-defense), and the sharp [Matovinsky Gambit](/openings/owen-defense-matovinsky-gambit).
+Other tries include 2...Ba6, the [Guatemala Defense](/openings/owen-defense-guatemala-defense), and the [Matovinsky Gambit](/openings/owen-defense-matovinsky-gambit) 3.Bd3 f5, which Christian Bauer calls "simply suicidal".
 
 ### Strengths and weaknesses
 
@@ -38,3 +38,8 @@ The Owen suits players who like to counterattack a pawn centre and want an offbe
 ### The numbers
 
 On Lichess White wins 49.8–51% and Black 43.5–46.5%: Black does best under 1800 (46.2–46.5%) and worst from 2200 up (43.5%). There are only about 1,900 master games, too few to draw firm conclusions.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Owen's Defence](https://en.wikipedia.org/w/index.php?title=Owen%27s_Defence&oldid=1384648868), version of 9 November 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Owen_Defense), figures collected from September to November 2026.

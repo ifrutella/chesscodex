@@ -28,3 +28,9 @@ The Three Knights Game suits White players who want to sidestep the Petrov and a
 ### The numbers
 
 On Lichess White's lead shrinks as ratings rise: 51.9% against 43.8% under 1400, 50.3% against 45.5% at 1400–1799, 48.7% against 46.0% at 1800–2199 and 46.4% against 45.2% from 2200 up. In about 4,900 master games 51.3% were drawn; White won 29.9% and Black 18.8%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Petrov's Defence](https://en.wikipedia.org/w/index.php?title=Petrov%27s_Defence&oldid=1382022050), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Three Knights Opening: adapted from the Wikipedia article [Three Knights Game](https://en.wikipedia.org/w/index.php?title=Three_Knights_Game&oldid=1381945658), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Petrovs_Defense_Three_Knights_Game), figures collected from September to November 2026.
