@@ -21,3 +21,8 @@ To survive against a well-prepared opponent Black must first get through the tra
 ### The numbers
 
 On Lichess White wins 51.3% of the 9.2 million games and Black 44.7%. From 2200 up the results are closer, 48.4% against 46.0%. Masters have done well with Black: in 1,528 games over the board Black won 36.0%, White 23.1%, and 40.9% were drawn.
+
+### Sources
+
+- Theory: adapted from the Wikipedia article [Smith–Morra Gambit](https://en.wikipedia.org/w/index.php?title=Smith%E2%80%93Morra_Gambit&oldid=1341932942), version of 6 March 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Smith-Morra_Gambit_Accepted), figures collected from September to November 2026.

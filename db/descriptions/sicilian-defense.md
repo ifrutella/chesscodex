@@ -1,4 +1,4 @@
-The Sicilian Defense (1.e4 c5) is Black's most popular and most ambitious answer to 1.e4. Instead of copying White with 1...e5, Black fights for the d4-square from the side, which leads to unbalanced positions where both players can play for a win.
+The Sicilian Defense (1.e4 c5) is one of the most popular answers to 1.e4. Instead of copying White with 1...e5, Black fights for the d4-square from the side, which breaks the symmetry and often leads to dynamic, sharp positions.
 
 ### Origins
 
@@ -6,13 +6,13 @@ The move 1...c5 was analysed by the Italian Giulio Polerio in his 1594 manuscrip
 
 ### The idea
 
-After 2.Nf3 and 3.d4 cxd4 4.Nxd4 (the Open Sicilian), Black has traded a wing pawn for White's centre pawn. That gives Black an extra central pawn, the half-open c-file and long-term endgame chances. White gets a lead in development and more space, and often castles queenside to attack. The result is a race: White attacks the king, while Black counterattacks on the queenside and down the c-file.
+After 2.Nf3 and 3.d4 cxd4 4.Nxd4 (the Open Sicilian), Black has traded a wing pawn for White's centre pawn. That gives Black an extra central pawn and the half-open c-file. White gets a lead in development and more space, and often castles queenside to attack. The result is a race: White attacks the king, while Black counterattacks on the queenside and down the c-file.
 
 ### Main lines
 
 The Open Sicilian branches according to Black's second move:
 
-- **2...d6**: the [Najdorf](/openings/sicilian-defense-najdorf-variation) (5...a6), the sharpest and most respected line; the [Dragon](/openings/sicilian-defense-dragon-variation) (5...g6); the [Scheveningen](/openings/sicilian-defense-scheveningen-variation) (…e6 and …d6).
+- **2...d6**: the [Najdorf](/openings/sicilian-defense-najdorf-variation) (5...a6), Black's most popular system; the [Dragon](/openings/sicilian-defense-dragon-variation) (5...g6); the [Scheveningen](/openings/sicilian-defense-scheveningen-variation) (…e6 and …d6).
 - **2...Nc6**: the [Sveshnikov](/openings/sicilian-defense-lasker-pelikan-variation-sveshnikov-variation), where Black accepts a hole on d5 in return for activity, and the [Accelerated Dragon](/openings/sicilian-defense-accelerated-dragon).
 - **2...e6**: the flexible [Taimanov](/openings/sicilian-defense-taimanov-variation) and [Kan](/openings/sicilian-defense-kan-variation).
 
@@ -23,7 +23,7 @@ White can also avoid the main theory with an "Anti-Sicilian": the [Alapin](/open
 **Strengths**
 
 - Black plays for a win from the first move, and the positions are rarely symmetrical or dry.
-- It is objectively sound at every level, and it has been tested in world championship matches for decades.
+- It is objectively sound at every level, and world champions Bobby Fischer and Garry Kasparov played it almost exclusively throughout their careers.
 - There are several families of lines to choose from, from sharp (Dragon, Najdorf) to positional (Taimanov, Kan).
 
 **Weaknesses**
@@ -40,4 +40,9 @@ It is especially effective against 1.e4 players who want a standard open game, b
 
 ### The numbers
 
-On Lichess the Sicilian is almost exactly even at every rating level: White wins about 47–48% and Black 45–49%. Among masters playing over the board, draws rise to about 43%. White wins 31% and Black 26%.
+On Lichess the results are close at every rating level: White wins about 47–48% and Black 45–49%. Among masters playing over the board, draws rise to about 43%. White wins 31% and Black 26%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense), figures collected from September to November 2026.

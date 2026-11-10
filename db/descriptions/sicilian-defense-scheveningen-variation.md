@@ -39,3 +39,8 @@ The Scheveningen suits Black players who want a flexible Sicilian with a solid c
 ### The numbers
 
 In 1,737,051 rated Lichess games between players rated 1600 and 2500, White won 47.4%, Black 47.7%, and 4.8% were drawn. Below 1800 Black wins more often: 49.6% against 46.7% for White under 1400, and 49.6% against 46.3% at 1400–1799. At 1800–2199 the figures are 47.5% for White and 47.8% for Black, and from 2200 up White leads, 49.0% against 44.7%. In about 15,000 master games White won 37.2%, Black 27.6%, and 35.2% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence, Scheveningen Variation](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence%2C_Scheveningen_Variation&oldid=1381946776), version of 25 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Scheveningen_Variation), figures collected from September to November 2026.

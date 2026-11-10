@@ -1,4 +1,4 @@
-The Smith-Morra Gambit (1.e4 c5 2.d4 cxd4 3.c3) is White's most popular gambit against the [Sicilian Defense](/openings/sicilian-defense). White gives up a pawn to get fast development, open lines and pressure against f7, while avoiding the huge theory of the Open Sicilian.
+The Smith-Morra Gambit (1.e4 c5 2.d4 cxd4 3.c3) is a gambit against the [Sicilian Defense](/openings/sicilian-defense). White gives up a pawn to get fast development, open lines and pressure against f7.
 
 ### Origins
 
@@ -6,12 +6,12 @@ The gambit is named after the Frenchman Pierre Morra (1900–1969), who publishe
 
 ### The idea
 
-After 3...dxc3 4.Nxc3, White has two extra developed pieces and open c- and d-files. The plan is simple: put the bishop on c4 aiming at f7, the knight on f3, castle, and bring the rooks to c1 and d1. Black has an extra pawn and a central pawn majority, but must get through a minefield of traps before completing development.
+After 3...dxc3 4.Nxc3, White has a piece developed and a pawn in the centre. The plan is simple: put the bishop on c4 aiming at f7, the knight on f3, castle, and bring the rooks to c1 and d1. Black has an extra pawn and a central pawn majority, but must first get through a minefield of traps in the opening.
 
 ### Main lines
 
 - [Accepted](/openings/sicilian-defense-smith-morra-gambit-accepted) 3...dxc3 4.Nxc3, where Black chooses a setup: ...Nc6 with ...d6 and ...e6 (the [Scheveningen formation](/openings/sicilian-defense-smith-morra-gambit-accepted-scheveningen-formation)), ...e6 and ...a6 (the [Paulsen formation](/openings/sicilian-defense-smith-morra-gambit-accepted-paulsen-formation)), and others.
-- Declining: [3...Nf6](/openings/sicilian-defense-smith-morra-gambit-declined-alapin-formation), which transposes to an Alapin Sicilian after 4.e5 Nd5; [3...d3](/openings/sicilian-defense-smith-morra-gambit-declined-push-variation), returning the pawn to block White's development; and [3...d5](/openings/sicilian-defense-smith-morra-gambit-declined-scandinavian-formation).
+- Declining: [3...Nf6](/openings/sicilian-defense-smith-morra-gambit-declined-alapin-formation), which transposes to an Alapin Sicilian after 4.e5 Nd5; [3...d3](/openings/sicilian-defense-smith-morra-gambit-declined-push-variation), the Push Variation, giving the pawn back; and [3...d5](/openings/sicilian-defense-smith-morra-gambit-declined-scandinavian-formation).
 
 ### Strengths and weaknesses
 
@@ -34,3 +34,8 @@ The Smith-Morra suits attacking 1.e4 players who want active piece play against 
 ### The numbers
 
 On Lichess the Smith-Morra is balanced: below 1800 Black wins slightly more often (49% against 47–48%). From 1800 up White edges ahead, 48–49% against 46%. There are few master games (about 3,600), and in them White wins 26%, Black 34% and 39% are drawn. The gambit is popular at club level and played only occasionally by masters.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Smith–Morra Gambit](https://en.wikipedia.org/w/index.php?title=Smith%E2%80%93Morra_Gambit&oldid=1341932942), version of 6 March 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Smith-Morra_Gambit), figures collected from September to November 2026.

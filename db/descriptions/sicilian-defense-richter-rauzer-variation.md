@@ -37,3 +37,8 @@ The Richter-Rauzer suits White players who want to meet the Classical Sicilian w
 ### The numbers
 
 In 935,582 rated Lichess games between players rated 1600 and 2500, White won 49.1%, Black 45.4%, and 5.5% were drawn. White is ahead in every rating band: 51.4% against 45.1% under 1400, 50.0% against 46.0% at 1400–1799, 50.0% against 45.1% at 1800–2199 and 47.6% against 45.4% from 2200 up. In about 25,000 master games White won 36.2%, Black 26.1%, and 37.7% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Richter-Rauzer_Variation), figures collected from September to November 2026.

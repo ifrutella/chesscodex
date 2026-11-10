@@ -32,3 +32,8 @@ The Taimanov suits Black players who want a flexible, positionally rich Sicilian
 ### The numbers
 
 On Lichess the results are close: Black leads 49.2% against 47.3% under 1400 and 48.4% against 47.6% at 1400–1799, while at 1800–2199 it is 47.7% for White against 47.3%, and from 2200 up 47.3% against 45.5%. In about 35,000 master games White won 32.8%, Black 27.2%, and 40.0% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Sicilian Defence](https://en.wikipedia.org/w/index.php?title=Sicilian_Defence&oldid=1382180783), version of 27 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Sicilian_Defense_Taimanov_Variation), figures collected from September to November 2026.
