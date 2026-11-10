@@ -35,3 +35,8 @@ The Meran suits players with either colour who enjoy sharp, theoretical middlega
 ### The numbers
 
 In 324,163 rated Lichess games between players rated 1600 and 2500, Black won 47.9%, White 45.6%, and 6.4% were drawn. Black leads below 2200: 53.9% against 42.8% under 1400 (from only 3,180 games), 51.2% against 44.4% at 1400–1799 and 48.9% against 45.1% at 1800–2199. From 2200 up White is slightly ahead, 46.9% against 45.2%. In about 9,700 master games 51.5% were drawn, White won 26.8% and Black 21.6%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Semi-Slav Defense](https://en.wikipedia.org/w/index.php?title=Semi-Slav_Defense&oldid=1382050321), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Semi-Slav_Defense_Meran_Variation), figures collected from September to November 2026.

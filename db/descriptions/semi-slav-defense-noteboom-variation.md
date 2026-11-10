@@ -11,3 +11,8 @@ White can only sidestep the Noteboom on move 4. The [Marshall Gambit](/openings/
 ### The numbers
 
 On Lichess White wins 48.0% of the 935,736 games and Black 47.4%. The result turns with rating: White wins 55.1% under 1400, while from 2200 up Black is ahead, 48.6% against 45.6%. In 2,682 master games over the board 38.3% were drawn, Black won 31.5% and White 30.2%.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Semi-Slav Defense](https://en.wikipedia.org/w/index.php?title=Semi-Slav_Defense&oldid=1382050321), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Semi-Slav_Defense_Noteboom_Variation), figures collected from September to November 2026.
