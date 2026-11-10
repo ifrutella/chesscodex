@@ -32,3 +32,8 @@ The Exchange Variation suits White players who want to take on the Grünfeld dir
 ### The numbers
 
 On Lichess Black is ahead up to 2200: 49.3% against 46.9% for White under 1400, 50.3% against 44.5% at 1400–1799 and 47.3% against 45.5% at 1800–2199. From 2200 up White leads, 47.1% against 43.4%. In about 22,700 master games White won 28.6%, Black 18.4%, and 53.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Grünfeld Defence](https://en.wikipedia.org/w/index.php?title=Gr%C3%BCnfeld_Defence&oldid=1376212952), version of 22 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Grunfeld_Defense_Exchange_Variation), figures collected from September to November 2026.

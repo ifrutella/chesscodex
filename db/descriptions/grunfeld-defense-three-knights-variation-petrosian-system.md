@@ -16,3 +16,8 @@ The more usual 8.Nf3 exd5 leads to play like the [Exchange Variation](/openings/
 ### The numbers
 
 On Lichess White wins 48.1% of the 750,786 games and Black 45.9%. From 2200 up White's lead grows to 48.7% against 42.3%. Among masters the results are nearly even: in 3,881 games over the board White won 28.5%, Black 27.4%, and 44.1% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Grünfeld Defence](https://en.wikipedia.org/w/index.php?title=Gr%C3%BCnfeld_Defence&oldid=1376212952), version of 22 September 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Grunfeld_Defense_Three_Knights_Variation_Petrosian_System), figures collected from September to November 2026.

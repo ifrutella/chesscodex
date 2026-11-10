@@ -13,3 +13,8 @@ An important decision for White is whether to play a2–a3, which prepares b2–
 ### The numbers
 
 On Lichess the results are level: White wins 47.4% of the 2.1 million games and Black 47.3%. Black is ahead below 1800, White from 2200 up (48.8% against 43.9%). In 942 master games over the board White won 40.6%, Black 24.4%, and 35.0% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Budapest Gambit](https://en.wikipedia.org/w/index.php?title=Budapest_Gambit&oldid=1382027140), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Indian_Defense_Budapest_Defense_Adler_Variation), figures collected from September to November 2026.

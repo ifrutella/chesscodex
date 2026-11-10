@@ -15,3 +15,8 @@ The variation is said to have come from the chess circles of Leipzig. The first 
 ### The numbers
 
 On Lichess the results are almost level: White wins 47.2% of the 590,575 games and Black 47.0%. Masters have done much better with White: in 430 games over the board White won 52.3%, Black 15.8%, and 31.9% were drawn.
+
+### Sources
+
+- History and theory: adapted from the Wikipedia article [Budapest Gambit](https://en.wikipedia.org/w/index.php?title=Budapest_Gambit&oldid=1382027140), version of 26 October 2026, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- Results: [Lichess opening explorer](https://lichess.org/opening/Indian_Defense_Budapest_Defense_Fajarowicz_Variation), figures collected from September to November 2026.
