@@ -158,6 +158,8 @@ final class OpeningHelpersTest extends TestCase
         $this->assertSame('No full stop here', Opening::leadSentence('No full stop here'));
         $this->assertSame('It starts 1.e4 c5 and goes on.', Opening::leadSentence('It starts 1.e4 c5 and goes on. Then more.'));
         $this->assertSame('Is it good?', Opening::leadSentence('Is it good? Yes.'), 'question mark before a capital ends the sentence');
+        $this->assertSame('The St. George Defense is 1.e4 a6.', Opening::leadSentence('The St. George Defense is 1.e4 a6. More.'), '"St." does not end the sentence');
+        $this->assertSame('It is 3...Bc5. 4.c3 prepares d4.', Opening::leadSentence("It is 3...Bc5. 4.c3 prepares d4.\r\n\r\n### Origins\r\n\r\nGreco."), 'CRLF paragraphs split like LF ones');
     }
 
     #[TestDox('splitSources: the closing "### Sources" list leaves the text; none, CRLF, "Sources" inside a heading')]

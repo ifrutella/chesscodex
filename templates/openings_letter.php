@@ -15,7 +15,7 @@ ob_start();
     <header class="openings-index-header">
         <h1>Chess openings starting with <?= $esc($letter) ?></h1>
         <p class="lede">
-            <?= number_format($n) ?> named lines<?= $firstName !== $lastName ? ', from ' . $esc($firstName) . ' to ' . $esc($lastName) : '' ?>.
+            <?= number_format($n) ?> named line<?= $n === 1 ? '' : 's' ?><?= $firstName !== $lastName ? ', from ' . $esc($firstName) . ' to ' . $esc($lastName) : '' ?>.
             Back to the <a href="<?= $baseEsc . $esc('/openings') ?>">list of chess openings A–Z</a>.
         </p>
         <nav class="openings-jump" aria-label="Other letters">
@@ -70,10 +70,12 @@ ob_start();
 </article>
 <?php
 $body = ob_get_clean();
-$title = 'Chess Openings Starting with ' . $letter . ': ' . number_format($n) . ' Named Lines | Caissa Codex';
-$description = 'All ' . number_format($n) . ' named chess openings and variations starting with ' . $letter
-             . ($firstName !== $lastName ? ', from ' . $firstName . ' to ' . $lastName : '')
-             . ' — moves, ECO codes and Lichess win rates.';
+$title = 'Chess Openings Starting with ' . $letter . ': ' . number_format($n) . ' Named Line' . ($n === 1 ? '' : 's') . ' | Caissa Codex';
+$description = $n === 1
+    ? $firstName . ' is the only named chess opening starting with ' . $letter . ': moves, ECO code and Lichess win rates.'
+    : 'All ' . number_format($n) . ' named chess openings and variations starting with ' . $letter
+      . ($firstName !== $lastName ? ', from ' . $firstName . ' to ' . $lastName : '')
+      . ' — moves, ECO codes and Lichess win rates.';
 $canonical = $siteUrl . $baseUrl . '/openings/letter/' . strtolower($letter);
 $jsonLd = [
     '@context' => 'https://schema.org',

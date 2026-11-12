@@ -243,14 +243,14 @@ class OpeningNames
      */
     public static function leadSentence(string $markdown): ?string
     {
-        $para = trim(explode("\n\n", trim($markdown), 2)[0]);
+        $para = trim(explode("\n\n", str_replace("\r\n", "\n", trim($markdown)), 2)[0]);
         if ($para === '' || str_starts_with($para, '#')) return null;
         $para = (string) preg_replace('/\[([^\]]+)\]\([^)]*\)/', '$1', $para);
         $para = (string) preg_replace('/\*{1,2}([^*]+)\*{1,2}/', '$1', $para);
         $para = trim((string) preg_replace('/\s+/', ' ', $para));
         // A sentence ends at ". " before a capital, a quote or a bracket;
-        // "1.e4" and "5...a6" have no space after the dot.
-        return preg_match('/^(.+?[.!?])(?=\s+["“(A-Z]|$)/u', $para, $m) ? $m[1] : $para;
+        // "1.e4" and "5...a6" have no space after the dot; "St. George" goes on.
+        return preg_match('/^(.+?(?<!\bSt)[.!?])(?=\s+["“(A-Z]|$)/u', $para, $m) ? $m[1] : $para;
     }
 
     /**
