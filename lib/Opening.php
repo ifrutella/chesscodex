@@ -4,8 +4,8 @@ declare(strict_types=1);
 /**
  * Everything about the opening lines, under the names the pages, tools and
  * tests have always used. The code lives by concern in OpeningRows,
- * OpeningTree, OpeningNames, OpeningSearch, OpeningLists, CuratedLists and
- * Indexing; the methods here pass straight through to them.
+ * OpeningTree, OpeningNames, OpeningSearch, OpeningLists and CuratedLists;
+ * the methods here pass straight through to them.
  */
 class Opening
 {
@@ -26,20 +26,6 @@ class Opening
     public static function diagramPath(string $slug, bool $webp = false): string
     {
         return '/og.php?slug=' . urlencode($slug) . '&kind=diagram' . ($webp ? '&format=webp' : '') . '&v=' . self::OG_VERSION;
-    }
-
-    /** See Indexing::INDEXED_LINES. */
-    public const INDEXED_LINES = Indexing::INDEXED_LINES;
-
-    public static function indexedLine(bool $described, int $rank, string $slug): bool
-    {
-        return Indexing::indexedLine($described, $rank, $slug);
-    }
-
-    /** @param array<string, mixed> $o */
-    public static function lineRank(array $o): int
-    {
-        return Indexing::lineRank($o);
     }
 
     /** @return array<string, mixed>|null */

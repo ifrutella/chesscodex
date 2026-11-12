@@ -49,8 +49,8 @@ The opening data is split by concern: `OpeningRows` (rows by slug, id and ECO
 code), `OpeningTree` (parent chain, children, sister lines, continuations,
 transpositions), `OpeningNames` (what to call a line: same-name tails, family,
 aliases, moves numbered), `OpeningSearch` (by moves, position and name),
-`OpeningLists` (the browse indexes), `CuratedLists` (the homepage's picks) and
-`Indexing` (which pages are indexed). `Opening` keeps every old method name as
+`OpeningLists` (the browse indexes) and `CuratedLists` (the homepage's
+picks). `Opening` keeps every old method name as
 a pass-through to them, so pages, tools and tests call `Opening::…` as before.
 
 ## Data flow for /openings/<slug>

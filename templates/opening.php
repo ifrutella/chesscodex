@@ -52,7 +52,6 @@ ob_start();
     'opening_crumb'      => $opening_crumb,
     'island'             => $island,
     'canonical'          => $canonical,
-    'noindex'            => $noindex,
     'description'        => $description,
     'jsonLd'             => $jsonLd,
 ] = $page;

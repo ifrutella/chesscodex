@@ -199,7 +199,6 @@ class OpeningPage
             'opening_crumb'      => self::crumb(...),
             'island'             => $island,
             'canonical'          => $canonical,
-            'noindex'            => !Opening::indexedLine(!empty($o['description']), Opening::lineRank($o), (string) $o['slug']),
             'description'        => $description,
             'jsonLd'             => self::jsonLd($o, $parent, $title, $aliases, $description, $canonical, $siteUrl . $diagramUrl, $ecoGroupLabel, $baseUrl, $siteUrl, $cachedAt),
         ];

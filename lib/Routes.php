@@ -159,8 +159,8 @@ final class Routes
         }
 
         // Opening pages also change when their Lichess numbers are refreshed,
-        // or their numbers by year (the chart). Only the indexed lines (see
-        // Opening::INDEXED_LINES).
+        // or their numbers by year (the chart). The lines without a description
+        // go into three parts by how much they are played.
         $updated = array_column(Rankings::all(), 'updated', 'slug');
         $byYear  = YearStats::fetchedDates();
         $stmt = chess_codex_db()->query(
@@ -173,8 +173,7 @@ final class Routes
                 $part = 'openings-described';
             } else {
                 $rank++;
-                $part = $rank <= 500 ? 'openings-top' : ($rank <= Opening::INDEXED_LINES ? 'openings-mid' : 'openings-rest');
-                if (!Opening::indexedLine(false, $rank, (string) $r['slug'])) continue;
+                $part = $rank <= 500 ? 'openings-top' : ($rank <= 1500 ? 'openings-mid' : 'openings-rest');
             }
             $date = max(self::TEMPLATE_CHANGED['openings'], (string) ($updated[$r['slug']] ?? ''),
                 $byYear[(int) $r['id']] ?? '', $r['described'] ? $described((string) $r['slug']) : '');
