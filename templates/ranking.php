@@ -86,6 +86,11 @@ $trendCell   = static function (int $id) use ($trendShares, $trendFrom, $trendTo
     if (($y[$trendFrom] ?? 0) <= 0 || ($y[$trendTo] ?? 0) <= 0) return '—';
     return TrendChart::sparkline($y) . ' <span class="ranking-trend-change">' . $esc(YearStats::change($y[$trendTo] / $y[$trendFrom])) . '</span>';
 };
+// What the trend column sorts by: the share now over the share then, '' without both.
+$trendRatio  = static function (int $id) use ($trendShares, $trendFrom, $trendTo): string {
+    $y = $trendShares[$id] ?? [];
+    return ($y[$trendFrom] ?? 0) <= 0 || ($y[$trendTo] ?? 0) <= 0 ? '' : (string) round($y[$trendTo] / $y[$trendFrom], 4);
+};
 // First moves only: "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4…".
 $moves = static function (string $pgn): string {
     if (mb_strlen($pgn) <= 40) return $pgn;
@@ -161,12 +166,12 @@ ob_start();
         <h2 class="ranking-heading" id="top-gambits">The 100 most-played gambits</h2>
     <?php endif; ?>
     <div class="ranking-table-wrap"<?= $rows ? '' : ' hidden' ?>>
-        <table class="ranking-table">
+        <table class="ranking-table ranking-stack sortable n-last">
             <thead>
                 <tr>
                     <th class="ranking-num">#</th>
                     <th>Opening</th>
-                    <th class="ranking-moves">Moves</th>
+                    <th class="ranking-moves no-sort">Moves</th>
                     <th class="ranking-num">Games</th>
                     <th><span class="th-long">White / Draw / Black</span><span class="th-short">W / D / B</span></th>
                     <?php if ($side): ?><th class="ranking-num"><?= $side === 'white' ? 'White' : 'Black' ?> score</th><?php endif; ?>
@@ -181,25 +186,25 @@ ob_start();
             ?>
                 <tr>
                     <td class="ranking-num"><?= $i + 1 ?></td>
-                    <td class="ranking-name">
+                    <td class="ranking-name" data-sort="<?= $esc($r['name']) ?>">
                         <a href="<?= $baseEsc . $esc('/openings/' . $r['slug']) ?>">
                             <span class="eco-tag"><?= $esc($r['eco']) ?></span>
                             <span><?= $esc($r['name']) ?></span>
                         </a>
                     </td>
                     <td class="ranking-moves"><code><?= $esc($moves($r['pgn_moves'])) ?></code></td>
-                    <td class="ranking-num"><?= $esc(Rankings::compact($r['games'])) ?></td>
-                    <td>
+                    <td class="ranking-num" data-unit="games" data-sort="<?= (int) $r['games'] ?>"><?= $esc(Rankings::compact($r['games'])) ?></td>
+                    <td data-sort="<?= round($w, 2) ?>">
                         <span class="ranking-result">
                             <span class="stats-bar inline" role="img" aria-label="<?= $esc($label) ?>"><span class="stats-bar-w" style="width:<?= round($w, 1) ?>%"></span><span class="stats-bar-d" style="width:<?= round($d, 1) ?>%"></span><span class="stats-bar-b" style="width:<?= round($b, 1) ?>%"></span></span>
                             <span class="ranking-pcts"><?= round($w) ?> / <?= round($d) ?> / <?= round($b) ?></span>
                         </span>
                     </td>
-                    <?php if ($side): ?><td class="ranking-num"><?= number_format($r['score'] * 100, 1) ?>%</td><?php endif; ?>
+                    <?php if ($side): ?><td class="ranking-num" data-label="Score" data-sort="<?= round($r['score'] * 100, 3) ?>"><?= number_format($r['score'] * 100, 1) ?>%</td><?php endif; ?>
                     <?php if ($evals): $e = $evals[(int) $r['id']] ?? null; ?>
-                        <td class="ranking-num"<?= $e ? ' title="' . $esc(EngineEval::verdict($e)) . '"' : '' ?>><?= $e ? $esc(EngineEval::scoreText($e)) : '—' ?></td>
+                        <td class="ranking-num" data-label="Stockfish" data-sort="<?= $e === null ? '' : ($e['mate'] !== null ? ($e['mate'] > 0 ? 100000 - $e['mate'] : -100000 - $e['mate']) : (int) $e['cp']) ?>"<?= $e ? ' title="' . $esc(EngineEval::verdict($e)) . '"' : '' ?>><?= $e ? $esc(EngineEval::scoreText($e)) : '—' ?></td>
                     <?php endif; ?>
-                    <?php if ($trendShares): ?><td class="ranking-trend"><?= $trendCell((int) $r['id']) ?></td><?php endif; ?>
+                    <?php if ($trendShares): ?><td class="ranking-trend" data-label="<?= $trendFrom ?>–<?= $trendTo ?>" data-sort="<?= $trendRatio((int) $r['id']) ?>"><?= $trendCell((int) $r['id']) ?></td><?php endif; ?>
                 </tr>
             <?php endforeach; ?>
             </tbody>
@@ -336,9 +341,10 @@ ob_start();
             <?php endforeach; ?>
         </nav>
         <?php foreach ($byFamily as $family => $lines): ?>
-        <section class="openings-letter openings-family" id="<?= $esc($familyId($family)) ?>">
-            <h3><?= $esc($family) ?> <span class="openings-letter-count"><?= count($lines) === 1 ? '1 line' : count($lines) . ' lines' ?></span>
-                <a class="gambits-up" href="#gambits-contents">↑ Contents</a></h3>
+        <?php /* Open in the markup; public/gambits.js folds the groups on a phone. */ ?>
+        <details class="openings-letter openings-family" id="<?= $esc($familyId($family)) ?>" open>
+            <summary><h3><?= $esc($family) ?> <span class="openings-letter-count"><?= count($lines) === 1 ? '1 line' : count($lines) . ' lines' ?></span>
+                <a class="gambits-up" href="#gambits-contents">↑ Contents</a></h3></summary>
             <ul class="openings-letter-list">
                 <?php foreach ($lines as $g):
                     $name  = (string) $g['name'];
@@ -354,11 +360,12 @@ ob_start();
                     </li>
                 <?php endforeach; ?>
             </ul>
-        </section>
+        </details>
         <?php endforeach; ?>
     </section>
     <script type="module" src="<?= $baseEsc ?>/public/gambits.min.js?v=<?= @filemtime(__DIR__ . '/../public/gambits.min.js') ?: 1 ?>"></script>
     <?php endif; ?>
+    <script type="module" src="<?= $baseEsc ?>/public/ranking.min.js?v=<?= @filemtime(__DIR__ . '/../public/ranking.min.js') ?: 1 ?>"></script>
 </article>
 <?php
 $body        = ob_get_clean();

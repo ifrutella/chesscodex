@@ -80,4 +80,16 @@ final class SearchTest extends TestCase
     {
         $this->assertSame([], self::names('zzzz qqqq'));
     }
+
+    #[TestDox('name search with no limit returns every name that matches, each once')]
+    public function testNameSearchWithNoLimitReturnsEveryMatch(): void
+    {
+        // /search?q= lists them all; the suggestion list takes the first ten.
+        $rows = array_map(static fn (int $i): array => Opening::indexRow([
+            'id' => $i + 1, 'eco' => 'B20', 'name' => 'Sicilian Defense: Line ' . intdiv($i, 2), 'slug' => 's' . $i,
+            'depth' => 1, 'move_count' => 4, 'popularity' => 500 - $i,
+        ]), range(0, 119));
+        $this->assertCount(60, Opening::rankByName($rows, 'sicilian', PHP_INT_MAX));
+        $this->assertCount(10, Opening::rankByName($rows, 'sicilian', 10));
+    }
 }

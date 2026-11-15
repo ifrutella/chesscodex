@@ -96,7 +96,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 /* Smooth scrolling for in-page anchors; off with reduced motion. */
-html { scroll-behavior: smooth; }
+/* Small print stays at 12px or more, however the sizes nest. */
+small { font-size: max(0.75rem, 0.85em); }
+/* Anchored targets stop below the sticky header (about 80px tall on a phone). */
+html { scroll-behavior: smooth; scroll-padding-top: 6rem; }
 /* Set the initial background on <html> from the theme attribute the inline
    script in <head> sets; otherwise slow networks flash white before the dark
    styles load. */

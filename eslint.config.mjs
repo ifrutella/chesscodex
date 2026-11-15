@@ -2,7 +2,7 @@ import js from '@eslint/js';
 import globals from 'globals';
 
 // Modules are the entry points bundled by tools/build.mjs; the rest are classic scripts.
-const modules = ['app', 'play', 'search', 'train', 'repertoire', 'opening', 'gambits', 'site', 'charts', 'admin'].map((n) => `public/${n}.js`).concat('public/lib/*.js');
+const modules = ['app', 'play', 'search', 'train', 'repertoire', 'opening', 'gambits', 'ranking', 'site', 'charts', 'admin'].map((n) => `public/${n}.js`).concat('public/lib/*.js');
 
 export default [
   { ignores: ['**/*.min.js', 'vendor/**', '_composer_vendor/**', 'node_modules/**', '.dev/**', '.claude/**', 'docs/**', 'backups/**', 'tools/**'] },

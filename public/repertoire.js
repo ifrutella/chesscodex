@@ -9,6 +9,28 @@ if (root) {
     const read = () => { try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch { return {}; } };
     const write = (rep) => { try { localStorage.setItem(KEY, JSON.stringify(rep)); } catch { /* private mode */ } };
 
+    // After a removal: one line under that list naming the line, with a
+    // button that puts it back where it was.
+    const undo = document.createElement('p');
+    undo.className = 'repertoire-undo';
+    undo.setAttribute('role', 'status');
+    function offerUndo(list, side, line, index) {
+        const back = document.createElement('button');
+        back.type = 'button';
+        back.className = 'repertoire-remove';
+        back.textContent = 'Undo';
+        back.addEventListener('click', () => {
+            const now = read();
+            now[side] = now[side] || [];
+            now[side].splice(index, 0, line);
+            write(now);
+            undo.remove();
+            render();
+        });
+        undo.replaceChildren(`Removed ${line.name}. `, back);
+        list.after(undo);
+    }
+
     function render() {
         const rep = read();
         root.querySelectorAll('.repertoire-side').forEach((section) => {
@@ -34,9 +56,11 @@ if (root) {
                 remove.setAttribute('aria-label', `Remove ${l.name}`);
                 remove.addEventListener('click', () => {
                     const now = read();
+                    const index = (now[side] || []).findIndex((x) => x.slug === l.slug);
                     now[side] = (now[side] || []).filter((x) => x.slug !== l.slug);
                     write(now);
                     render();
+                    offerUndo(list, side, l, Math.max(0, index));
                 });
                 li.append(a, remove);
                 list.append(li);

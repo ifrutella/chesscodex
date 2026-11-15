@@ -119,9 +119,14 @@ const Toast = (function () {
     const btn = document.getElementById('back-to-top');
     if (!btn) return;
     const SHOW_AFTER_PX = 600;
+    // On a phone the button sits on the ends of the lines: there it shows
+    // on the way up only, when going back is what the reader wants.
+    const narrow = window.matchMedia('(max-width: 720px)');
+    let lastY = window.scrollY;
     function onScroll() {
-        if (window.scrollY > SHOW_AFTER_PX) btn.hidden = false;
-        else btn.hidden = true;
+        const y = window.scrollY;
+        btn.hidden = y <= SHOW_AFTER_PX || (narrow.matches && y > lastY);
+        lastY = y;
     }
     // passive listener — we don't preventDefault, so let the browser optimise.
     window.addEventListener('scroll', onScroll, { passive: true });
@@ -312,9 +317,11 @@ async function copyToClipboard(text) {
                 syncKind();
                 status.textContent = wasReport ? 'Thanks! Your report will be read.' : 'Thanks! Your suggestion will be reviewed.';
                 status.dataset.state = 'ok';
-                // Collapse the form so the page doesn't look "open" forever.
+                // Collapse the form so the page doesn't look "open" forever;
+                // the thanks goes into a toast, since the status line folds away with it.
                 const details = form.closest('details');
                 if (details) details.open = false;
+                Toast.show(status.textContent);
             } else {
                 status.textContent = (data && data.error) || 'Something went wrong.';
                 status.dataset.state = 'error';

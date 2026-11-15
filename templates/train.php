@@ -39,6 +39,7 @@ ob_start();
     <div class="play-grid">
         <div class="play-board-wrap">
             <div id="train-board" class="opening-board"></div>
+            <p class="train-status" id="train-status" aria-live="polite">Loading…</p>
             <div class="board-controls">
                 <button id="train-restart" type="button">Restart</button>
                 <button id="train-hint" type="button">Show move</button>
@@ -52,7 +53,6 @@ ob_start();
                 <h2>Line</h2>
                 <p><a id="train-line" href="#"></a></p>
                 <p class="train-progress" id="train-progress"></p>
-                <p class="train-status" id="train-status" aria-live="polite">Loading…</p>
                 <?php if (count($lines) > 1): ?>
                     <label class="train-scope">
                         <input type="checkbox" id="train-all">

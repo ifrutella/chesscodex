@@ -31,4 +31,5 @@ $nsValue       = (string) ($nameSearchValue ?? '');
         </svg>
     </div>
     <ul class="search-by-name-results" id="<?= $nsId ?>-results" hidden role="listbox"></ul>
+    <p class="search-by-name-empty" role="status" hidden></p>
 </div>

@@ -25,11 +25,16 @@ import { looksLikeMoves, movesLabel } from './lib/helpers.js';
         let cursor = -1;
         let lastQuery = '';
 
+        // "Nothing matches" is a status line after the list: a listbox may
+        // hold options only.
+        const emptyEl = list.nextElementSibling;
+
         function close() {
             list.hidden = true;
             input.setAttribute('aria-expanded', 'false');
         }
         function clear() {
+            emptyEl.hidden = true;
             list.innerHTML = '';
             cursor = -1;
             input.removeAttribute('aria-activedescendant');
@@ -55,7 +60,7 @@ import { looksLikeMoves, movesLabel } from './lib/helpers.js';
             list.appendChild(li);
         }
 
-        function render(matches, q) {
+        function render(matches, q, total) {
             list.innerHTML = '';
             cursor = -1;
             input.removeAttribute('aria-activedescendant');
@@ -83,13 +88,16 @@ import { looksLikeMoves, movesLabel } from './lib/helpers.js';
                 a.appendChild(plies);
                 addOption(a);
             });
-            if (!list.children.length) {
-                const empty = document.createElement('li');
-                empty.className = 'search-by-name-empty';
-                empty.textContent = 'No openings match that name. Try fewer words, or paste the moves.';
-                list.appendChild(empty);
+            if (total > matches.length) {
+                const a = document.createElement('a');
+                a.href = searchPath + '?q=' + encodeURIComponent(q);
+                a.className = 'search-by-name-all';
+                a.textContent = 'See all ' + total + ' matches';
+                addOption(a);
             }
-            open();
+            emptyEl.hidden = list.children.length > 0;
+            emptyEl.textContent = emptyEl.hidden ? '' : 'No openings match that name. Try fewer words, or paste the moves.';
+            if (emptyEl.hidden) open(); else close();
         }
 
         function lookup(q) {
@@ -102,7 +110,7 @@ import { looksLikeMoves, movesLabel } from './lib/helpers.js';
             }).then(function (res) {
                 return res.ok ? res.json() : { matches: [] };
             }).then(function (data) {
-                if (q === lastQuery) render(data.matches || [], q);
+                if (q === lastQuery) render(data.matches || [], q, data.total || 0);
             }).catch(function (e) {
                 if (e.name !== 'AbortError') clear();
             });
@@ -154,12 +162,10 @@ import { looksLikeMoves, movesLabel } from './lib/helpers.js';
             }
         });
 
-        // /search?q=… (the home page form without JavaScript, or a link).
-        const preset = new URLSearchParams(location.search).get('q');
-        if (preset && !input.form) {
-            input.value = preset;
-            lookup(preset.trim());
-        } else if (input.hasAttribute('data-name-search-prefilled') && input.value.trim().length >= 2) {
+        // A prefilled field suggests at once (the 404 page), except on
+        // /search?q=…, where the page itself lists every match.
+        const listedByPage = !input.form && new URLSearchParams(location.search).has('q');
+        if (!listedByPage && input.hasAttribute('data-name-search-prefilled') && input.value.trim().length >= 2) {
             lookup(input.value.trim());
         }
     }
@@ -190,4 +196,12 @@ import { looksLikeMoves, movesLabel } from './lib/helpers.js';
         }
     });
     if (location.hash === '#search' && inputs[0]) inputs[0].focus();
+
+    // On a phone the row of ranking links scrolls sideways: start it at the
+    // current page's link, which could be three screens to the right.
+    document.querySelectorAll('.ranking-nav strong').forEach(function (cur) {
+        const nav = cur.closest('.ranking-nav');
+        nav.scrollLeft += cur.getBoundingClientRect().left - nav.getBoundingClientRect().left
+            - (nav.clientWidth - cur.offsetWidth) / 2;
+    });
 })();

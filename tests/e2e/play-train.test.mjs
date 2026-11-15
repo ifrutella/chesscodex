@@ -73,6 +73,8 @@ test('play: a move on the board shows in the game list and the Lichess link', as
     assert.equal(after[3], 'd6');
     assert.ok((await page.$eval('#play-lichess', (a) => a.href)).includes('d6'));
 
+    // Mid-game, New game asks before it throws the game away.
+    page.once('dialog', (d) => d.accept());
     await page.click('#play-new');
     await page.waitForFunction(() => document.querySelectorAll('#play-moves li span:not(.move-no)').length <= 3);
     assert.deepEqual(page.problems, []);

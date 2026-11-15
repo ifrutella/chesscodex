@@ -111,9 +111,13 @@
     font-size: 0.9rem;
     color: var(--fg-soft);
 }
+/* Whose move it is and the result, right under the board: on a phone the
+   sidebar is a screen below. The line keeps its height so the buttons stay put. */
+.play-status-line { min-height: 1.5em; }
 .play-turn { margin: 0; color: var(--fg-soft); }
+.play-turn:empty { display: none; }
 .play-result {
-    margin: var(--space-2) 0 0;
+    margin: 0;
     padding: var(--space-2) var(--space-3);
     background: var(--accent-soft);
     border-radius: var(--radius-sm);
@@ -203,7 +207,7 @@
     .play-difficulty-desc { font-size: 0.82rem; }
     .play-board-wrap .board-controls { display: grid; grid-template-columns: 1fr 1fr; }
 }
-@media (min-width: 900px) {
+@media (min-width: 720px) {
     .play-grid,
     .identify-grid {
         grid-template-columns: minmax(0, 520px) minmax(300px, 1fr);
@@ -213,7 +217,7 @@
 }
 
 /* Train */
-.train-status { font-weight: 600; min-height: 1.5em; }
+.train-status { font-weight: 600; min-height: 1.5em; margin: 0; }
 .train-progress,
 .train-due,
 .train-help {
@@ -238,8 +242,9 @@
     border-radius: var(--radius-sm);
     color: var(--muted);
     font-size: .8rem;
-    padding: 2px 8px;
+    padding: 5px 10px;
 }
+.repertoire-undo { color: var(--muted); font-size: .9rem; margin: var(--space-2) 0; }
 .repertoire-actions { display: flex; flex-wrap: wrap; gap: var(--space-2); }
 .repertoire-empty p { margin: 0 0 var(--space-2); }
 .repertoire-start { color: var(--muted); font-size: 0.92rem; }

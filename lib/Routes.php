@@ -370,6 +370,10 @@ final class Routes
     public static function search(): void
     {
         global $baseUrl, $siteUrl;
+        // /search?q=…: every name that matches (the suggestion list under the field shows ten).
+        $q = $_GET['q'] ?? '';
+        $nameQuery   = is_string($q) && mb_strlen($q) <= 100 ? trim($q) : '';
+        $nameMatches = $nameQuery === '' ? [] : Opening::searchByName($nameQuery, PHP_INT_MAX);
         require __DIR__ . '/../templates/search.php';
     }
 

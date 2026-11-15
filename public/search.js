@@ -122,6 +122,16 @@ if (dataNode) {
         }
     }
 
+    // In one column the answer card is a screen below the board: repeat its
+    // first line above the board, whichever code path filled the card.
+    const matchLineEl = document.getElementById('search-match-line');
+    new MutationObserver(() => {
+        const matchEl = resultEl.querySelector('.search-match');
+        matchLineEl.textContent = matchEl.hidden
+            ? resultEl.querySelector('.search-empty').textContent
+            : matchEl.querySelector('.eco-tag').textContent + ' ' + matchEl.querySelector('.search-match-name').textContent;
+    }).observe(resultEl, { subtree: true, childList: true, characterData: true, attributes: true });
+
     const emptyText = resultEl.querySelector('.search-empty').textContent;
     function renderEmpty() {
         resultEl.dataset.state = 'empty';

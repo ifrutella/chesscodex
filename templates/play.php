@@ -55,6 +55,10 @@ $island = [
     <div class="play-grid">
         <div class="play-board-wrap">
             <div id="play-board" class="opening-board"></div>
+            <div class="play-status-line">
+                <p class="play-turn" aria-live="polite"></p>
+                <p class="play-result" hidden role="status" aria-live="assertive"></p>
+            </div>
             <div class="board-controls">
                 <button id="play-new" type="button"><?= htmlspecialchars(t('play.button.new'), ENT_QUOTES, 'UTF-8') ?></button>
                 <button id="play-undo" type="button"><?= htmlspecialchars(t('play.button.undo'), ENT_QUOTES, 'UTF-8') ?></button>
@@ -67,8 +71,6 @@ $island = [
         <aside class="play-sidebar">
             <section class="play-game" id="play-game">
                 <h2><?= htmlspecialchars(t('play.game'), ENT_QUOTES, 'UTF-8') ?></h2>
-                <p class="play-turn" aria-live="polite"></p>
-                <p class="play-result" hidden role="status" aria-live="assertive"></p>
                 <p class="play-eval" hidden></p>
                 <label class="play-eval-toggle"><input type="checkbox" id="play-show-eval"> Show the engine's evaluation</label>
                 <ol id="play-moves" class="move-list" aria-label="<?= htmlspecialchars(t('play.game'), ENT_QUOTES, 'UTF-8') ?>"></ol>

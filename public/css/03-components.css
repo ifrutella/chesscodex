@@ -332,6 +332,13 @@
 a.eco-tag:hover { color: var(--accent-hover); text-decoration: underline; }
 
 /* Prose sections */
+/* Running text keeps to a readable line, about 70 characters, on a wide screen. */
+.lede,
+.about-section p,
+.about-section ul,
+.description-body > p,
+.description-body > ul,
+.description-body > ol { max-width: 75ch; }
 .about-section { margin: var(--space-6) 0; }
 .about-section h2 { margin-bottom: var(--space-3); font-size: 1.25rem; margin-top: 0; }
 .about-section p { line-height: 1.65; margin: 0 0 var(--space-3); }
@@ -392,6 +399,18 @@ a.eco-tag:hover { color: var(--accent-hover); text-decoration: underline; }
 .move-input input[aria-invalid="true"] { border-color: var(--danger); }
 .move-input-hint, .move-input-msg { flex: 1 0 100%; margin: 0; font-size: 0.85rem; }
 .move-input-hint { color: var(--muted); }
+/* Touch screens: the placeholder shows the formats, and the hint's two lines
+   pushed the moves a screen down. Screen readers still get it. */
+@media (pointer: coarse) {
+    .move-input-hint {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip-path: inset(50%);
+        white-space: nowrap;
+    }
+}
 .move-input-msg { color: var(--fg-soft); min-height: 1.3em; }
 /* Dark theme: chessground's brown squares are made for light pages, so soften
    their brightness and add a soft shadow under the pieces. */
@@ -559,7 +578,21 @@ html .cg-wrap coords.squares { text-transform: none; }
     font-size: 0.78rem;
     font-variant-numeric: tabular-nums;
 }
-.search-by-name-empty { padding: 0.55rem 0.8rem; color: var(--muted); font-style: normal; }
+/* "Nothing matches": a panel where the suggestion list would open. */
+.search-by-name-empty {
+    position: absolute;
+    z-index: 5;
+    top: 100%;
+    left: 0;
+    right: 0;
+    margin: 0.25rem 0 0;
+    padding: 0.55rem 0.8rem;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border-strong);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    color: var(--muted);
+}
 /* Keyboard-highlighted row in the name autocomplete: matches the hover style,
    so mouse and arrow keys look the same. The option keeps the focus ring of
    the input (aria-activedescendant), so it also gets the keyboard outline. */
@@ -602,7 +635,8 @@ html .cg-wrap coords.squares { text-transform: none; }
     color: var(--muted);
     pointer-events: none;
 }
-.search-by-name-results .search-by-name-moves { color: var(--accent); font-weight: 500; }
+.search-by-name-results .search-by-name-moves,
+.search-by-name-results .search-by-name-all { color: var(--accent); font-weight: 500; }
 @keyframes codex-fadein {
     from { opacity: 0; transform: translateY(-4px); }
     to   { opacity: 1; transform: translateY(0); }
@@ -639,7 +673,7 @@ html .cg-wrap coords.squares { text-transform: none; }
 .fm-name.is-same { color: var(--muted); }
 .fm-move {
     font-family: var(--font-moves);
-    font-size: 0.85em;
+    font-size: max(0.75rem, 0.85em);
     font-weight: 600;
     color: var(--fg);
     white-space: nowrap;
@@ -871,3 +905,28 @@ html .cg-wrap coords.squares { text-transform: none; }
     html .opening-actions .board-cta, html .opening-tool-btn, html .opening-more summary,
     html .identify-paste button, html .identify-fen button { min-height: 44px; }
 }
+
+/* Links and summaries that stand alone are at least 24 px tall (WCAG 2.5.8).
+   Vertical padding on an inline link grows what can be tapped and leaves the
+   line where it was. */
+a.eco-tag,
+a.openings-letter-count,
+a.repertoire-toggle-label,
+.stats-move-line,
+.description-toc a,
+.eco-back a,
+.openings-families a,
+.gambits-up,
+.rankings-card-levels a,
+.parent-link a,
+.play-export a,
+.home-popular-more a,
+.footer-meta a,
+.opening-breadcrumb a { padding-block: 0.3rem; }
+a.eco-tag { min-width: 24px; }
+/* The header links are flex items, so their padding makes the header taller: a little is enough. */
+.site-nav a { padding-block: 0.15rem; }
+.trend-table summary,
+.identify-fen summary,
+.gambits-all summary { padding-block: 0.2rem; }
+.footer-links { line-height: 1.9; }

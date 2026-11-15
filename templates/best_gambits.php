@@ -53,7 +53,7 @@ ob_start();
     <section id="gambits-for-<?= $side ?>">
         <h2 class="ranking-heading">Gambits for <?= $sideName[$side] ?></h2>
         <div class="ranking-table-wrap">
-            <table class="ranking-table">
+            <table class="ranking-table ranking-stack">
                 <thead>
                     <tr>
                         <th class="ranking-num">#</th>
@@ -76,10 +76,10 @@ ob_start();
                             </a>
                         </td>
                         <td class="ranking-moves"><code><?= $esc($moves($r['pgn_moves'])) ?></code></td>
-                        <td class="ranking-num"><?= $esc(Rankings::compact($r['games'])) ?></td>
-                        <td class="ranking-num"><?= $pct($r['low']) ?></td>
-                        <td class="ranking-num"><?= $pct($r['high']) ?></td>
-                        <td class="ranking-num"<?= $e ? ' title="' . $esc(EngineEval::verdict($e)) . '"' : '' ?>><?= $e ? $esc(EngineEval::scoreText($e)) : '—' ?></td>
+                        <td class="ranking-num" data-unit="games"><?= $esc(Rankings::compact($r['games'])) ?></td>
+                        <td class="ranking-num" data-label="Under 1400"><?= $pct($r['low']) ?></td>
+                        <td class="ranking-num" data-label="2200+"><?= $pct($r['high']) ?></td>
+                        <td class="ranking-num" data-label="Stockfish"<?= $e ? ' title="' . $esc(EngineEval::verdict($e)) . '"' : '' ?>><?= $e ? $esc(EngineEval::scoreText($e)) : '—' ?></td>
                     </tr>
                 <?php endforeach; ?>
                 </tbody>

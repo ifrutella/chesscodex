@@ -136,7 +136,7 @@ class OpeningSearch
                  LIMIT :lim"
             );
             $stmt->bindValue(':e',   $ecoQuery, PDO::PARAM_STR);
-            $stmt->bindValue(':lim', max(1, min(50, $limit)), PDO::PARAM_INT);
+            $stmt->bindValue(':lim', max(1, $limit), PDO::PARAM_INT);
             $stmt->execute();
             return $stmt->fetchAll();
         }
@@ -236,7 +236,7 @@ class OpeningSearch
         // Several rows can share a name (one opening reached by different move
         // orders: four rows are "Sicilian Defense" — B20, B27 and B50 twice).
         // Suggest each name once, as its best-ranked (most-played) row.
-        $limit = max(1, min(50, $limit));
+        $limit = max(1, $limit);
         $byName = [];
         foreach ($scored as [, , , , $row]) {
             unset($row['key'], $row['starts'], $row['aliases']);

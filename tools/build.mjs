@@ -32,7 +32,7 @@ await build({
 
 // Everything but theme.js (applies the saved theme before first paint, so it must block, and
 // reads document.currentScript), home.js (blocking on purpose, same) and sw.js (a service worker).
-const modules = ['app', 'play', 'search', 'train', 'repertoire', 'opening', 'gambits', 'site', 'charts', 'admin'];
+const modules = ['app', 'play', 'search', 'train', 'repertoire', 'opening', 'gambits', 'ranking', 'site', 'charts', 'admin'];
 await build({
     entryPoints: modules.map((name) => `${pub}/${name}.js`),
     outdir: pub,

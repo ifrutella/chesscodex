@@ -23,16 +23,18 @@ trait RoutesApi
                 echo json_encode(['error' => 'Query too long']);
                 return;
             }
-            $matches = Opening::searchByName($name, 10);
+            // Ten suggestions and how many names match in all: /search?q= lists the rest.
+            $matches = Opening::searchByName($name, PHP_INT_MAX);
             echo json_encode([
                 'mode'    => 'name',
                 'query'   => $name,
+                'total'   => count($matches),
                 'matches' => array_map(static fn ($r) => [
                     'eco'   => $r['eco'],
                     'name'  => $r['name'],
                     'slug'  => $r['slug'],
                     'plies' => (int) $r['move_count'],
-                ], $matches),
+                ], array_slice($matches, 0, 10)),
             ]);
             return;
         }

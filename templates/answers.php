@@ -59,7 +59,7 @@ ob_start();
     <section id="answers-<?= $side ?>">
         <h2 class="ranking-heading"><?= $esc($heading) ?></h2>
         <div class="ranking-table-wrap">
-            <table class="ranking-table">
+            <table class="ranking-table ranking-stack">
                 <thead>
                     <tr>
                         <th><?= $sideName === 'Black' ? 'White plays' : 'Black plays' ?></th>
@@ -77,9 +77,9 @@ ob_start();
                                 <span><?= $esc($r['name']) ?></span>
                             </a>
                         </td>
-                        <td class="answers-move"><?= $move($r, $r['best']['san']) ?> <?= $pct($r['best']['score']) ?></td>
-                        <td class="answers-move"><?= $move($r, $r['most']['san']) ?> <?= $pct($r['most']['score']) ?></td>
-                        <td class="answers-move"><?= $r['engine'] !== null ? $move($r, $r['engine']) : '—' ?></td>
+                        <td class="answers-move" data-label="Best answer"><?= $move($r, $r['best']['san']) ?> <?= $pct($r['best']['score']) ?></td>
+                        <td class="answers-move" data-label="Most played"><?= $move($r, $r['most']['san']) ?> <?= $pct($r['most']['score']) ?></td>
+                        <td class="answers-move" data-label="Stockfish"><?= $r['engine'] !== null ? $move($r, $r['engine']) : '—' ?></td>
                     </tr>
                 <?php endforeach; ?>
                 </tbody>

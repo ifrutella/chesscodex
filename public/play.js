@@ -396,7 +396,12 @@ if (dataNode) {
     }
 
     // ---------------- Controls -----------------------------------------------
+    // Mid-game (each side has moved, no result yet), the buttons that throw
+    // the game away ask first.
+    const sure = (question) => !resultEl.hidden || chess.history().length < 2 || window.confirm(question);
+
     document.getElementById('play-new').addEventListener('click', () => {
+        if (!sure('Start a new game? This one will be lost.')) return;
         stopEngine();
         chess.load(startFen);
         clearGame();
@@ -451,6 +456,7 @@ if (dataNode) {
                 board.set({ orientation: userColor });
                 return;
             }
+            if (!sure('Switch sides? This game will be lost.')) return;
             stopEngine();
             // Reset to the opening's final position so the new side gets a
             // fresh game, not the middle of the previous one.
@@ -473,6 +479,7 @@ if (dataNode) {
     syncColorPickUi();
 
     document.getElementById('play-resign').addEventListener('click', () => {
+        if (!sure('Resign this game?')) return;
         stopEngine();
         const winner = userColor === 'white' ? 'Black' : 'White';
         renderResult('You resigned. ' + winner + ' wins.');

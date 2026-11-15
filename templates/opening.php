@@ -259,6 +259,10 @@ $baseEsc = htmlspecialchars($baseUrl, ENT_QUOTES, 'UTF-8');
                                 </a>
                             </li>
                         <?php endforeach; ?>
+                        <?php /* The sources sit at the foot of the page, far below the text they back. */ ?>
+                        <?php if ($sourcesHtml !== ''): ?>
+                            <li class="description-toc-<?= $toc[0]['level'] ?>"><a href="#opening-sources-title">Sources</a></li>
+                        <?php endif; ?>
                     </ol>
                 </nav>
             <?php endif; ?>

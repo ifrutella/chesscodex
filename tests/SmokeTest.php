@@ -28,6 +28,7 @@ final class SmokeTest extends TestCase
             '/gambits'                       => ['/gambits', 200, 'Gambit'],
             '/openings/sicilian-defense'     => ['/openings/sicilian-defense', 200, 'Sicilian'],
             '/search'                        => ['/search', 200, 'search'],
+            '/search?q='                     => ['/search?q=najdorf', 200, 'openings match'],
             '/play/sicilian-defense'         => ['/play/sicilian-defense', 200, 'Stockfish'],
             '/random'                        => ['/random', 302, ''],
             '/robots.txt'                    => ['/robots.txt', 200, 'Sitemap:'],

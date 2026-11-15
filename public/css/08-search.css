@@ -82,7 +82,17 @@
 .search-fen button:active { transform: scale(0.97); }
 .search-paste-status { margin: var(--space-2) 0 0; font-size: 0.9rem; color: var(--muted); }
 .search-about { text-align: left; margin-top: var(--space-8); }
+/* /search?q=…: every name that matches. */
+.search-names { margin-top: var(--space-6); }
+.search-names h2 { font-size: 1.35rem; margin: 0 0 var(--space-3); }
+.search-names p { color: var(--muted); margin: 0 0 var(--space-3); }
 .search-board-wrap { display: flex; flex-direction: column; gap: var(--space-3); }
+/* The answer above the board while the layout is one column; two lines are
+   kept so the board does not jump when a long name arrives. */
+.search-match-line { margin: 0; min-height: 3em; font-weight: 600; display: flex; align-items: flex-end; }
+@media (min-width: 720px) {
+    .search-match-line { display: none; }
+}
 .search-result[data-state="error"] .search-empty { color: var(--danger); font-style: normal; }
 .search-match-link {
     display: flex;

@@ -20,6 +20,22 @@ import { norm } from './lib/helpers.js';
         })),
     }));
     const total = groups.reduce((n, g) => n + g.items.length, 0);
+
+    // On a phone the groups start folded: open, the list is some eighty
+    // screens long. The contents links and the address open their group.
+    const fold = matchMedia('(max-width: 640px)').matches;
+    const openGroup = (hash) => {
+        const el = hash.length > 1 ? document.getElementById(decodeURIComponent(hash.slice(1))) : null;
+        if (el && el.tagName === 'DETAILS') el.open = true;
+    };
+    if (fold) {
+        for (const g of groups) g.el.open = false;
+        openGroup(location.hash);
+        nav?.addEventListener('click', (e) => {
+            const a = e.target.closest('a[href^="#"]');
+            if (a) openGroup(a.hash);
+        });
+    }
     for (const g of groups) g.label = g.count ? g.count.textContent : '';
     const fmt = (n) => n.toLocaleString('en');
 
@@ -34,6 +50,7 @@ import { norm } from './lib/helpers.js';
                 if (ok) n++;
             }
             g.el.hidden = n === 0;
+            if (fold) g.el.open = words.length > 0;
             if (g.count) g.count.textContent = words.length ? `${n} of ${g.items.length}` : g.label;
             shown += n;
         }

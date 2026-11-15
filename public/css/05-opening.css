@@ -225,7 +225,7 @@ body:not(.has-board) .opening-board:empty { display: none; }
 .board-explore a { font-weight: 500; }
 .opening-grid > .opening-levels { margin-top: 0; }
 .opening-grid > .opening-levels > h2 { margin-top: 0; }
-@media (min-width: 900px) {
+@media (min-width: 720px) {
     .opening-grid {
         align-items: start;
         grid-template-columns: minmax(0, 520px) minmax(0, 1fr);
@@ -242,8 +242,9 @@ body:not(.has-board) .opening-board:empty { display: none; }
     .opening-grid:not(:has(> .opening-levels)) { grid-template-rows: auto 1fr; }
     .opening-grid > .opening-levels { grid-column: 1; grid-row: 3; }
 }
-@media (max-width: 768px) {
-    .opening-grid { grid-template-columns: 1fr; }
+/* A tablet in portrait: two equal columns, the board as wide as its half. */
+@media (min-width: 720px) and (max-width: 899px) {
+    .opening-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: var(--space-5); }
 }
 @media (hover: none) {
     .opening-board-wrap .board-hint { display: none; }
@@ -427,7 +428,7 @@ body:not(.has-board) .opening-board:empty { display: none; }
         margin: 0;
     }
 }
-@media (min-width: 900px) and (max-width: 1023px) {
+@media (min-width: 720px) and (max-width: 1023px) {
     .opening-stats .n-long { display: none; }
     .opening-stats .n-short { display: inline; }
 }
@@ -626,12 +627,6 @@ body:not(.has-board) .opening-board:empty { display: none; }
 .description-toc-h3::before { content: '·'; color: var(--border-strong); }
 .description-toc a { color: var(--accent); text-decoration: none; }
 .description-toc a:hover { text-decoration: underline; }
-/* Scroll margin, so anchored H2/H3 headings sit below the sticky header when
-   reached from the table of contents. */
-.description-body h2,
-.description-body h3 {
-    scroll-margin-top: 80px;
-}
 
 /* Recently viewed strip */
 /* Recently viewed: a compact strip on the opening page and a full section on
@@ -732,6 +727,20 @@ body:not(.has-board) .opening-board:empty { display: none; }
     color: var(--muted);
     font-size: 0.78rem;
     font-variant-numeric: tabular-nums;
+}
+.opening-subtree-list.is-filtered li { margin-left: 0; }
+/* Phone: six levels of full indent leave "Sicilian Defense: Dr…" of a name,
+   so the indent is halved and the name may take two lines. */
+@media (max-width: 540px) {
+    .opening-subtree-list li { margin-left: calc(var(--depth-indent, 0) * 0.6rem); }
+    .opening-subtree-list.is-filtered li { margin-left: 0; }
+    .opening-subtree-name {
+        white-space: normal;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        line-height: 1.3;
+    }
 }
 .opening-related h2 {
     display: flex;

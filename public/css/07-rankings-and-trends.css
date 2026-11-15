@@ -34,6 +34,11 @@
     white-space: nowrap;
     font-variant-numeric: tabular-nums;
 }
+/* A column name sorts the table (public/ranking.js); the mark shows which way. */
+.sortable thead th:not(.no-sort) { cursor: pointer; }
+.sortable thead th:not(.no-sort):hover { color: var(--fg); }
+.sortable thead th[aria-sort="descending"]::after { content: ' ▾'; }
+.sortable thead th[aria-sort="ascending"]::after { content: ' ▴'; }
 .ranking-name a { display: inline-flex; align-items: baseline; gap: var(--space-2); }
 .ranking-moves code {
     font-family: var(--font-moves);
@@ -133,6 +138,42 @@
     .ranking-nav > span:first-child { align-self: center; }
     .ranking-trend .spark { display: none; }
     .ranking-trend-change { min-width: 0; }
+
+    /* Stacked rows: the name gets the whole first line, the numbers follow
+       with their column names (data-label), since the header row is hidden. */
+    .ranking-stack,
+    .ranking-stack tbody { display: block; }
+    .ranking-stack thead {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip-path: inset(50%);
+    }
+    .ranking-stack tr {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 2px var(--space-3);
+        padding: var(--space-2) 0;
+        border-bottom: 1px solid var(--border);
+    }
+    .ranking-stack td[data-unit]::after {
+        content: ' ' attr(data-unit);
+        color: var(--muted);
+        font-size: .8rem;
+    }
+    .ranking-table.ranking-stack td { padding: 0; border: 0; }
+    .ranking-stack td:first-child:not(.ranking-name) { color: var(--muted); }
+    .ranking-stack .ranking-name { flex: 1 1 calc(100% - 3.5rem); min-width: 0; font-weight: 500; }
+    .ranking-stack .ranking-name:first-child { flex-basis: 100%; }
+    .ranking-stack .ranking-name .eco-tag { display: inline-block; }
+    .ranking-stack td[data-label]::before {
+        content: attr(data-label) ' ';
+        color: var(--muted);
+        font-size: .8rem;
+    }
+    .ranking-stack .ranking-result { flex-direction: row; align-items: center; gap: var(--space-2); }
 }
 @media (max-width: 1000px) {
     .ranking-moves { display: none; }
@@ -160,6 +201,16 @@
     align-items: baseline;
     flex-wrap: wrap;
     gap: var(--space-2);
+}
+/* A group is a <details>, open unless gambits.js folds it on a phone. The
+   marker shows only there. */
+.gambits-all summary { list-style: none; }
+.gambits-all summary::-webkit-details-marker { display: none; }
+.gambits-all summary h3 { margin: 0; }
+@media (max-width: 640px) {
+    .gambits-all summary { cursor: pointer; }
+    .gambits-all summary h3::before { content: '+'; color: var(--muted); font-weight: 400; width: 1ch; }
+    .gambits-all details[open] > summary h3::before { content: '−'; }
 }
 .gambits-filter {
     display: flex;

@@ -1,6 +1,8 @@
 <?php
 /** @var string $baseUrl */
 /** @var string $siteUrl */
+/** @var string $nameQuery                          the ?q= text, '' without one */
+/** @var list<array<string, mixed>> $nameMatches    every name that matches it, best first */
 ob_start();
 $baseEsc = htmlspecialchars($baseUrl, ENT_QUOTES, 'UTF-8');
 ?>
@@ -11,9 +13,35 @@ $baseEsc = htmlspecialchars($baseUrl, ENT_QUOTES, 'UTF-8');
         <?php
         $nameSearchId = 'search-name';
         $nameSearchLabel = 'By name or ECO code';
+        $nameSearchValue = $nameQuery;
         require __DIR__ . '/partials/name_search.php';
         ?>
     </header>
+
+    <?php if ($nameQuery !== ''):
+        $nameTotal = count($nameMatches);
+        $nameQuoted = '“' . htmlspecialchars($nameQuery, ENT_QUOTES, 'UTF-8') . '”'; ?>
+        <section class="search-names" aria-labelledby="search-names-title">
+            <h2 id="search-names-title"><?= $nameTotal === 0 ? 'No openings match ' . $nameQuoted
+                : number_format($nameTotal) . ($nameTotal === 1 ? ' opening matches ' : ' openings match ') . $nameQuoted ?></h2>
+            <?php if ($nameTotal === 0): ?>
+                <p>Try fewer words, or identify the opening from its moves below.</p>
+            <?php elseif ($nameTotal > 200): ?>
+                <p>The first 200 are listed. Add a word to shorten the list.</p>
+            <?php endif; ?>
+            <ul class="child-list">
+                <?php foreach (array_slice($nameMatches, 0, 200) as $m): ?>
+                    <li>
+                        <a href="<?= $baseEsc . htmlspecialchars('/openings/' . $m['slug'], ENT_QUOTES, 'UTF-8') ?>">
+                            <span class="eco-tag"><?= htmlspecialchars($m['eco'], ENT_QUOTES, 'UTF-8') ?></span>
+                            <span class="child-list-name"><?= htmlspecialchars($m['name'], ENT_QUOTES, 'UTF-8') ?></span>
+                            <span class="child-list-plies"><?= Opening::movesLabel((int) $m['move_count']) ?></span>
+                        </a>
+                    </li>
+                <?php endforeach; ?>
+            </ul>
+        </section>
+    <?php endif; ?>
 
     <?php /* One tool for moves: the board and the paste box feed the same lookup,
              and its answer sits between them. FEN search folds away under it. */ ?>
@@ -21,6 +49,8 @@ $baseEsc = htmlspecialchars($baseUrl, ENT_QUOTES, 'UTF-8');
         <h2 class="identify-title" id="identify-title">Or identify it from the moves</h2>
         <div class="identify-grid">
             <div class="search-board-wrap">
+                <?php /* One column (phone): the answer in a line above the board; the card is a screen below. */ ?>
+                <p class="search-match-line" id="search-match-line" aria-hidden="true"><?= htmlspecialchars(t('search.empty'), ENT_QUOTES, 'UTF-8') ?></p>
                 <div id="search-board" class="opening-board"></div>
                 <div class="board-controls">
                     <button id="search-undo" type="button"><?= htmlspecialchars(t('search.board.undo'), ENT_QUOTES, 'UTF-8') ?></button>
@@ -140,6 +170,7 @@ $description = t('search.lede');
 // Indexable: it's the page for "which opening is this?" searches. Links with
 // ?moves=… all point their canonical here.
 $canonical = $siteUrl . $baseUrl . '/search';
+$noindex = $nameQuery !== '';
 $jsonLd = [
     '@context' => 'https://schema.org',
     '@graph'   => [

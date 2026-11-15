@@ -76,6 +76,8 @@ import { movesLabel, shortName, fold } from './lib/helpers.js';
             if (hit) shown++;
         });
         none.hidden = shown > 0;
+        // A filtered list is flat: the rows a hit was indented under are hidden.
+        document.querySelectorAll('.opening-subtree-list').forEach((ul) => ul.classList.toggle('is-filtered', words.length > 0));
     });
 })();
 

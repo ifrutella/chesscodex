@@ -141,7 +141,7 @@ body > .container { flex: 1 0 auto; width: 100%; }
     .site-nav a { white-space: nowrap; }
 }
 @media (max-width: 440px) {
-    .site-nav .nav-random { display: none; }
+    .site-nav .nav-train { display: none; }
 }
 
 /* Footer */
@@ -176,7 +176,6 @@ body > .container { flex: 1 0 auto; width: 100%; }
 .footer-links-label { color: var(--fg-soft); font-weight: 600; margin-right: 0.3rem; }
 .footer-links a { color: var(--fg-soft); }
 .footer-links a:hover { color: var(--accent); }
-.footer-links a,
-.footer-credit {
+.footer-links a {
     white-space: nowrap;
 }

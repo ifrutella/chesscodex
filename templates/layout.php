@@ -202,9 +202,7 @@ $asset = static function (string $path) use ($baseEsc, $projectRoot): string {
                     <?= $esc(t('nav.search')) ?>
                     <kbd class="kbd-hint" aria-hidden="true">/</kbd>
                 </a>
-                <a class="nav-random" href="<?= $baseEsc . $esc('/random') ?>" title="Jump to a random opening" rel="nofollow">
-                    Random
-                </a>
+                <a class="nav-train" href="<?= $baseEsc . $esc('/train') ?>" title="Practise an opening's moves from memory"<?= $navAria('/train') ?>>Trainer</a>
                 <a href="<?= $baseEsc . $esc('/repertoire') ?>" title="The lines you saved, to drill and download" rel="nofollow"<?= $navAria('/repertoire') ?>>Repertoire</a>
                 <?php if ($adminPending !== null): ?>
                 <a class="admin-link" href="<?= $baseEsc ?>/admin">
@@ -217,8 +215,8 @@ $asset = static function (string $path) use ($baseEsc, $projectRoot): string {
             </nav>
             <button class="theme-toggle" type="button" aria-label="<?= $esc(t('nav.toggle_theme.dark')) ?>" id="theme-toggle"
                     data-label-dark="<?= $esc(t('nav.toggle_theme.dark')) ?>" data-label-light="<?= $esc(t('nav.toggle_theme.light')) ?>">
-                <span class="theme-icon-light" aria-hidden="true">&#9728;</span>
-                <span class="theme-icon-dark" aria-hidden="true">&#9790;</span>
+                <span class="theme-icon-light" aria-hidden="true">&#9728;&#xFE0E;</span>
+                <span class="theme-icon-dark" aria-hidden="true">&#9790;&#xFE0E;</span>
             </button>
         </div>
     </header>
@@ -252,7 +250,8 @@ $asset = static function (string $path) use ($baseEsc, $projectRoot): string {
                 <a href="<?= $baseEsc . $esc('/eco') ?>">ECO codes</a>,
                 <?php foreach (Rankings::LABELS as $fPath => $fLabel): ?><a href="<?= $baseEsc . $esc('/' . $fPath) ?>"><?= $esc($fLabel) ?></a>, <?php endforeach; ?>
                 <a href="<?= $baseEsc . $esc('/search') ?>">Opening identifier</a>,
-                <a href="<?= $baseEsc . $esc('/train') ?>">Opening trainer</a>
+                <a href="<?= $baseEsc . $esc('/train') ?>">Opening trainer</a>,
+                <a href="<?= $baseEsc . $esc('/random') ?>" rel="nofollow">A random opening</a>
             </p>
         </nav>
         <?php endif; ?>
