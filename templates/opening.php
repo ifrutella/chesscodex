@@ -218,6 +218,9 @@ $baseEsc = htmlspecialchars($baseUrl, ENT_QUOTES, 'UTF-8');
                                   data-placeholder-report="The line is also called …, and the ECO code should be …"
                                   placeholder="### Origin&#10;…&#10;&#10;### Strategic ideas&#10;…"></textarea>
                     </label>
+                    <?php if ($turnstile = Turnstile::config()): // the widget: app.js loads Cloudflare's script when the form opens ?>
+                        <div class="suggest-turnstile" data-sitekey="<?= htmlspecialchars($turnstile['site_key']) ?>"></div>
+                    <?php endif; ?>
                     <p class="suggest-actions">
                         <button type="submit">Send</button>
                         <span class="suggest-status" aria-live="polite"></span>

@@ -250,6 +250,22 @@ trait RoutesApi
             echo json_encode(['error' => 'Email address looks invalid.']);
             return;
         }
+        // Cloudflare Turnstile, last: the form's widget gives one token per send.
+        $turnstile = Turnstile::config();
+        if ($turnstile !== null) {
+            $token = (string) ($_POST[Turnstile::FIELD] ?? '');
+            $why = Turnstile::verify($turnstile, $token, $_SERVER['REMOTE_ADDR'] ?? null);
+            if ($why !== null) {
+                error_log('Suggestion refused by Turnstile (' . ($_SERVER['REMOTE_ADDR'] ?? '?') . '): ' . $why);
+                http_response_code(403);
+                echo json_encode(['error' => match (true) {
+                    $token === ''         => 'Please complete the anti-spam check above the Send button.',
+                    $why === 'unreachable' => 'The anti-spam check could not be completed. Please try again in a minute.',
+                    default               => 'The anti-spam check failed. Please try again.',
+                }]);
+                return;
+            }
+        }
 
         try {
             $id = Submissions::create(

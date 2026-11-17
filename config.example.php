@@ -30,6 +30,15 @@ return [
     // Format: lip_XXXXXXXXXXXXXXXXXXXX
     'lichess_token' => '',
 
+    // Cloudflare Turnstile on the suggestion form (dashboard → Turnstile).
+    // Empty keys = no widget and no check. hostname is what siteverify must
+    // report: the site's host (Cloudflare's test keys always report example.com).
+    'turnstile' => [
+        'site_key' => '',
+        'secret'   => '',
+        'hostname' => 'chesscodex.org',
+    ],
+
     // Admin credentials for the /admin description-review panel.
     // Generate the hash on any machine with PHP installed via:
     //   php -r "echo password_hash('your-password', PASSWORD_BCRYPT, ['cost' => 12]) . PHP_EOL;"

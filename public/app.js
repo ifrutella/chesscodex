@@ -302,6 +302,29 @@ async function copyToClipboard(text) {
     };
     form.querySelectorAll('input[name="kind"]').forEach((r) => r.addEventListener('change', syncKind));
     syncKind();
+    // Cloudflare Turnstile (only when the page has its box): the script loads
+    // the first time the form is opened, not on every opening page.
+    const box = form.querySelector('.suggest-turnstile');
+    const panel = form.closest('details');
+    let widgetId = null;
+    const loadTurnstile = () => {
+        if (!box || !panel.open || box.dataset.loaded) return;
+        box.dataset.loaded = '1';
+        const s = document.createElement('script');
+        s.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit';
+        s.onload = () => {
+            widgetId = window.turnstile.render(box, {
+                sitekey: box.dataset.sitekey,
+                theme: document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light',
+                size: 'flexible',
+            });
+        };
+        document.head.appendChild(s);
+    };
+    if (panel) {
+        panel.addEventListener('toggle', loadTurnstile);
+        loadTurnstile();
+    }
     form.addEventListener('submit', async (e) => {
         e.preventDefault();
         status.textContent = 'Sending…';
@@ -331,6 +354,8 @@ async function copyToClipboard(text) {
             status.dataset.state = 'error';
         } finally {
             button.disabled = false;
+            // A token is good for one send: a fresh check for the next one.
+            if (widgetId !== null) window.turnstile.reset(widgetId);
         }
     });
 })();

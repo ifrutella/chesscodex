@@ -89,6 +89,8 @@ final class AdminTest extends TestCase
             'opening_id' => (string) $openingId,
             'markdown'   => $text,
             'name'       => 'Admin test',
+            // Cloudflare's dummy token: the local copy's test secret passes it.
+            'cf-turnstile-response' => 'XXXX.DUMMY.TOKEN.XXXX',
         ]);
         $this->assertSame(200, $status, $body);
         $json = json_decode($body, true);
@@ -139,6 +141,12 @@ final class AdminTest extends TestCase
             'opening_id' => (string) $openingId,
             'markdown'   => "Cross-site post, $tag. It is long enough to be accepted by the form.",
         ], ['Sec-Fetch-Site: cross-site']);
+        $this->assertSame(403, $status);
+        // So is one without a Turnstile token.
+        [$status] = $this->request('/api/suggest', [
+            'opening_id' => (string) $openingId,
+            'markdown'   => "No Turnstile token, $tag. It is long enough to be accepted by the form.",
+        ]);
         $this->assertSame(403, $status);
 
         // They show on the dashboard and on their review pages.

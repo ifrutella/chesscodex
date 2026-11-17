@@ -88,9 +88,11 @@ ob_start();
     <section class="about-section">
         <h2>Privacy</h2>
         <p>
-            No ad trackers and no cookies for analytics. The only third-party script is
-            Cloudflare Web Analytics, which counts page views without cookies or
-            fingerprinting. The site stores
+            No ad trackers and no cookies for analytics. Every page loads one third-party
+            script, Cloudflare Web Analytics, which counts page views without cookies or
+            fingerprinting. The suggestion form adds a second, Cloudflare Turnstile, when
+            you open it. Turnstile checks that a person is sending the form, so it passes
+            some details about your browser to Cloudflare; at most it asks you to tick a box. The site stores
             a single cookie only if you log in as admin (that's not you).
         </p>
         <p>
@@ -105,7 +107,7 @@ ob_start();
             Your repertoire, practice progress, recently viewed openings, engine level and
             theme are kept in your browser's local storage and never leave your device.
         <p>
-            Apart from the nightly backup, the only outbound requests the site makes are to <code>lichess.org</code> for
+            Apart from the nightly backup and the Turnstile check on each sent suggestion, the only outbound requests the site makes are to <code>lichess.org</code> for
             opening statistics, and only from the server: your browser never talks to Lichess
             directly, unless you open a line in Lichess yourself.
         </p>

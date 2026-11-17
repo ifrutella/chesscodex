@@ -58,6 +58,8 @@ return [
     'site_url'      => 'http://127.0.0.1:$PORT',
     'seed_token'    => 'local',
     'lichess_token' => '',
+    // Cloudflare's test keys: this secret always passes (2x0000000000000000000000000000000AA always fails).
+    'turnstile'     => ['site_key' => '1x00000000000000000000AA', 'secret' => '1x0000000000000000000000000000000AA', 'hostname' => 'example.com'],
     'admin'         => ['username' => 'CHANGE_ME', 'password_hash' => 'CHANGE_ME'],
 ];
 PHP
