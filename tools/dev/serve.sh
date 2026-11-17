@@ -7,7 +7,7 @@
 # newest backup, so nothing touches the live site.
 #
 #   bash tools/dev/serve.sh              copy the code, start the server
-#   bash tools/dev/serve.sh --sync       only re-copy the code (server keeps running)
+#   bash tools/dev/serve.sh --sync       only rebuild and re-copy the code (server keeps running)
 #   bash tools/dev/serve.sh --fresh-db   pull the newest DB backup from the server first
 #
 # Needs PHP 8.3+ with pdo_sqlite (loaded with -d when it isn't on by default).
@@ -28,6 +28,9 @@ if [ "$MODE" = "--fresh-db" ] || ! ls backups/chesscodex-*.sqlite.gz >/dev/null 
 fi
 
 mkdir -p "$DEV"
+# The copy serves the built *.min.* files: build them first, or a CSS or JS edit
+# does not show up.
+node tools/build.mjs
 # Files kept only in this checkout (listed in .git/info/exclude) are left out too.
 LOCAL_ONLY=(); [ -f .git/info/exclude ] && LOCAL_ONLY=(--exclude-from=.git/info/exclude)
 tar "${LOCAL_ONLY[@]}" --exclude=.git --exclude=.dev --exclude=deploy --exclude=docs \
